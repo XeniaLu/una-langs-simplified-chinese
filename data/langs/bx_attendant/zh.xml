@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-	<string name="_bx_attendant"><![CDATA[Attendant]]></string>
-  <string name="_bx_attendant_adm_stg_cpt_type"><![CDATA[Attendant]]></string>
-  <string name="_bx_attendant_adm_stg_cpt_category_on_profile_creation"><![CDATA[Popup with recomended profiles on profile add]]></string>
-  <string name="_bx_attendant_adm_stg_on_profile_creation_modules_list"><![CDATA[Modules list]]></string>
-  <string name="_bx_attendant_adm_stg_on_profile_after_action_url"><![CDATA[Url for redirect after shows]]></string>
-  <string name="_bx_attendant_adm_stg_on_profile_creation_event_list"><![CDATA[Show popup after]]></string>
-  <string name="_bx_attendant_popup_with_recommended_title_default"><![CDATA[Default title]]></string>
-  <string name="_bx_attendant_popup_with_recommended_description_default"><![CDATA[Default description]]></string>
-  <string name="_bx_attendant_popup_with_recommended_button_text"><![CDATA[Contunie]]></string>
-  <string name="_bx_attendant_popup_event_after_registration"><![CDATA[sign-up]]></string>
-  <string name="_bx_attendant_popup_event_after_confirmation"><![CDATA[account confirmation]]></string>
+	<string name="_bx_attendant"><![CDATA[参与者]]></string>
+  <string name="_bx_attendant_adm_stg_cpt_type"><![CDATA[参与者]]></string>
+  <string name="_bx_attendant_adm_stg_cpt_category_on_profile_creation"><![CDATA[当有新人加入时，在推荐列表中显示]]></string>
+  <string name="_bx_attendant_adm_stg_on_profile_creation_modules_list"><![CDATA[模块列表]]></string>
+  <string name="_bx_attendant_adm_stg_on_profile_after_action_url"><![CDATA[出现后的重定向链接]]></string>
+  <string name="_bx_attendant_adm_stg_on_profile_creation_event_list"><![CDATA[显示弹窗当]]></string>
+  <string name="_bx_attendant_popup_with_recommended_title_default"><![CDATA[默认标题]]></string>
+  <string name="_bx_attendant_popup_with_recommended_description_default"><![CDATA[默认描述]]></string>
+  <string name="_bx_attendant_popup_with_recommended_button_text"><![CDATA[继续]]></string>
+  <string name="_bx_attendant_popup_event_after_registration"><![CDATA[注册]]></string>
+  <string name="_bx_attendant_popup_event_after_confirmation"><![CDATA[账号确认]]></string>
 </resources>
