@@ -21,7 +21,7 @@
     <string name="_bx_albums_form_entry_display_edit"><![CDATA[编辑相册]]></string>
 	<string name="_bx_albums_form_entry_display_add_images"><![CDATA[添加图片到相册]]></string>
 	<string name="_bx_albums_form_entry_display_delete"><![CDATA[删除相册]]></string>
-	<string name="_bx_albums_form_entry_display_view"><![CDATA[浏览相册]]></string>
+	<string name="_bx_albums_form_entry_display_view"><![CDATA[查看相册]]></string>
 	<string name="_bx_albums_form_entry_input_author"><![CDATA[作者]]></string>
 	<string name="_bx_albums_form_entry_input_sys_do_submit"><![CDATA[提交]]></string>
 	<string name="_bx_albums_form_entry_input_do_submit"><![CDATA[提交]]></string>
@@ -56,7 +56,7 @@
 
 	<string name="_bx_albums_acl_action_create_entry"><![CDATA[创建相册]]></string>
 	<string name="_bx_albums_acl_action_delete_entry"><![CDATA[删除相册]]></string>
-	<string name="_bx_albums_acl_action_view_entry"><![CDATA[浏览相册]]></string>
+	<string name="_bx_albums_acl_action_view_entry"><![CDATA[查看相册]]></string>
 	<string name="_bx_albums_acl_action_set_thumb"><![CDATA[设置相册封面]]></string>
 	<string name="_bx_albums_acl_action_edit_any_entry"><![CDATA[编辑任何相册]]></string>
 
@@ -72,11 +72,11 @@
     <string name="_bx_albums_page_title_sys_delete_entry"><![CDATA[删除]]></string>
     <string name="_bx_albums_page_title_delete_entry"><![CDATA[删除]]></string>
     <string name="_bx_albums_page_block_title_delete_entry"><![CDATA[删除]]></string>
-	<string name="_bx_albums_page_title_sys_view_entry"><![CDATA[浏览相册]]></string>
+	<string name="_bx_albums_page_title_sys_view_entry"><![CDATA[查看相册]]></string>
 	<string name="_bx_albums_page_title_view_entry"><![CDATA[{标题}]]></string>
-	<string name="_bx_albums_page_title_sys_view_media"><![CDATA[浏览图片]]></string>
+	<string name="_bx_albums_page_title_sys_view_media"><![CDATA[查看图片]]></string>
 	<string name="_bx_albums_page_title_view_media"><![CDATA[{标题}]]></string>
-	<string name="_bx_albums_page_block_title_entry_view_media"><![CDATA[浏览图片]]></string>
+	<string name="_bx_albums_page_block_title_entry_view_media"><![CDATA[查看图片]]></string>
 	<string name="_bx_albums_page_block_title_entry_view_media_exif"><![CDATA[EXIF]]></string>
 	<string name="_bx_albums_page_block_title_entry_attachments"><![CDATA[附件]]></string>
 	<string name="_bx_albums_page_block_title_entry_text"><![CDATA[相册描述]]></string>
@@ -194,7 +194,7 @@
     <string name="_bx_albums_menu_item_title_edit_image"><![CDATA[编辑图片]]></string>
     <string name="_bx_albums_menu_item_title_system_delete_entry"><![CDATA[删除]]></string>
     <string name="_bx_albums_menu_item_title_delete_entry"><![CDATA[删除]]></string>
-    <string name="_bx_albums_menu_item_title_system_view_entry"><![CDATA[浏览相册]]></string>
+    <string name="_bx_albums_menu_item_title_system_view_entry"><![CDATA[查看相册]]></string>
     <string name="_bx_albums_menu_item_title_system_entries_home"><![CDATA[相册]]></string>
     <string name="_bx_albums_menu_item_title_entries_home"><![CDATA[相册]]></string>
     <string name="_bx_albums_menu_item_title_system_entries_recent"><![CDATA[最新的]]></string>
@@ -211,8 +211,8 @@
     <string name="_bx_albums_menu_item_title_entries_top"><![CDATA[最佳的]]></string>
     <string name="_bx_albums_menu_item_title_system_entries_top_media"><![CDATA[最佳的图片]]></string>
     <string name="_bx_albums_menu_item_title_entries_top_media"><![CDATA[最佳的图片]]></string>
-    <string name="_bx_albums_menu_title_view_entry_submenu"><![CDATA[浏览相册子菜单]]></string>
-    <string name="_bx_albums_menu_set_title_view_entry_submenu"><![CDATA[浏览相册子菜单]]></string>
+    <string name="_bx_albums_menu_title_view_entry_submenu"><![CDATA[查看相册子菜单]]></string>
+    <string name="_bx_albums_menu_set_title_view_entry_submenu"><![CDATA[查看相册子菜单]]></string>
     <string name="_bx_albums_menu_item_title_view_entry_submenu_entry"><![CDATA[相册]]></string>
     <string name="_bx_albums_menu_item_title_view_entry_submenu_comments"><![CDATA[评论]]></string>
     <string name="_bx_albums_menu_item_title_system_view_entry_comments"><![CDATA[评论]]></string>
@@ -283,7 +283,7 @@
     <string name="_bx_albums_txt_media_album_shutter_speed"><![CDATA[曝光时长]]></string>
     <string name="_bx_albums_txt_media_album_shutter_speed_value"><![CDATA[{0}s]]></string>
     <string name="_bx_albums_txt_media_album_iso"><![CDATA[ISO]]></string>
-    <string name="_bx_albums_txt_processing_awaiting"><![CDATA[视频转换完成后立即发布。]]></string>
+    <string name="_bx_albums_txt_processing_awaiting"><![CDATA[视频转换完成后立即发布]]></string>
     <string name="_bx_albums_txt_processing_failed"><![CDATA[由于视频转换失败导致相册未能发布，请编辑视频以解决此问题。]]></string>
 
     <string name="_bx_albums_txt_err_cannot_perform_action"><![CDATA[无法执行该操作。请报告。]]></string>
