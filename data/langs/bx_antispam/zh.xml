@@ -4,85 +4,85 @@
 	<string name="_bx_antispam"><![CDATA[反垃圾邮件]]></string>
     <string name="_bx_antispam_help"><![CDATA[帮助]]></string>
     <string name="_bx_antispam_help_text">
-      <![CDATA[This module allows to limit spam on the site, there are different build-in tools for this:
+      <![CDATA[该模块用于限制站点中的垃圾邮件，对此，我们有几种不同的内置工具：
 <ul>
-    <li><b>IP table</b> - manual IP blocking/whitelisting</li>
-    <li><b>DNSBL</b> - automatic blocking by IP from different block lists</li>
-    <li><b>URI DNSBL</b> - automatic blocking of spam content by spam URLs in the text</li>
-    <li><b>Akismet</b> - automatic spam content blocking using <a target="_blank" href="http://akismet.com">Akismet service</a></li>
-    <li><b>StopForumSpam</b> - automatic spam content blocking using <a target="_blank" href="http://www.stopforumspam.com">StopForumSpam service</a></li>
-    <li><b>Profanity filter</b> - profanity filter, based on a predefined list of words with the ability to add to words this list</a></li>
+    <li><b>IP table</b> - 手动设置 IP 黑/白名单</li>
+    <li><b>DNSBL</b> - 自动从不同的黑名单中按 IP 屏蔽</li>
+    <li><b>URI DNSBL</b> - 自动通过文本中的垃圾链接屏蔽垃圾信息</li>
+    <li><b>Akismet</b> - 使用 <a target="_blank" href="http://akismet.com">Akismet 服务</a>自动屏蔽垃圾信息</li>
+    <li><b>StopForumSpam</b> - 使用<a target="_blank" href="http://www.stopforumspam.com">StopForumSpam 服务</a>自动屏蔽垃圾信息</li>
+    <li><b>脏话过滤</b> - 根据预定义的脏话列表过滤脏话，您也可以增加要过滤词汇到脏话列表。</a></li>
 </ul>
 ]]></string>
     <string name="_bx_antispam_help_dnsbl"><![CDATA[
-DNSBL - <a href="http://en.wikipedia.org/wiki/DNSBL">Domain Name Service Block Lists</a>.
-This functionality allows to block by IP address if it exists in one of available blocklists.
+DNSBL - <a href="http://en.wikipedia.org/wiki/DNSBL">域名服务器黑名单</a>.
+如果某 IP 地址存在于任何一个有效的 IP 黑名单中，使用此功能将会屏蔽该 IP。
 <br /><br />
-A URI DNSBL is a DNSBL that lists the domain names and IP addresses which are found in the "clickable" links contained in the body of spams, but generally not found inside legitimate messages.
-This antispam method scan submitted content for the URLs and check them if any of them is a link to spam site. If such URL detected in the text then content is not submitted.
+URI DNSBL 是 DNSBL 的一种。它会列出那些通常在正常信息中不存在，而在垃圾邮件的可点击链接中出现的域名和 IP 地址。
+这种反垃圾邮件的方式会扫描提交内容中的链接，并检查他们是否指向任何垃圾网站。如果检测到了垃圾链接，则内容提交不被允许。
 <br /><br />
-<button class="bx-btn" style="float:none;" onclick ="$('.bx-popup-applied:visible').dolPopupHide();">Close</button>
+<button class="bx-btn" style="float:none;" onclick ="$('.bx-popup-applied:visible').dolPopupHide();">关闭</button>
 ]]></string>
     <string name="_bx_antispam_dnsbl_status"><![CDATA[
 <table style="width:100%;"><tr>
     <td>DNSBL: {0}</td>
     <td>URI DNSBL: {1}</td>
-    <td>Login behavior: {2}</td>
-    <td>Join behavior: {3}</td>
+    <td>登录行为: {2}</td>
+    <td>加入行为: {3}</td>
 </tr></table>
 ]]></string>
     <string name="_bx_antispam_ip_table_status"><![CDATA[IP table 模式：{0}]]></string>
-    <string name="_bx_antispam_ip_blocked"><![CDATA[IP 地址已被禁用。{0}]]></string>
+    <string name="_bx_antispam_ip_blocked"><![CDATA[IP 地址已被屏蔽。{0}]]></string>
     <string name="_bx_antispam_spam_detected"><![CDATA[垃圾邮件检测。{0}]]></string>
     <string name="_bx_antispam_submit_false_positive_report"><![CDATA[如果您认为这是一个错误，请在此处提交误报报告：{0}]]></string>
 	<string name="_bx_antispam_ip_allow"><![CDATA[同意]]></string>
 	<string name="_bx_antispam_ip_deny"><![CDATA[拒绝]]></string>
 	<string name="_bx_antispam_ip_table"><![CDATA[IP table]]></string>
 	<string name="_bx_antispam_dnsbl_list"><![CDATA[DNSBL 列表]]></string>
-	<string name="_bx_antispam_block_log"><![CDATA[阻止日志]]></string>
+	<string name="_bx_antispam_block_log"><![CDATA[屏蔽日志]]></string>
 	<string name="_bx_antispam_chain_whitelist"><![CDATA[IP 白名单]]></string>
 	<string name="_bx_antispam_chain_spammers"><![CDATA[IP 黑名单]]></string>
 	<string name="_bx_antispam_chain_uridns"><![CDATA[垃圾邮件文本]]></string>
 	<string name="_bx_antispam_rule_note_country"><![CDATA[国家: {0}]]></string>
-	<string name="_bx_antispam_rule_note_spamhaus_org"><![CDATA[Detect spammer IPs]]></string>
-	<string name="_bx_antispam_rule_note_zomgbl_spameatingmonkey_net"><![CDATA[Everything is blacklisted, <u>use it only if something is whitelisted!</u>]]></string>
-	<string name="_bx_antispam_rule_note_surbl_org"><![CDATA[Detect spammer URLs from SURBLs (lists of web sites that have appeared in unsolicited messages)]]></string>
-	<string name="_bx_antispam_rule_note_dnsbl_tornevall_org"><![CDATA[Detect anonymous/elite proxies and abuse IPs]]></string>
+	<string name="_bx_antispam_rule_note_spamhaus_org"><![CDATA[检测来自垃圾邮件制作者的 IPs]]></string>
+	<string name="_bx_antispam_rule_note_zomgbl_spameatingmonkey_net"><![CDATA[所有内容都在黑名单中，仅使用白名单中存在的部分！</u>]]></string>
+	<string name="_bx_antispam_rule_note_surbl_org"><![CDATA[从 SURBLs（未经请求的消息中出现过的网站链接）中检测到垃圾邮件制作者的链接]]></string>
+	<string name="_bx_antispam_rule_note_dnsbl_tornevall_org"><![CDATA[检测匿名/危险代理和滥用 IPs]]></string>
 	<string name="_bx_antispam_dnsbl"><![CDATA[DNSBL]]></string>
 	<string name="_bx_antispam_uri_dnsbl"><![CDATA[URI DNSBL]]></string>
 	<string name="_bx_antispam_type_dnsbl"><![CDATA[DNSBL]]></string>
 	<string name="_bx_antispam_type_dnsbluri"><![CDATA[URI DNSBL]]></string>
 	<string name="_bx_antispam_type_akismet"><![CDATA[Akismet]]></string>
 	<string name="_bx_antispam_type_stopforumspam"><![CDATA[StopForumSpam]]></string>
-	<string name="_bx_antispam_ip_table_disabled"><![CDATA[Disabled]]></string>
-	<string name="_bx_antispam_ip_table_all_allowed_except_listed"><![CDATA[All allowed except listed]]></string>
-	<string name="_bx_antispam_ip_table_all_blocked_except_listed"><![CDATA[All blocked except listed]]></string>
-	<string name="_bx_antispam_dnsbl_behaviour_login_block"><![CDATA[Block]]></string>
-	<string name="_bx_antispam_dnsbl_behaviour_login_log"><![CDATA[Log]]></string>
-	<string name="_bx_antispam_dnsbl_behaviour_join_block"><![CDATA[Block]]></string>
-    <string name="_bx_antispam_dnsbl_behaviour_join_approval"><![CDATA[Approval]]></string>
-	<string name="_bx_antispam_disposable_email_domains_mode_disable"><![CDATA[Disable]]></string>
-	<string name="_bx_antispam_disposable_email_domains_mode_whitelist"><![CDATA[Allow whitelisted only]]></string>
-	<string name="_bx_antispam_disposable_email_domains_mode_blacklist"><![CDATA[Disallow blacklisted]]></string>
-	<string name="_bx_antispam_disposable_email_domains_behaviour_join_block"><![CDATA[Block]]></string>
-	<string name="_bx_antispam_disposable_email_domains_behaviour_join_approval"><![CDATA[Approval]]></string>
-    <string name="_bx_antispam_disposable_email_domains_msg_blacklisted"><![CDATA[Your email domain isn't allowed for registration on this site]]></string>
+	<string name="_bx_antispam_ip_table_disabled"><![CDATA[已禁用]]></string>
+	<string name="_bx_antispam_ip_table_all_allowed_except_listed"><![CDATA[除列出的外全部允许]]></string>
+	<string name="_bx_antispam_ip_table_all_blocked_except_listed"><![CDATA[除列出的外全部屏蔽]]></string>
+	<string name="_bx_antispam_dnsbl_behaviour_login_block"><![CDATA[屏蔽]]></string>
+	<string name="_bx_antispam_dnsbl_behaviour_login_log"><![CDATA[记录]]></string>
+	<string name="_bx_antispam_dnsbl_behaviour_join_block"><![CDATA[屏蔽]]></string>
+    <string name="_bx_antispam_dnsbl_behaviour_join_approval"><![CDATA[允许]]></string>
+	<string name="_bx_antispam_disposable_email_domains_mode_disable"><![CDATA[禁用]]></string>
+	<string name="_bx_antispam_disposable_email_domains_mode_whitelist"><![CDATA[仅允许白名单]]></string>
+	<string name="_bx_antispam_disposable_email_domains_mode_blacklist"><![CDATA[不允许黑名单]]></string>
+	<string name="_bx_antispam_disposable_email_domains_behaviour_join_block"><![CDATA[屏蔽]]></string>
+	<string name="_bx_antispam_disposable_email_domains_behaviour_join_approval"><![CDATA[允许]]></string>
+    <string name="_bx_antispam_disposable_email_domains_msg_blacklisted"><![CDATA[您的邮箱域名不允许注册该网站]]></string>
 
 	<string name="_bx_antispam_popup_help"><![CDATA[DNSBL 帮助]]></string>
-	<string name="_bx_antispam_popup_dnsbl_recheck"><![CDATA[Recheck IP/URL in DNSBL/URIDNSBL]]></string>
-	<string name="_bx_antispam_popup_dnsbl_add"><![CDATA[Add country based rule]]></string>
-	<string name="_bx_antispam_popup_block_log"><![CDATA[Block log]]></string>
+	<string name="_bx_antispam_popup_dnsbl_recheck"><![CDATA[在 DNSBL/URIDNSBL 中重新检查 IP/URL]]></string>
+	<string name="_bx_antispam_popup_dnsbl_add"><![CDATA[添加基于国家的规则]]></string>
+	<string name="_bx_antispam_popup_block_log"><![CDATA[屏蔽记录]]></string>
 
 	<string name="_bx_antispam_page_title_sys_ip_table"><![CDATA[IP table]]></string>
 	<string name="_bx_antispam_page_title_ip_table"><![CDATA[IP table]]></string>
-	<string name="_bx_antispam_page_title_sys_dnsbl_list"><![CDATA[DNSBL list]]></string>
-	<string name="_bx_antispam_page_title_dnsbl_list"><![CDATA[DNSBL list]]></string>
-	<string name="_bx_antispam_page_title_sys_block_log"><![CDATA[Block log]]></string>
-	<string name="_bx_antispam_page_title_block_log"><![CDATA[Block log]]></string>
+	<string name="_bx_antispam_page_title_sys_dnsbl_list"><![CDATA[DNSBL 列表]]></string>
+	<string name="_bx_antispam_page_title_dnsbl_list"><![CDATA[DNSBL 列表]]></string>
+	<string name="_bx_antispam_page_title_sys_block_log"><![CDATA[屏蔽记录]]></string>
+	<string name="_bx_antispam_page_title_block_log"><![CDATA[屏蔽记录]]></string>
 
 	<string name="_bx_antispam_page_block_title_ip_table"><![CDATA[IP table]]></string>
 	<string name="_bx_antispam_page_block_title_dnsbl_list"><![CDATA[DNSBL 列表]]></string>
-	<string name="_bx_antispam_page_block_title_block_log"><![CDATA[Block log]]></string>
+	<string name="_bx_antispam_page_block_title_block_log"><![CDATA[屏蔽记录]]></string>
 
 	<string name="_bx_antispam_grid_action_delete"><![CDATA[删除]]></string>
 	<string name="_bx_antispam_grid_action_add"><![CDATA[添加]]></string>
@@ -95,74 +95,74 @@ This antispam method scan submitted content for the URLs and check them if any o
 	<string name="_bx_antispam_field_ip_from"><![CDATA[IP 来自]]></string>
 	<string name="_bx_antispam_field_ip_to"><![CDATA[IP 去向]]></string>
 	<string name="_bx_antispam_field_action"><![CDATA[操作]]></string>
-	<string name="_bx_antispam_field_expiration"><![CDATA[Expiration]]></string>
-	<string name="_bx_antispam_field_note"><![CDATA[Note]]></string>
+	<string name="_bx_antispam_field_expiration"><![CDATA[到期]]></string>
+	<string name="_bx_antispam_field_note"><![CDATA[记录]]></string>
 	<string name="_bx_antispam_field_chain"><![CDATA[规则]]></string>
-	<string name="_bx_antispam_field_ip_url"><![CDATA[IP for DNSBL or URL for URI DNSBL]]></string>
-	<string name="_bx_antispam_field_dnsbl_uridnsbl"><![CDATA[Check in]]></string>
-	<string name="_bx_antispam_field_profile_id"><![CDATA[Profile]]></string>
+	<string name="_bx_antispam_field_ip_url"><![CDATA[IP(DNSBL) 或者 URL(URI DNSBL)]]></string>
+	<string name="_bx_antispam_field_dnsbl_uridnsbl"><![CDATA[登记]]></string>
+	<string name="_bx_antispam_field_profile_id"><![CDATA[主页]]></string>
 	<string name="_bx_antispam_field_type"><![CDATA[类型]]></string>
-	<string name="_bx_antispam_field_when"><![CDATA[When]]></string>
+	<string name="_bx_antispam_field_when"><![CDATA[何时]]></string>
 	<string name="_bx_antispam_field_country"><![CDATA[国家]]></string>
-	<string name="_bx_antispam_field_zonedomain"><![CDATA[ZONE domain]]></string>
+	<string name="_bx_antispam_field_zonedomain"><![CDATA[区域]]></string>
 
-    <string name="_bx_antispam_form_ip_table"><![CDATA[IP table directive]]></string>
-    <string name="_bx_antispam_form_ip_table_add"><![CDATA[Add IP table directive]]></string>
-    <string name="_bx_antispam_form_ip_table_edit"><![CDATA[Edit IP table directive]]></string>
-    <string name="_bx_antispam_form_buttons"><![CDATA[Form buttons]]></string>
+    <string name="_bx_antispam_form_ip_table"><![CDATA[IP table 指令]]></string>
+    <string name="_bx_antispam_form_ip_table_add"><![CDATA[添加 IP table 指令]]></string>
+    <string name="_bx_antispam_form_ip_table_edit"><![CDATA[编辑 IP table 指令]]></string>
+    <string name="_bx_antispam_form_buttons"><![CDATA[表单按钮]]></string>
 
-    <string name="_bx_antispam_field_ip_err_msg"><![CDATA[Please enter correct IP address, for example 192.168.4.5]]></string>
-    <string name="_bx_antispam_field_expiration_err_msg"><![CDATA[Please enter correct date time value]]></string>
+    <string name="_bx_antispam_field_ip_err_msg"><![CDATA[请输入正确的 IP 地址，比如 192.168.4.5]]></string>
+    <string name="_bx_antispam_field_expiration_err_msg"><![CDATA[请输入正确的日期时间]]></string>
 
-    <string name="_bx_antispam_data_list_ip_table_actions"><![CDATA[IP table actions]]></string>
+    <string name="_bx_antispam_data_list_ip_table_actions"><![CDATA[IP table 操作]]></string>
 
-    <string name="_bx_antispam_adm_stg_cpt_type"><![CDATA[Antispam]]></string>
-    <string name="_bx_antispam_adm_stg_cpt_category_general"><![CDATA[General]]></string>
+    <string name="_bx_antispam_adm_stg_cpt_type"><![CDATA[反垃圾邮件]]></string>
+    <string name="_bx_antispam_adm_stg_cpt_category_general"><![CDATA[常规]]></string>
     <string name="_bx_antispam_adm_stg_cpt_category_ip_table"><![CDATA[IP table]]></string>
     <string name="_bx_antispam_adm_stg_cpt_category_dnsbl"><![CDATA[DNSBL]]></string>
     <string name="_bx_antispam_adm_stg_cpt_category_akismet"><![CDATA[Akismet]]></string>
     <string name="_bx_antispam_adm_stg_cpt_category_stopforumspam"><![CDATA[StopForumSpam]]></string>
-    <string name="_bx_antispam_adm_stg_cpt_category_disposable_email_domains"><![CDATA[Disposable email domains]]></string>
-    <string name="_bx_antispam_adm_stg_cpt_category_profanity_filter"><![CDATA[Profanity filter]]></string>
+    <string name="_bx_antispam_adm_stg_cpt_category_disposable_email_domains"><![CDATA[一次性邮件域名]]></string>
+    <string name="_bx_antispam_adm_stg_cpt_category_profanity_filter"><![CDATA[脏话过滤]]></string>
     
-	<string name="_bx_antispam_option_block"><![CDATA[Total block all spam content]]></string>
-	<string name="_bx_antispam_option_report"><![CDATA[Send report to admin if spam content discovered]]></string>
-	<string name="_bx_antispam_option_ip_list_type"><![CDATA[IP table mode]]></string>
-	<string name="_bx_antispam_option_dnsbl_enable"><![CDATA[Enable DNS Block Lists]]></string>
-	<string name="_bx_antispam_option_dnsbl_behaviour_login"><![CDATA[User login behaviour if listed in DNS Block Lists]]></string>
-	<string name="_bx_antispam_option_dnsbl_behaviour_join"><![CDATA[User join behaviour if listed in DNS Block Lists]]></string>
-	<string name="_bx_antispam_option_uridnsbl_enable"><![CDATA[Enable URI DNS Block Lists]]></string>
-	<string name="_bx_antispam_option_akismet_enable"><![CDATA[Enable Akismet]]></string>
-	<string name="_bx_antispam_option_akismet_api_key"><![CDATA[Akismet API Key]]></string>
-	<string name="_bx_antispam_option_stopforumspam_enable"><![CDATA[Enable "Stop Forum Spam"]]></string>
-    <string name="_bx_antispam_option_stopforumspam_api_key"><![CDATA["Stop Forum Spam" API Key]]></string> 
-	<string name="_bx_antispam_option_disposable_email_domains_mode"><![CDATA[Mode]]></string>
-	<string name="_bx_antispam_option_disposable_email_domains_behaviour_join"><![CDATA[Join behaviour]]></string>
-  <string name="_bx_antispam_option_profanity_filter_enable"><![CDATA[Enable Profanity filter]]></string>
-  <string name="_bx_antispam_option_profanity_filter_dicts"><![CDATA[Dictionaries]]></string>
-  <string name="_bx_antispam_option_profanity_filter_bad_words_list"><![CDATA[Bad words list (comma separated)]]></string>
-  <string name="_bx_antispam_option_profanity_filter_char_replace"><![CDATA[Char to replace]]></string>
-  <string name="_bx_antispam_option_profanity_filter_white_words_list"><![CDATA[White words list (comma separated)]]></string>
-  <string name="_bx_antispam_option_profanity_filter_full_words_only"><![CDATA[Full words only]]></string>
+	<string name="_bx_antispam_option_block"><![CDATA[屏蔽所有垃圾内容]]></string>
+	<string name="_bx_antispam_option_report"><![CDATA[当发现垃圾内容时给管理员发送报告]]></string>
+	<string name="_bx_antispam_option_ip_list_type"><![CDATA[IP table 模式]]></string>
+	<string name="_bx_antispam_option_dnsbl_enable"><![CDATA[启用 DNS 屏蔽列表]]></string>
+	<string name="_bx_antispam_option_dnsbl_behaviour_login"><![CDATA[DNS 屏蔽列表中用户的登录行为]]></string>
+	<string name="_bx_antispam_option_dnsbl_behaviour_join"><![CDATA[DNS 屏蔽列表中用户的加入行为]]></string>
+	<string name="_bx_antispam_option_uridnsbl_enable"><![CDATA[启用 URI DNS 屏蔽列表]]></string>
+	<string name="_bx_antispam_option_akismet_enable"><![CDATA[屏蔽 Akismet]]></string>
+	<string name="_bx_antispam_option_akismet_api_key"><![CDATA[Akismet API 密钥]]></string>
+	<string name="_bx_antispam_option_stopforumspam_enable"><![CDATA[启用 "Stop Forum Spam"]]></string>
+    <string name="_bx_antispam_option_stopforumspam_api_key"><![CDATA["Stop Forum Spam" API 密钥]]></string>
+	<string name="_bx_antispam_option_disposable_email_domains_mode"><![CDATA[模式]]></string>
+	<string name="_bx_antispam_option_disposable_email_domains_behaviour_join"><![CDATA[加入行为]]></string>
+  <string name="_bx_antispam_option_profanity_filter_enable"><![CDATA[启用脏话过滤]]></string>
+  <string name="_bx_antispam_option_profanity_filter_dicts"><![CDATA[字典]]></string>
+  <string name="_bx_antispam_option_profanity_filter_bad_words_list"><![CDATA[黑名单单词（逗号分隔）]]></string>
+  <string name="_bx_antispam_option_profanity_filter_char_replace"><![CDATA[要替换的字符]]></string>
+  <string name="_bx_antispam_option_profanity_filter_white_words_list"><![CDATA[白名单单词（逗号分隔）]]></string>
+  <string name="_bx_antispam_option_profanity_filter_full_words_only"><![CDATA[仅完整的单词]]></string>
 
-  <string name="_bx_antispam_spam_report_name"><![CDATA[Spam report message]]></string>
-    <string name="_bx_antispam_spam_report_subject"><![CDATA[Automatic spam report]]></string>
+  <string name="_bx_antispam_spam_report_name"><![CDATA[垃圾报告消息]]></string>
+    <string name="_bx_antispam_spam_report_subject"><![CDATA[自动报告垃圾]]></string>
     <string name="_bx_antispam_spam_report_body"><![CDATA[{email_header}
-<b>Profile:</b> <a href="{SpammerUrl}">{SpammerNickName}</a><br />
+<b>主页：</b> <a href="{SpammerUrl}">{SpammerNickName}</a><br />
 
-<b>Page:</b> {Page}<br /><br />
+<b>页面：</b> {Page}<br /><br />
 
-<b>GET variables:</b>
+<b>GET 变量:</b>
 <pre>
 {Get}
 </pre>
 
-<b>POST variables:</b>
+<b>POST 变量:</b>
 <pre>
 {Post}
 </pre>
 
-<b>Spam content:</b>
+<b>垃圾内容：</b>
 <pre>
 {SpamContent}
 </pre>
