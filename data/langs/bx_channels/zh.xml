@@ -70,12 +70,12 @@
 	<string name="_bx_channels_page_title_sys_manage"><![CDATA[管理拥有的频道]]></string>
 	<string name="_bx_channels_page_title_sys_manage_administration"><![CDATA[管理全部频道]]></string>
 	<string name="_bx_channels_page_title_manage"><![CDATA[管理频道]]></string>
-	<string name="_bx_channels_page_title_sys_top"><![CDATA[顶级频道]]></string>
-	<string name="_bx_channels_page_title_top"><![CDATA[顶级频道]]></string>
+	<string name="_bx_channels_page_title_sys_top"><![CDATA[最佳频道]]></string>
+	<string name="_bx_channels_page_title_top"><![CDATA[最佳频道]]></string>
 	<string name="_bx_channels_page_title_sys_entries_search"><![CDATA[搜索]]></string>
 	<string name="_bx_channels_page_title_entries_search"><![CDATA[搜索]]></string>
   <string name="_bx_channels_page_title_sys_entries_toplevel"><![CDATA[顶级]]></string>
-  <string name="_bx_channels_page_title_entries_toplevel"><![CDATA[顶级]]></string>
+  <string name="_bx_channels_page_title_entries_toplevel"><![CDATA[最佳]]></string>
         <string name="_bx_channels_page_title_sys_entries_of_author"><![CDATA[作者的频道]]></string>
         <string name="_bx_channels_page_title_entries_of_author"><![CDATA[{display_name}的频道]]></string>
 
@@ -104,14 +104,14 @@
 	<string name="_bx_channels_page_block_title_system_manage"><![CDATA[管理拥有的频道]]></string>
 	<string name="_bx_channels_page_block_title_system_manage_administration"><![CDATA[管理全部的频道]]></string>
 	<string name="_bx_channels_page_block_title_manage"><![CDATA[管理频道]]></string>
-	<string name="_bx_channels_page_block_title_top_profiles"><![CDATA[顶级频道]]></string>
+	<string name="_bx_channels_page_block_title_top_profiles"><![CDATA[最佳频道]]></string>
         <string name="_bx_channels_page_block_title_entry_all_actions"><![CDATA[全部操作]]></string>
 	<string name="_bx_channels_page_block_title_entry_social_sharing"><![CDATA[分享]]></string>
         <string name="_bx_channels_page_block_title_entry_breadcrumb"><![CDATA[痕迹导航]]></string>
         <string name="_bx_channels_page_block_title_entry_parent"><![CDATA[父频道]]></string>
         <string name="_bx_channels_page_block_title_entry_childs"><![CDATA[子频道]]></string>
 	<string name="_bx_channels_page_block_title_search_form"><![CDATA[搜索框]]></string>
-  <string name="_bx_channels_page_block_title_toplevel"><![CDATA[顶级]]></string>
+  <string name="_bx_channels_page_block_title_toplevel"><![CDATA[顶级频道]]></string>
         <string name="_bx_channels_page_block_title_entries_my"><![CDATA[我关注的频道]]></string>
         <string name="_bx_channels_page_trigger_block_title_entries_my"><![CDATA[我关注的频道]]></string>
         <string name="_bx_channels_page_block_title_search_results"><![CDATA[搜索结果]]></string>
@@ -194,8 +194,8 @@
 	<string name="_bx_channels_menu_item_title_admt_channels"><![CDATA[频道]]></string>
 	<string name="_bx_channels_menu_item_title_manage_my"><![CDATA[我的频道]]></string>
 	<string name="_bx_channels_menu_item_title_manage_all"><![CDATA[全部频道]]></string>
-	<string name="_bx_channels_menu_item_title_system_entries_top"><![CDATA[顶级]]></string>
-	<string name="_bx_channels_menu_item_title_entries_top"><![CDATA[顶级]]></string>
+	<string name="_bx_channels_menu_item_title_system_entries_top"><![CDATA[最佳]]></string>
+	<string name="_bx_channels_menu_item_title_entries_top"><![CDATA[最佳]]></string>
         <string name="_bx_channels_menu_item_title_system_view_entries_author"><![CDATA[频道]]></string>
         <string name="_bx_channels_menu_item_title_view_entries_author"><![CDATA[频道]]></string>
 
