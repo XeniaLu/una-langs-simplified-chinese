@@ -1,141 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
-	<string name="_bx_cnv"><![CDATA[Conversations]]></string>
-	<string name="_bx_convos"><![CDATA[Conversations]]></string>
+	<string name="_bx_cnv"><![CDATA[会话]]></string>
+	<string name="_bx_convos"><![CDATA[会话]]></string>
 
-	<string name="_bx_cnv_option_preview_messages_num"><![CDATA[Number of preview messages]]></string>
+	<string name="_bx_cnv_option_preview_messages_num"><![CDATA[预览消息数量]]></string>
 
-	<string name="_bx_cnv_form_entry"><![CDATA[Conversations]]></string>
-	<string name="_bx_cnv_form_entry_display_add"><![CDATA[New conversation]]></string>
-	<string name="_bx_cnv_form_entry_display_edit"><![CDATA[Edit conversation]]></string>
-	<string name="_bx_cnv_form_entry_display_delete"><![CDATA[Delete conversation]]></string>
-	<string name="_bx_cnv_form_entry_display_view"><![CDATA[View conversation]]></string>
-	<string name="_bx_cnv_form_entry_input_sys_do_submit"><![CDATA[Submit]]></string>
-	<string name="_bx_cnv_form_entry_input_do_submit"><![CDATA[Submit]]></string>
-	<string name="_bx_cnv_form_entry_input_sys_text"><![CDATA[Text]]></string>
-	<string name="_bx_cnv_form_entry_input_text"><![CDATA[Text]]></string>
-	<string name="_bx_cnv_form_entry_input_text_err"><![CDATA[Text field can't be empty]]></string>
-	<string name="_bx_cnv_form_entry_input_sys_delete_confirm"><![CDATA[Delete confirmation]]></string>
-	<string name="_bx_cnv_form_entry_input_delete_confirm"><![CDATA[I am sure I want to delete this conversation]]></string>
-	<string name="_bx_cnv_form_entry_input_delete_confirm_info"><![CDATA[This action can not be undone]]></string>
-	<string name="_bx_cnv_form_entry_input_delete_confirm_error"><![CDATA[Please check this checkbox if you really want to delete the conversation]]></string>
-	<string name="_bx_cnv_form_entry_input_sys_attachments"><![CDATA[Attachments]]></string>
-	<string name="_bx_cnv_form_entry_input_attachments"><![CDATA[Attachments]]></string>
-    <string name="_bx_cnv_form_entry_input_recipients"><![CDATA[Recipients]]></string>
-    <string name="_bx_cnv_form_entry_input_sys_recipients"><![CDATA[Recipients]]></string>
-    <string name="_bx_cnv_form_entry_input_recipients_err"><![CDATA[Mandatory field. Please, fill it in with profile(s) you are allowed to contact.]]></string>
-    <string name="_bx_cnv_form_entry_input_sys_submit_text"><![CDATA[Draft status]]></string>
-    <string name="_bx_cnv_form_entry_input_sys_submit_block"><![CDATA[Submit block]]></string>
-    <string name="_bx_cnv_form_entry_input_sys_draft_id"><![CDATA[Draft ID]]></string>
-    <string name="_bx_cnv_form_entry_input_sys_allow_edit"><![CDATA[Main post editing by participants]]></string>
-    <string name="_bx_cnv_form_entry_input_allow_edit"><![CDATA[Main post editing by participants]]></string>
+	<string name="_bx_cnv_form_entry"><![CDATA[会话]]></string>
+	<string name="_bx_cnv_form_entry_display_add"><![CDATA[新会话]]></string>
+	<string name="_bx_cnv_form_entry_display_edit"><![CDATA[编辑会话]]></string>
+	<string name="_bx_cnv_form_entry_display_delete"><![CDATA[删除会话]]></string>
+	<string name="_bx_cnv_form_entry_display_view"><![CDATA[查看会话]]></string>
+	<string name="_bx_cnv_form_entry_input_sys_do_submit"><![CDATA[提交]]></string>
+	<string name="_bx_cnv_form_entry_input_do_submit"><![CDATA[提交]]></string>
+	<string name="_bx_cnv_form_entry_input_sys_text"><![CDATA[文本]]></string>
+	<string name="_bx_cnv_form_entry_input_text"><![CDATA[文本]]></string>
+	<string name="_bx_cnv_form_entry_input_text_err"><![CDATA[文本字段不能为空]]></string>
+	<string name="_bx_cnv_form_entry_input_sys_delete_confirm"><![CDATA[删除确认]]></string>
+	<string name="_bx_cnv_form_entry_input_delete_confirm"><![CDATA[我确定我要删除该会话]]></string>
+	<string name="_bx_cnv_form_entry_input_delete_confirm_info"><![CDATA[该操作不能撤销]]></string>
+	<string name="_bx_cnv_form_entry_input_delete_confirm_error"><![CDATA[如果您确定要删除该会话，请勾选此复选框]]></string>
+	<string name="_bx_cnv_form_entry_input_sys_attachments"><![CDATA[附件]]></string>
+	<string name="_bx_cnv_form_entry_input_attachments"><![CDATA[附件]]></string>
+    <string name="_bx_cnv_form_entry_input_recipients"><![CDATA[收件人]]></string>
+    <string name="_bx_cnv_form_entry_input_sys_recipients"><![CDATA[收件人]]></string>
+    <string name="_bx_cnv_form_entry_input_recipients_err"><![CDATA[必选字段。请填入您可以联系的个人信息。]]></string>
+    <string name="_bx_cnv_form_entry_input_sys_submit_text"><![CDATA[草稿状态]]></string>
+    <string name="_bx_cnv_form_entry_input_sys_submit_block"><![CDATA[提交]]></string>
+    <string name="_bx_cnv_form_entry_input_sys_draft_id"><![CDATA[草稿 ID]]></string>
+    <string name="_bx_cnv_form_entry_input_sys_allow_edit"><![CDATA[参与者编辑的主要帖子]]></string>
+    <string name="_bx_cnv_form_entry_input_allow_edit"><![CDATA[参与者编辑的主要帖子]]></string>
 
-	<string name="_bx_cnv_acl_action_create_entry"><![CDATA[New conversation]]></string>
-	<string name="_bx_cnv_acl_action_delete_entry"><![CDATA[Delete conversation]]></string>
-	<string name="_bx_cnv_acl_action_view_entry"><![CDATA[View conversation]]></string>
+	<string name="_bx_cnv_acl_action_create_entry"><![CDATA[新会话]]></string>
+	<string name="_bx_cnv_acl_action_delete_entry"><![CDATA[删除会话]]></string>
+	<string name="_bx_cnv_acl_action_view_entry"><![CDATA[查看会话]]></string>
 
-	<string name="_bx_cnv_page_title_sys_create_entry"><![CDATA[New conversation]]></string>
-	<string name="_bx_cnv_page_title_create_entry"><![CDATA[New conversation]]></string>
-	<string name="_bx_cnv_page_block_title_create_entry"><![CDATA[New conversation]]></string>
-	<string name="_bx_cnv_page_title_sys_view_entry"><![CDATA[View conversation]]></string>
+	<string name="_bx_cnv_page_title_sys_create_entry"><![CDATA[新会话]]></string>
+	<string name="_bx_cnv_page_title_create_entry"><![CDATA[新会话]]></string>
+	<string name="_bx_cnv_page_block_title_create_entry"><![CDATA[新会话]]></string>
+	<string name="_bx_cnv_page_title_sys_view_entry"><![CDATA[查看会话]]></string>
 	<string name="_bx_cnv_page_title_view_entry"><![CDATA[{title}]]></string>
-	<string name="_bx_cnv_page_block_title_entry_attachments"><![CDATA[Attachments]]></string>
-	<string name="_bx_cnv_page_block_title_entry_text"><![CDATA[Text]]></string>
-    <string name="_bx_cnv_page_block_title_entry_author"><![CDATA[Author]]></string>
-    <string name="_bx_cnv_page_block_title_entry_actions"><![CDATA[Actions]]></string>
-    <string name="_bx_cnv_page_block_title_entry_breadcrumb"><![CDATA[Breadcrumb]]></string>
-    <string name="_bx_cnv_page_block_title_entry_comments"><![CDATA[Replies ({0})]]></string>
-    <string name="_bx_cnv_page_block_title_entry_collaborators"><![CDATA[Participants]]></string>
-    <string name="_bx_cnv_page_title_sys_folder"><![CDATA[Conversations in folder]]></string>
-    <string name="_bx_cnv_page_title_folder"><![CDATA[Folder: {folder}]]></string>
-    <string name="_bx_cnv_page_block_title_folder"><![CDATA[Folder: {folder}]]></string>
-    <string name="_bx_cnv_page_block_title_convos"><![CDATA[Conversations]]></string>
-    <string name="_bx_cnv_page_title_sys_edit_entry"><![CDATA[Edit conversation]]></string>
-    <string name="_bx_cnv_page_title_edit_entry"><![CDATA[Edit conversation]]></string>
-    <string name="_bx_cnv_page_block_title_edit_entry"><![CDATA[Edit conversation]]></string>
+	<string name="_bx_cnv_page_block_title_entry_attachments"><![CDATA[附件]]></string>
+	<string name="_bx_cnv_page_block_title_entry_text"><![CDATA[文本]]></string>
+    <string name="_bx_cnv_page_block_title_entry_author"><![CDATA[作者]]></string>
+    <string name="_bx_cnv_page_block_title_entry_actions"><![CDATA[操作]]></string>
+    <string name="_bx_cnv_page_block_title_entry_breadcrumb"><![CDATA[导航栏]]></string>
+    <string name="_bx_cnv_page_block_title_entry_comments"><![CDATA[回复 ({0})]]></string>
+    <string name="_bx_cnv_page_block_title_entry_collaborators"><![CDATA[参与者]]></string>
+    <string name="_bx_cnv_page_title_sys_folder"><![CDATA[文件夹中的会话]]></string>
+    <string name="_bx_cnv_page_title_folder"><![CDATA[文件夹：{folder}]]></string>
+    <string name="_bx_cnv_page_block_title_folder"><![CDATA[文件夹：{folder}]]></string>
+    <string name="_bx_cnv_page_block_title_convos"><![CDATA[会话]]></string>
+    <string name="_bx_cnv_page_title_sys_edit_entry"><![CDATA[编辑会话]]></string>
+    <string name="_bx_cnv_page_title_edit_entry"><![CDATA[编辑会话]]></string>
+    <string name="_bx_cnv_page_block_title_edit_entry"><![CDATA[编辑会话]]></string>
 
-    <string name="_bx_cnv_menu_set_title_view_entry"><![CDATA[Conversation Actions]]></string>
-    <string name="_bx_cnv_menu_title_view_entry"><![CDATA[Conversation Actions]]></string>
-    <string name="_bx_cnv_menu_title_submenu"><![CDATA[Conversations Submenu]]></string>
-    <string name="_bx_cnv_menu_set_title_submenu"><![CDATA[Conversations Submenu]]></string>
-    <string name="_bx_cnv_menu_title_folders_more"><![CDATA[Conversations folders]]></string>
-    <string name="_bx_cnv_menu_set_title_submenu"><![CDATA[Conversations folders]]></string>
-    <string name="_bx_cnv_menu_set_title_folders_more"><![CDATA[More folders]]></string>
-    <string name="_bx_cnv_menu_item_title_system_message"><![CDATA[Start conversation]]></string>
-    <string name="_bx_cnv_menu_item_title_message"><![CDATA[Start conversation]]></string>
-    <string name="_bx_cnv_menu_item_title_system_message_group"><![CDATA[Group Message]]></string>
-    <string name="_bx_cnv_menu_item_title_message_group"><![CDATA[Group Message]]></string>
-    <string name="_bx_cnv_menu_item_title_system_mark_unread_entry"><![CDATA[Mark as unread]]></string>
-    <string name="_bx_cnv_menu_item_title_mark_unread_entry"><![CDATA[Mark as unread]]></string>
+    <string name="_bx_cnv_menu_set_title_view_entry"><![CDATA[会话操作]]></string>
+    <string name="_bx_cnv_menu_title_view_entry"><![CDATA[会话操作]]></string>
+    <string name="_bx_cnv_menu_title_submenu"><![CDATA[会话子菜单]]></string>
+    <string name="_bx_cnv_menu_set_title_submenu"><![CDATA[会话子菜单]]></string>
+    <string name="_bx_cnv_menu_title_folders_more"><![CDATA[会话文件夹]]></string>
+    <string name="_bx_cnv_menu_set_title_submenu"><![CDATA[会话文件夹]]></string>
+    <string name="_bx_cnv_menu_set_title_folders_more"><![CDATA[更多文件夹]]></string>
+    <string name="_bx_cnv_menu_item_title_system_message"><![CDATA[开始会话]]></string>
+    <string name="_bx_cnv_menu_item_title_message"><![CDATA[开始会话]]></string>
+    <string name="_bx_cnv_menu_item_title_system_message_group"><![CDATA[群组消息]]></string>
+    <string name="_bx_cnv_menu_item_title_message_group"><![CDATA[群组消息]]></string>
+    <string name="_bx_cnv_menu_item_title_system_mark_unread_entry"><![CDATA[标记为未读]]></string>
+    <string name="_bx_cnv_menu_item_title_mark_unread_entry"><![CDATA[标记为未读]]></string>
 
-    <string name="_bx_cnv_menu_item_title_system_delete_entry"><![CDATA[Delete conversation]]></string>
-    <string name="_bx_cnv_menu_item_title_delete_entry"><![CDATA[Delete conversation]]></string>
-    <string name="_bx_cnv_menu_item_title_system_edit_entry"><![CDATA[Edit]]></string>
-    <string name="_bx_cnv_menu_item_title_edit_entry"><![CDATA[Edit]]></string>
-    <string name="_bx_cnv_menu_item_title_system_folder_inbox"><![CDATA[Inbox]]></string>
-    <string name="_bx_cnv_menu_item_title_folder_inbox"><![CDATA[Inbox]]></string>
-    <string name="_bx_cnv_menu_item_title_system_folder_drafts"><![CDATA[Drafts]]></string>
-    <string name="_bx_cnv_menu_item_title_folder_drafts"><![CDATA[Drafts]]></string>
-    <string name="_bx_cnv_menu_item_title_system_folder_spam"><![CDATA[Spam]]></string>
-    <string name="_bx_cnv_menu_item_title_folder_spam"><![CDATA[Spam]]></string>
-    <string name="_bx_cnv_menu_item_title_system_folder_trash"><![CDATA[Trash]]></string>
-    <string name="_bx_cnv_menu_item_title_folder_trash"><![CDATA[Trash]]></string>
-    <string name="_bx_cnv_menu_item_title_system_folder_more"><![CDATA[More]]></string>
-    <string name="_bx_cnv_menu_item_title_folder_more"><![CDATA[More]]></string>
-    <string name="_bx_cnv_menu_item_title_system_convos"><![CDATA[Conversations]]></string>
-    <string name="_bx_cnv_menu_item_title_convos"><![CDATA[Conversations]]></string>
-    <string name="_bx_cnv_menu_item_title_system_unread_messages"><![CDATA[Unread messages number]]></string>
-    <string name="_bx_cnv_menu_item_title_unread_messages"><![CDATA[Unread messages]]></string>
+    <string name="_bx_cnv_menu_item_title_system_delete_entry"><![CDATA[删除会话]]></string>
+    <string name="_bx_cnv_menu_item_title_delete_entry"><![CDATA[删除会话]]></string>
+    <string name="_bx_cnv_menu_item_title_system_edit_entry"><![CDATA[编辑]]></string>
+    <string name="_bx_cnv_menu_item_title_edit_entry"><![CDATA[编辑]]></string>
+    <string name="_bx_cnv_menu_item_title_system_folder_inbox"><![CDATA[收件箱]]></string>
+    <string name="_bx_cnv_menu_item_title_folder_inbox"><![CDATA[收件箱]]></string>
+    <string name="_bx_cnv_menu_item_title_system_folder_drafts"><![CDATA[草稿]]></string>
+    <string name="_bx_cnv_menu_item_title_folder_drafts"><![CDATA[草稿]]></string>
+    <string name="_bx_cnv_menu_item_title_system_folder_spam"><![CDATA[垃圾邮件]]></string>
+    <string name="_bx_cnv_menu_item_title_folder_spam"><![CDATA[垃圾邮件]]></string>
+    <string name="_bx_cnv_menu_item_title_system_folder_trash"><![CDATA[回收站]]></string>
+    <string name="_bx_cnv_menu_item_title_folder_trash"><![CDATA[回收站]]></string>
+    <string name="_bx_cnv_menu_item_title_system_folder_more"><![CDATA[更多]]></string>
+    <string name="_bx_cnv_menu_item_title_folder_more"><![CDATA[更多]]></string>
+    <string name="_bx_cnv_menu_item_title_system_convos"><![CDATA[会话]]></string>
+    <string name="_bx_cnv_menu_item_title_convos"><![CDATA[会话]]></string>
+    <string name="_bx_cnv_menu_item_title_system_unread_messages"><![CDATA[未读消息数量]]></string>
+    <string name="_bx_cnv_menu_item_title_unread_messages"><![CDATA[未读消息]]></string>
 
-    <string name="_bx_cnv_txt_sample_single"><![CDATA[conversation]]></string>
+    <string name="_bx_cnv_txt_sample_single"><![CDATA[会话]]></string>
 
-    <string name="_bx_cnv_folder_inbox"><![CDATA[Inbox]]></string>
-    <string name="_bx_cnv_folder_drafts"><![CDATA[Drafts]]></string>
-    <string name="_bx_cnv_folder_spam"><![CDATA[Spam]]></string>
-    <string name="_bx_cnv_folder_trash"><![CDATA[Trash]]></string>
+    <string name="_bx_cnv_folder_inbox"><![CDATA[收件箱]]></string>
+    <string name="_bx_cnv_folder_drafts"><![CDATA[草稿]]></string>
+    <string name="_bx_cnv_folder_spam"><![CDATA[垃圾邮件]]></string>
+    <string name="_bx_cnv_folder_trash"><![CDATA[回收站]]></string>
 
     <string name="_bx_cnv_field_comments"><![CDATA[#]]></string>
-    <string name="_bx_cnv_field_preview"><![CDATA[Preview]]></string>
-    <string name="_bx_cnv_field_collaborators"><![CDATA[Participants]]></string>
+    <string name="_bx_cnv_field_preview"><![CDATA[预览]]></string>
+    <string name="_bx_cnv_field_collaborators"><![CDATA[参与者]]></string>
 
-    <string name="_bx_cnv_grid_action_err_delete"><![CDATA[Cannot delete the selected conversation(s).]]></string>
-    <string name="_bx_cnv_grid_action_delete"><![CDATA[Delete]]></string>
-    <string name="_bx_cnv_grid_action_compose"><![CDATA[Compose]]></string>
-	<string name="_bx_cnv_grid_filter_item_title_adm_all"><![CDATA[All]]></string>
-	<string name="_bx_cnv_grid_filter_item_title_adm_unread"><![CDATA[Unread]]></string>
+    <string name="_bx_cnv_grid_action_err_delete"><![CDATA[无法删除选中的会话。]]></string>
+    <string name="_bx_cnv_grid_action_delete"><![CDATA[删除]]></string>
+    <string name="_bx_cnv_grid_action_compose"><![CDATA[排版]]></string>
+	<string name="_bx_cnv_grid_filter_item_title_adm_all"><![CDATA[全部]]></string>
+	<string name="_bx_cnv_grid_filter_item_title_adm_unread"><![CDATA[未读]]></string>
 
-    <string name="_bx_cnv_collaborator_author"><![CDATA[author]]></string>
-    <string name="_bx_cnv_collaborator_last_replier"><![CDATA[last replier]]></string>
-    <string name="_bx_cnv_more"><![CDATA[{0} more]]></string>
+    <string name="_bx_cnv_collaborator_author"><![CDATA[作者]]></string>
+    <string name="_bx_cnv_collaborator_last_replier"><![CDATA[最后回复]]></string>
+    <string name="_bx_cnv_more"><![CDATA[更多 {0} 个]]></string>
 
-    <string name="_bx_cnv_author_desc"><![CDATA[{0} (updated {1})]]></string>
-    <string name="_bx_cnv_x_date_by_x_replier"><![CDATA[{0} by {1}]]></string>
+    <string name="_bx_cnv_author_desc"><![CDATA[{0} (更新 {1})]]></string>
+    <string name="_bx_cnv_x_date_by_x_replier"><![CDATA[{0} 在 {1}]]></string>
 
-    <string name="_bx_cnv_read_by_all"><![CDATA[Read by all]]></string>
-    <string name="_bx_cnv_see_all"><![CDATA[See all conversations...]]></string>
-    <string name="_bx_cnv_you_are_last_replier"><![CDATA[You are last replier]]></string>
+    <string name="_bx_cnv_read_by_all"><![CDATA[全部已读]]></string>
+    <string name="_bx_cnv_see_all"><![CDATA[查看所有会话...]]></string>
+    <string name="_bx_cnv_you_are_last_replier"><![CDATA[您是最后的回复者]]></string>
 
-    <string name="_bx_cnv_draft_saving_error"><![CDATA[Draft saving error!]]></string>
-    <string name="_bx_cnv_draft_saved_success"><![CDATA[Draft saved.]]></string>
+    <string name="_bx_cnv_draft_saving_error"><![CDATA[草稿保存失败！]]></string>
+    <string name="_bx_cnv_draft_saved_success"><![CDATA[草稿已保存。]]></string>
 
-    <string name="_bx_cnv_txt_min_form_placeholder"><![CDATA[{0}, leave your message here.]]></string>
+    <string name="_bx_cnv_txt_min_form_placeholder"><![CDATA[{0}, 请在此留下您的消息。]]></string>
 
-    <string name="_bx_cnv_email_new_message"><![CDATA[New message]]></string>
-    <string name="_bx_cnv_email_new_message_subject"><![CDATA[New message from {SenderDisplayName}]]></string>
+    <string name="_bx_cnv_email_new_message"><![CDATA[新消息]]></string>
+    <string name="_bx_cnv_email_new_message_subject"><![CDATA[来自 {SenderDisplayName} 的新消息]]></string>
     <string name="_bx_cnv_email_new_message_body"><![CDATA[{email_header}
-<p><a href="{PageUrl}">New message</a> from <a href="{SenderUrl}">{SenderDisplayName}</a>:</p>
+<p>来自<a href="{SenderUrl}">{SenderDisplayName}的</a><a href="{PageUrl}">新消息</a>:</p>
 <hr />
 <p>{Message}</p>
 {email_footer}]]></string>
 
-    <string name="_bx_cnv_email_new_reply"><![CDATA[New reply]]></string>
-    <string name="_bx_cnv_email_new_reply_subject"><![CDATA[New reply in conversation from {SenderDisplayName}]]></string>
+    <string name="_bx_cnv_email_new_reply"><![CDATA[新回复]]></string>
+    <string name="_bx_cnv_email_new_reply_subject"><![CDATA[会话中来自{SenderDisplayName}的新回复]]></string>
     <string name="_bx_cnv_email_new_reply_body"><![CDATA[{email_header}
-<p>New reply in <a href="{PageUrl}">{PageTitle}</a> conversation from <a href="{SenderUrl}">{SenderDisplayName}</a>:</p>
+<p><a href="{PageUrl}">{PageTitle}</a>会话中来自<a href="{SenderUrl}">{SenderDisplayName}</a>的新回复:</p>
 <hr />
 <p>{Message}</p>
 <hr />
-Don't reply to this email, to reply to the sender please go to <a href="{PageUrl}">conversation page</a>.
+请不要回复该邮件。如果要回复该消息，请访问：<a href="{PageUrl}">conversation page</a>。
 {email_footer}]]></string>
 </resources>

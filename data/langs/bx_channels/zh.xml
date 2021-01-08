@@ -107,7 +107,7 @@
 	<string name="_bx_channels_page_block_title_top_profiles"><![CDATA[最佳频道]]></string>
         <string name="_bx_channels_page_block_title_entry_all_actions"><![CDATA[全部操作]]></string>
 	<string name="_bx_channels_page_block_title_entry_social_sharing"><![CDATA[分享]]></string>
-        <string name="_bx_channels_page_block_title_entry_breadcrumb"><![CDATA[痕迹导航]]></string>
+        <string name="_bx_channels_page_block_title_entry_breadcrumb"><![CDATA[导航栏]]></string>
         <string name="_bx_channels_page_block_title_entry_parent"><![CDATA[父频道]]></string>
         <string name="_bx_channels_page_block_title_entry_childs"><![CDATA[子频道]]></string>
 	<string name="_bx_channels_page_block_title_search_form"><![CDATA[搜索框]]></string>
