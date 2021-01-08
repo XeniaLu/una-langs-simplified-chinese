@@ -91,10 +91,10 @@
     <string name="_bx_ads_form_entry_input_sys_polls"><![CDATA[投票]]></string>
     <string name="_bx_ads_form_entry_input_sys_allow_view_to"><![CDATA[可见度]]></string>
     <string name="_bx_ads_form_entry_input_allow_view_to"><![CDATA[可见度]]></string>
-    <string name="_bx_ads_form_entry_input_sys_date_added"><![CDATA[已创建]]></string>
-    <string name="_bx_ads_form_entry_input_date_added"><![CDATA[已创建]]></string>
-    <string name="_bx_ads_form_entry_input_sys_date_changed"><![CDATA[已更新]]></string>
-    <string name="_bx_ads_form_entry_input_date_changed"><![CDATA[已更新]]></string>
+    <string name="_bx_ads_form_entry_input_sys_date_added"><![CDATA[创建日期]]></string>
+    <string name="_bx_ads_form_entry_input_date_added"><![CDATA[创建日期]]></string>
+    <string name="_bx_ads_form_entry_input_sys_date_changed"><![CDATA[更新日期]]></string>
+    <string name="_bx_ads_form_entry_input_date_changed"><![CDATA[更新日期]]></string>
     <string name="_bx_ads_form_entry_input_sys_attachments"><![CDATA[附件]]></string>
 
     <string name="_bx_ads_form_poll"><![CDATA[投票]]></string>

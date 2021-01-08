@@ -36,14 +36,14 @@
 	<string name="_bx_albums_form_entry_input_delete_confirm_error"><![CDATA[如果您真的想要删除相册，请勾选该复选框。]]></string>
 	<string name="_bx_albums_form_entry_input_sys_pictures"><![CDATA[照片]]></string>
 	<string name="_bx_albums_form_entry_input_pictures"><![CDATA[照片]]></string>
-    <string name="_bx_albums_form_entry_input_sys_allow_view_to"><![CDATA[可见性]]></string>
-    <string name="_bx_albums_form_entry_input_allow_view_to"><![CDATA[可见性]]></string>
-    <string name="_bx_albums_form_entry_input_allow_view_favorite_list"><![CDATA[可见性]]></string>
+    <string name="_bx_albums_form_entry_input_sys_allow_view_to"><![CDATA[可见度]]></string>
+    <string name="_bx_albums_form_entry_input_allow_view_to"><![CDATA[可见度]]></string>
+    <string name="_bx_albums_form_entry_input_allow_view_favorite_list"><![CDATA[可见度]]></string>
     <string name="_bx_albums_form_entry_file_title"><![CDATA[标题]]></string>
-	<string name="_bx_albums_form_entry_input_sys_date_added"><![CDATA[已创建]]></string>
-	<string name="_bx_albums_form_entry_input_date_added"><![CDATA[已创建]]></string>
-	<string name="_bx_albums_form_entry_input_sys_date_changed"><![CDATA[已更新]]></string>
-    <string name="_bx_albums_form_entry_input_date_changed"><![CDATA[已更新]]></string>
+	<string name="_bx_albums_form_entry_input_sys_date_added"><![CDATA[创建日期]]></string>
+	<string name="_bx_albums_form_entry_input_date_added"><![CDATA[创建日期]]></string>
+	<string name="_bx_albums_form_entry_input_sys_date_changed"><![CDATA[更新日期]]></string>
+    <string name="_bx_albums_form_entry_input_date_changed"><![CDATA[更新日期]]></string>
 
         <string name="_bx_albums_form_media"><![CDATA[媒体]]></string>
         <string name="_bx_albums_form_media_display_edit"><![CDATA[编辑媒体]]></string>
@@ -83,7 +83,7 @@
 	<string name="_bx_albums_page_title_browse"><![CDATA[相册]]></string>
 	<string name="_bx_albums_page_title_search_results"><![CDATA[相册匹配 "{0}"]]></string>
 	<string name="_bx_albums_page_title_browse_by_author"><![CDATA[{display_name}的相册]]></string>
-  <string name="_bx_albums_page_title_browse_by_context"><![CDATA[相册来自{display_name}]]></string>
+  <string name="_bx_albums_page_title_browse_by_context"><![CDATA[相册：{display_name}]]></string>
 	<string name="_bx_albums_page_title_browse_featured"><![CDATA[精选相册]]></string>
 	<string name="_bx_albums_page_title_browse_featured_media"><![CDATA[精选媒体]]></string>
     <string name="_bx_albums_page_title_browse_recent"><![CDATA[最新相册]]></string>
