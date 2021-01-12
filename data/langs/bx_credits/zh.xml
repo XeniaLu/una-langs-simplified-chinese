@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-    <string name="_bx_credits"><![CDATA[Credits]]></string>
+    <string name="_bx_credits"><![CDATA[积分]]></string>
 
 
     <!-- Options -->
-    <string name="_bx_credits_option_enable_withdraw"><![CDATA[Allow members to withdraw credits converting them to money]]></string>
-    <string name="_bx_credits_option_withdraw_email"><![CDATA[Email for withdraw requests]]></string>
-    <string name="_bx_credits_option_precision"><![CDATA[Precision (number of digits after the decimal point)]]></string>
-    <string name="_bx_credits_option_conversion_rate_use"><![CDATA[Conversion rate to pay with credits]]></string>
-    <string name="_bx_credits_option_conversion_rate_withdraw"><![CDATA[Conversion rate to withdraw credits]]></string>
-    <string name="_bx_credits_option_code"><![CDATA[Code to prefix amount]]></string>
-    <string name="_bx_credits_option_icon"><![CDATA[Icon to prefix amount]]></string>
-    <string name="_bx_credits_enable_provider"><![CDATA[Auto activate 'Credits' provider for all newly created profiles]]></string>
+    <string name="_bx_credits_option_enable_withdraw"><![CDATA[允许成员提取积分兑换成钱]]></string>
+    <string name="_bx_credits_option_withdraw_email"><![CDATA[提取请求的邮箱]]></string>
+    <string name="_bx_credits_option_precision"><![CDATA[精度（小数点后的尾数）]]></string>
+    <string name="_bx_credits_option_conversion_rate_use"><![CDATA[积分支付的兑换率]]></string>
+    <string name="_bx_credits_option_conversion_rate_withdraw"><![CDATA[提取积分的兑换率]]></string>
+    <string name="_bx_credits_option_code"><![CDATA[前缀代码]]></string>
+    <string name="_bx_credits_option_icon"><![CDATA[前缀图标]]></string>
+    <string name="_bx_credits_enable_provider"><![CDATA[对所有新创建的档案自动启用"积分"供应商]]></string>
 
 
     <!-- Forms -->
-    <string name="_bx_credits_form_bundle"><![CDATA[Bundle]]></string>
-    <string name="_bx_credits_form_bundle_display_add"><![CDATA[Add Bundle]]></string>
-    <string name="_bx_credits_form_bundle_display_edit"><![CDATA[Edit Bundle]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_title"><![CDATA[Title]]></string>
-    <string name="_bx_credits_form_bundle_input_title"><![CDATA[Title]]></string>
-    <string name="_bx_credits_form_bundle_input_title_err"><![CDATA[This field is essential. Please fill it in for all languages.]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_name"><![CDATA[Name]]></string>
-    <string name="_bx_credits_form_bundle_input_name"><![CDATA[Name]]></string>
-    <string name="_bx_credits_form_bundle_input_name_err"><![CDATA[This field is essential for API calls. Please fill it in.]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_amount"><![CDATA[Amount]]></string>
-    <string name="_bx_credits_form_bundle_input_amount"><![CDATA[Amount]]></string>
-    <string name="_bx_credits_form_bundle_input_amount_err"><![CDATA[This field is essential. Please fill it in.]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_bonus"><![CDATA[Bonus]]></string>
-    <string name="_bx_credits_form_bundle_input_bonus"><![CDATA[Bonus]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_price"><![CDATA[Price]]></string>
-    <string name="_bx_credits_form_bundle_input_price"><![CDATA[Price]]></string>
-    <string name="_bx_credits_form_bundle_input_price_err"><![CDATA[This field is essential. Please fill it in.]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_do_submit"><![CDATA[Submit]]></string>
-    <string name="_bx_credits_form_bundle_input_do_submit"><![CDATA[Submit]]></string>
-    <string name="_bx_credits_form_bundle_input_sys_do_cancel"><![CDATA[Cancel]]></string>
-    <string name="_bx_credits_form_bundle_input_do_cancel"><![CDATA[Cancel]]></string>
+    <string name="_bx_credits_form_bundle"><![CDATA[包]]></string>
+    <string name="_bx_credits_form_bundle_display_add"><![CDATA[添加包]]></string>
+    <string name="_bx_credits_form_bundle_display_edit"><![CDATA[编辑包]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_title"><![CDATA[标题]]></string>
+    <string name="_bx_credits_form_bundle_input_title"><![CDATA[标题]]></string>
+    <string name="_bx_credits_form_bundle_input_title_err"><![CDATA[该字段必填，请录入该字段的各种语言版本。]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_name"><![CDATA[名称]]></string>
+    <string name="_bx_credits_form_bundle_input_name"><![CDATA[名称]]></string>
+    <string name="_bx_credits_form_bundle_input_name_err"><![CDATA[该字段对于 API 调用很重要，请录入该字段。]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_amount"><![CDATA[数量]]></string>
+    <string name="_bx_credits_form_bundle_input_amount"><![CDATA[数量]]></string>
+    <string name="_bx_credits_form_bundle_input_amount_err"><![CDATA[该字段必填，请录入该字段。]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_bonus"><![CDATA[奖励]]></string>
+    <string name="_bx_credits_form_bundle_input_bonus"><![CDATA[奖励]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_price"><![CDATA[价格]]></string>
+    <string name="_bx_credits_form_bundle_input_price"><![CDATA[价格]]></string>
+    <string name="_bx_credits_form_bundle_input_price_err"><![CDATA[该字段必填，请录入该字段。]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_do_submit"><![CDATA[提交]]></string>
+    <string name="_bx_credits_form_bundle_input_do_submit"><![CDATA[提交]]></string>
+    <string name="_bx_credits_form_bundle_input_sys_do_cancel"><![CDATA[取消]]></string>
+    <string name="_bx_credits_form_bundle_input_do_cancel"><![CDATA[取消]]></string>
 
-    <string name="_bx_credits_form_credit"><![CDATA[Credit]]></string>
-    <string name="_bx_credits_form_credit_display_grant"><![CDATA[Grant]]></string>
-    <string name="_bx_credits_form_credit_display_withdraw_request"><![CDATA[Request Withdraw]]></string>
-    <string name="_bx_credits_form_credit_display_withdraw_confirm"><![CDATA[Confirm withdraw]]></string>
-    <string name="_bx_credits_form_credit_input_sys_balance"><![CDATA[Balance]]></string>
-    <string name="_bx_credits_form_credit_input_balance"><![CDATA[Balance]]></string>
-    <string name="_bx_credits_form_credit_input_sys_rate"><![CDATA[Conversion rate]]></string>
-    <string name="_bx_credits_form_credit_input_rate"><![CDATA[Conversion rate]]></string>
-    <string name="_bx_credits_form_credit_input_sys_result"><![CDATA[Result]]></string>
-    <string name="_bx_credits_form_credit_input_result"><![CDATA[Result]]></string>
-    <string name="_bx_credits_form_credit_input_sys_amount"><![CDATA[Amount]]></string>
-    <string name="_bx_credits_form_credit_input_amount"><![CDATA[Amount]]></string>
-    <string name="_bx_credits_form_credit_input_sys_message"><![CDATA[Message]]></string>
-    <string name="_bx_credits_form_credit_input_message"><![CDATA[Message]]></string>
-    <string name="_bx_credits_form_credit_input_profile"><![CDATA[Profile]]></string>
-    <string name="_bx_credits_form_credit_input_sys_do_submit"><![CDATA[Submit]]></string>
-    <string name="_bx_credits_form_credit_input_do_submit"><![CDATA[Submit]]></string>
-    <string name="_bx_credits_form_credit_input_sys_do_cancel"><![CDATA[Cancel]]></string>
-    <string name="_bx_credits_form_credit_input_do_cancel"><![CDATA[Cancel]]></string>
+    <string name="_bx_credits_form_credit"><![CDATA[积分]]></string>
+    <string name="_bx_credits_form_credit_display_grant"><![CDATA[授予]]></string>
+    <string name="_bx_credits_form_credit_display_withdraw_request"><![CDATA[请求提取]]></string>
+    <string name="_bx_credits_form_credit_display_withdraw_confirm"><![CDATA[确认提取]]></string>
+    <string name="_bx_credits_form_credit_input_sys_balance"><![CDATA[余额]]></string>
+    <string name="_bx_credits_form_credit_input_balance"><![CDATA[余额]]></string>
+    <string name="_bx_credits_form_credit_input_sys_rate"><![CDATA[转换率]]></string>
+    <string name="_bx_credits_form_credit_input_rate"><![CDATA[转换率]]></string>
+    <string name="_bx_credits_form_credit_input_sys_result"><![CDATA[结果]]></string>
+    <string name="_bx_credits_form_credit_input_result"><![CDATA[结果]]></string>
+    <string name="_bx_credits_form_credit_input_sys_amount"><![CDATA[数量]]></string>
+    <string name="_bx_credits_form_credit_input_amount"><![CDATA[数量]]></string>
+    <string name="_bx_credits_form_credit_input_sys_message"><![CDATA[消息]]></string>
+    <string name="_bx_credits_form_credit_input_message"><![CDATA[消息]]></string>
+    <string name="_bx_credits_form_credit_input_profile"><![CDATA[档案]]></string>
+    <string name="_bx_credits_form_credit_input_sys_do_submit"><![CDATA[提交]]></string>
+    <string name="_bx_credits_form_credit_input_do_submit"><![CDATA[提交]]></string>
+    <string name="_bx_credits_form_credit_input_sys_do_cancel"><![CDATA[取消]]></string>
+    <string name="_bx_credits_form_credit_input_do_cancel"><![CDATA[取消]]></string>
 
 
     <!-- Pages -->
-    <string name="_bx_credits_page_title_sys_home"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_page_title_home"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_page_block_title_sys_bundles"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_page_block_title_bundles"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_page_title_sys_checkout"><![CDATA[Checkout]]></string>
-    <string name="_bx_credits_page_title_checkout"><![CDATA[Checkout]]></string>
-    <string name="_bx_credits_page_block_title_sys_checkout"><![CDATA[Checkout]]></string>
-    <string name="_bx_credits_page_block_title_checkout"><![CDATA[Checkout]]></string>
-    <string name="_bx_credits_page_title_sys_history_common"><![CDATA[My History]]></string>
-    <string name="_bx_credits_page_title_history_common"><![CDATA[History]]></string>
-    <string name="_bx_credits_page_block_title_sys_history_common"><![CDATA[My History]]></string>
-    <string name="_bx_credits_page_block_title_history_common"><![CDATA[History]]></string>    
-    <string name="_bx_credits_page_title_sys_history_administration"><![CDATA[All History]]></string>
-    <string name="_bx_credits_page_title_history_administration"><![CDATA[History]]></string>
-    <string name="_bx_credits_page_block_title_sys_history_administration"><![CDATA[All History]]></string>
-    <string name="_bx_credits_page_block_title_history_administration"><![CDATA[History]]></string>
-    <string name="_bx_credits_page_title_sys_orders_common"><![CDATA[My Orders]]></string>
-    <string name="_bx_credits_page_title_orders_common"><![CDATA[Orders]]></string>
-    <string name="_bx_credits_page_block_title_sys_orders_common_note"><![CDATA[Note]]></string>
-    <string name="_bx_credits_page_block_title_orders_common_note"><![CDATA[Note]]></string>
-    <string name="_bx_credits_page_block_content_orders_common_note"><![CDATA[The orders are for reference only.]]></string>
-    <string name="_bx_credits_page_block_title_sys_orders_common"><![CDATA[My Orders]]></string>
-    <string name="_bx_credits_page_block_title_orders_common"><![CDATA[Orders]]></string>
-    <string name="_bx_credits_page_title_sys_orders_administration"><![CDATA[All Orders]]></string>
-    <string name="_bx_credits_page_title_orders_administration"><![CDATA[Orders]]></string>
-    <string name="_bx_credits_page_block_title_sys_orders_administration"><![CDATA[All Orders]]></string>
-    <string name="_bx_credits_page_block_title_orders_administration"><![CDATA[Orders]]></string>
+    <string name="_bx_credits_page_title_sys_home"><![CDATA[积分]]></string>
+    <string name="_bx_credits_page_title_home"><![CDATA[积分]]></string>
+    <string name="_bx_credits_page_block_title_sys_bundles"><![CDATA[积分]]></string>
+    <string name="_bx_credits_page_block_title_bundles"><![CDATA[积分]]></string>
+    <string name="_bx_credits_page_title_sys_checkout"><![CDATA[结账]]></string>
+    <string name="_bx_credits_page_title_checkout"><![CDATA[结账]]></string>
+    <string name="_bx_credits_page_block_title_sys_checkout"><![CDATA[结账]]></string>
+    <string name="_bx_credits_page_block_title_checkout"><![CDATA[结账]]></string>
+    <string name="_bx_credits_page_title_sys_history_common"><![CDATA[我的历史记录]]></string>
+    <string name="_bx_credits_page_title_history_common"><![CDATA[历史记录]]></string>
+    <string name="_bx_credits_page_block_title_sys_history_common"><![CDATA[我的历史记录]]></string>
+    <string name="_bx_credits_page_block_title_history_common"><![CDATA[历史记录]]></string>
+    <string name="_bx_credits_page_title_sys_history_administration"><![CDATA[全部历史记录]]></string>
+    <string name="_bx_credits_page_title_history_administration"><![CDATA[历史记录]]></string>
+    <string name="_bx_credits_page_block_title_sys_history_administration"><![CDATA[全部历史记录]]></string>
+    <string name="_bx_credits_page_block_title_history_administration"><![CDATA[历史记录]]></string>
+    <string name="_bx_credits_page_title_sys_orders_common"><![CDATA[我的订单]]></string>
+    <string name="_bx_credits_page_title_orders_common"><![CDATA[订单]]></string>
+    <string name="_bx_credits_page_block_title_sys_orders_common_note"><![CDATA[备注]]></string>
+    <string name="_bx_credits_page_block_title_orders_common_note"><![CDATA[备注]]></string>
+    <string name="_bx_credits_page_block_content_orders_common_note"><![CDATA[订单仅供参考。]]></string>
+    <string name="_bx_credits_page_block_title_sys_orders_common"><![CDATA[我的订单]]></string>
+    <string name="_bx_credits_page_block_title_orders_common"><![CDATA[订单]]></string>
+    <string name="_bx_credits_page_title_sys_orders_administration"><![CDATA[全部订单]]></string>
+    <string name="_bx_credits_page_title_orders_administration"><![CDATA[订单]]></string>
+    <string name="_bx_credits_page_block_title_sys_orders_administration"><![CDATA[全部订单]]></string>
+    <string name="_bx_credits_page_block_title_orders_administration"><![CDATA[订单]]></string>
 
 
     <!-- Menus -->
-    <string name="_bx_credits_menu_item_title_system_credits"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_menu_item_title_credits"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_menu_item_title_system_history"><![CDATA[Balance]]></string>
+    <string name="_bx_credits_menu_item_title_system_credits"><![CDATA[积分]]></string>
+    <string name="_bx_credits_menu_item_title_credits"><![CDATA[积分]]></string>
+    <string name="_bx_credits_menu_item_title_system_history"><![CDATA[余额]]></string>
     <string name="_bx_credits_menu_item_title_history"><![CDATA[{unit}{value}]]></string>
-    <string name="_bx_credits_menu_item_title_system_notifications"><![CDATA[Balance]]></string>
+    <string name="_bx_credits_menu_item_title_system_notifications"><![CDATA[余额]]></string>
     <string name="_bx_credits_menu_item_title_notifications"><![CDATA[{value}]]></string>
-    <string name="_bx_credits_menu_title_submenu"><![CDATA[Credits Submenu]]></string>
-    <string name="_bx_credits_menu_set_title_submenu"><![CDATA[Credits Submenu]]></string>
-    <string name="_bx_credits_menu_item_title_system_home"><![CDATA[Home]]></string>
-    <string name="_bx_credits_menu_item_title_home"><![CDATA[Home]]></string>
-    <string name="_bx_credits_menu_item_title_system_admt_credits"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_menu_item_title_admt_credits"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_menu_item_title_bundles"><![CDATA[Bundles]]></string>
-    <string name="_bx_credits_menu_item_title_system_manage"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_menu_item_title_manage"><![CDATA[Credits]]></string>
-    <string name="_bx_credits_menu_title_manage_submenu"><![CDATA[Orders Submenu]]></string>
-    <string name="_bx_credits_menu_set_title_manage_submenu"><![CDATA[Orders Submenu]]></string>
-    <string name="_bx_credits_menu_item_title_system_orders_administration"><![CDATA[All Orders]]></string>
-    <string name="_bx_credits_menu_item_title_orders_administration"><![CDATA[All Orders]]></string>
-    <string name="_bx_credits_menu_item_title_system_orders_common"><![CDATA[My Orders]]></string>
-    <string name="_bx_credits_menu_item_title_orders_common"><![CDATA[My Orders]]></string>
-    <string name="_bx_credits_menu_item_title_system_history_administration"><![CDATA[All History]]></string>
-    <string name="_bx_credits_menu_item_title_history_administration"><![CDATA[All History]]></string>
-    <string name="_bx_credits_menu_item_title_system_history_common"><![CDATA[My History]]></string>
-    <string name="_bx_credits_menu_item_title_history_common"><![CDATA[My History]]></string>
+    <string name="_bx_credits_menu_title_submenu"><![CDATA[积分子菜单]]></string>
+    <string name="_bx_credits_menu_set_title_submenu"><![CDATA[积分子菜单]]></string>
+    <string name="_bx_credits_menu_item_title_system_home"><![CDATA[主页]]></string>
+    <string name="_bx_credits_menu_item_title_home"><![CDATA[主页]]></string>
+    <string name="_bx_credits_menu_item_title_system_admt_credits"><![CDATA[积分]]></string>
+    <string name="_bx_credits_menu_item_title_admt_credits"><![CDATA[积分]]></string>
+    <string name="_bx_credits_menu_item_title_bundles"><![CDATA[包]]></string>
+    <string name="_bx_credits_menu_item_title_system_manage"><![CDATA[积分]]></string>
+    <string name="_bx_credits_menu_item_title_manage"><![CDATA[积分]]></string>
+    <string name="_bx_credits_menu_title_manage_submenu"><![CDATA[订单子菜单]]></string>
+    <string name="_bx_credits_menu_set_title_manage_submenu"><![CDATA[订单子菜单]]></string>
+    <string name="_bx_credits_menu_item_title_system_orders_administration"><![CDATA[全部订单]]></string>
+    <string name="_bx_credits_menu_item_title_orders_administration"><![CDATA[全部订单]]></string>
+    <string name="_bx_credits_menu_item_title_system_orders_common"><![CDATA[我的订单]]></string>
+    <string name="_bx_credits_menu_item_title_orders_common"><![CDATA[我的订单]]></string>
+    <string name="_bx_credits_menu_item_title_system_history_administration"><![CDATA[全部历史记录]]></string>
+    <string name="_bx_credits_menu_item_title_history_administration"><![CDATA[全部历史记录]]></string>
+    <string name="_bx_credits_menu_item_title_system_history_common"><![CDATA[我的历史记录]]></string>
+    <string name="_bx_credits_menu_item_title_history_common"><![CDATA[我的历史记录]]></string>
 
 
     <!-- Grids -->
-    <string name="_bx_credits_grid_column_title_name"><![CDATA[Name]]></string>
-    <string name="_bx_credits_grid_column_title_title"><![CDATA[Title]]></string>
-    <string name="_bx_credits_grid_column_title_amount"><![CDATA[Amount]]></string>
-    <string name="_bx_credits_grid_column_title_bonus"><![CDATA[Bonus]]></string>
-    <string name="_bx_credits_grid_column_title_price"><![CDATA[Price]]></string>
-    <string name="_bx_credits_grid_action_title_add"><![CDATA[Add]]></string>
-    <string name="_bx_credits_grid_action_title_edit"><![CDATA[Edit]]></string>
-    <string name="_bx_credits_grid_action_title_delete"><![CDATA[Delete]]></string>
-    <string name="_bx_credits_grid_popup_title_add_bundle"><![CDATA[Add Bundle]]></string>
-    <string name="_bx_credits_grid_popup_title_edit_bundle"><![CDATA[Edit '{0}' Bundle]]></string>
+    <string name="_bx_credits_grid_column_title_name"><![CDATA[名称]]></string>
+    <string name="_bx_credits_grid_column_title_title"><![CDATA[标题]]></string>
+    <string name="_bx_credits_grid_column_title_amount"><![CDATA[数量]]></string>
+    <string name="_bx_credits_grid_column_title_bonus"><![CDATA[奖励]]></string>
+    <string name="_bx_credits_grid_column_title_price"><![CDATA[价格]]></string>
+    <string name="_bx_credits_grid_action_title_add"><![CDATA[添加]]></string>
+    <string name="_bx_credits_grid_action_title_edit"><![CDATA[编辑]]></string>
+    <string name="_bx_credits_grid_action_title_delete"><![CDATA[删除]]></string>
+    <string name="_bx_credits_grid_popup_title_add_bundle"><![CDATA[添加包]]></string>
+    <string name="_bx_credits_grid_popup_title_edit_bundle"><![CDATA[编辑'{0}'包]]></string>
 
-    <string name="_bx_credits_grid_column_title_htr_pid"><![CDATA[Profile]]></string>
-    <string name="_bx_credits_grid_column_title_htr_first_pid"><![CDATA[Profile 1]]></string>
-    <string name="_bx_credits_grid_column_title_htr_second_pid"><![CDATA[Profile 2]]></string>
-    <string name="_bx_credits_grid_column_title_htr_amount"><![CDATA[Amount]]></string>
-    <string name="_bx_credits_grid_column_title_htr_order"><![CDATA[Order]]></string>
-    <string name="_bx_credits_grid_column_title_htr_direction"><![CDATA[Direction]]></string>
-    <string name="_bx_credits_grid_column_title_htr_info"><![CDATA[Notice]]></string>
-    <string name="_bx_credits_grid_column_title_htr_date"><![CDATA[Date]]></string>
-    <string name="_bx_credits_grid_action_title_htr_grant"><![CDATA[Grant]]></string>
-    <string name="_bx_credits_grid_action_title_htr_withdraw_confirm"><![CDATA[Confirm withdraw]]></string>
-    <string name="_bx_credits_grid_action_title_htr_withdraw_request"><![CDATA[Request withdraw]]></string>
-    <string name="_bx_credits_grid_popup_title_htr_grant"><![CDATA[Grant]]></string>
-    <string name="_bx_credits_grid_popup_title_htr_withdraw_confirm"><![CDATA[Confirm withdraw]]></string>
-    <string name="_bx_credits_grid_popup_title_htr_withdraw_request"><![CDATA[Request withdraw]]></string>
+    <string name="_bx_credits_grid_column_title_htr_pid"><![CDATA[档案]]></string>
+    <string name="_bx_credits_grid_column_title_htr_first_pid"><![CDATA[档案 1]]></string>
+    <string name="_bx_credits_grid_column_title_htr_second_pid"><![CDATA[档案 2]]></string>
+    <string name="_bx_credits_grid_column_title_htr_amount"><![CDATA[数量]]></string>
+    <string name="_bx_credits_grid_column_title_htr_order"><![CDATA[订单]]></string>
+    <string name="_bx_credits_grid_column_title_htr_direction"><![CDATA[说明]]></string>
+    <string name="_bx_credits_grid_column_title_htr_info"><![CDATA[注意]]></string>
+    <string name="_bx_credits_grid_column_title_htr_date"><![CDATA[日期]]></string>
+    <string name="_bx_credits_grid_action_title_htr_grant"><![CDATA[授予]]></string>
+    <string name="_bx_credits_grid_action_title_htr_withdraw_confirm"><![CDATA[确定提取]]></string>
+    <string name="_bx_credits_grid_action_title_htr_withdraw_request"><![CDATA[申请提取]]></string>
+    <string name="_bx_credits_grid_popup_title_htr_grant"><![CDATA[授予]]></string>
+    <string name="_bx_credits_grid_popup_title_htr_withdraw_confirm"><![CDATA[确定提取]]></string>
+    <string name="_bx_credits_grid_popup_title_htr_withdraw_request"><![CDATA[申请提取]]></string>
 
-    <string name="_bx_credits_grid_column_title_ord_profile_id"><![CDATA[Profile]]></string>
-    <string name="_bx_credits_grid_column_title_ord_bundle"><![CDATA[Bundle]]></string>
-    <string name="_bx_credits_grid_column_title_ord_transaction"><![CDATA[Transaction]]></string>
-    <string name="_bx_credits_grid_column_title_ord_type"><![CDATA[Type]]></string>
-    <string name="_bx_credits_grid_column_value_ord_type_single"><![CDATA[Single]]></string>
-    <string name="_bx_credits_grid_column_value_ord_type_recurring"><![CDATA[Recurring]]></string>
-    <string name="_bx_credits_grid_column_title_ord_added"><![CDATA[Added]]></string>
-    <string name="_bx_credits_grid_column_title_ord_expired"><![CDATA[Expires]]></string>
+    <string name="_bx_credits_grid_column_title_ord_profile_id"><![CDATA[档案]]></string>
+    <string name="_bx_credits_grid_column_title_ord_bundle"><![CDATA[包]]></string>
+    <string name="_bx_credits_grid_column_title_ord_transaction"><![CDATA[交易流水]]></string>
+    <string name="_bx_credits_grid_column_title_ord_type"><![CDATA[类型]]></string>
+    <string name="_bx_credits_grid_column_value_ord_type_single"><![CDATA[单个]]></string>
+    <string name="_bx_credits_grid_column_value_ord_type_recurring"><![CDATA[反复的]]></string>
+    <string name="_bx_credits_grid_column_title_ord_added"><![CDATA[已添加]]></string>
+    <string name="_bx_credits_grid_column_title_ord_expired"><![CDATA[过期]]></string>
 
 
     <!-- Email templates -->
-    <string name="_bx_credits_et_txt_name_granted"><![CDATA[Credits granted.]]></string>
-    <string name="_bx_credits_et_txt_subject_granted"><![CDATA[You're granted {amount} credits.]]></string>
+    <string name="_bx_credits_et_txt_name_granted"><![CDATA[积分已授予。]]></string>
+    <string name="_bx_credits_et_txt_subject_granted"><![CDATA[您被授予 {amount} 积分。]]></string>
     <string name="_bx_credits_et_txt_body_granted"><![CDATA[{email_header}
-<p>Hello, {profile_name}.</p>
-<p>You're granted <b>{amount}</b> credits.</p>
+<p>您好， {profile_name}.</p>
+<p>您被授予了 <b>{amount}</b> 积分。</p>
 <p>{message}</p>
 {email_footer}]]></string>
-    <string name="_bx_credits_et_txt_name_purchased"><![CDATA[Credits purchased.]]></string>
-    <string name="_bx_credits_et_txt_subject_purchased"><![CDATA[You've purchased {bundle_title} credits bundle.]]></string>
+    <string name="_bx_credits_et_txt_name_purchased"><![CDATA[积分已购买。]]></string>
+    <string name="_bx_credits_et_txt_subject_purchased"><![CDATA[您已购买了 {bundle_title} 积分包。]]></string>
     <string name="_bx_credits_et_txt_body_purchased"><![CDATA[{email_header}
-<p>Hello, {client_name}.</p>
-<p>You've purchased <a href="{bundle_url}">{bundle_title}</a> credits bundle.<br />Your order is <b>{order}</b>.</p>
+<p>您好， {client_name}.</p>
+<p>您已购买了 <a href="{bundle_url}">{bundle_title}</a> 积分包。<br />您的订单是 <b>{order}</b>。</p>
 <p>{notes}</p>
 {email_footer}]]></string>
-    <string name="_bx_credits_et_txt_name_in"><![CDATA[Credits in.]]></string>
-    <string name="_bx_credits_et_txt_subject_in"><![CDATA[Credits in.]]></string>
+    <string name="_bx_credits_et_txt_name_in"><![CDATA[积分进账]]></string>
+    <string name="_bx_credits_et_txt_subject_in"><![CDATA[积分进账]]></string>
     <string name="_bx_credits_et_txt_body_in"><![CDATA[{email_header}
-<p>Hello, {profile_name}.</p>
-<p>You've received <b>{amount}</b> credits from {second_profile_name}.</p>
+<p>您好， {profile_name}.</p>
+<p>您收到 <b>{amount}</b> 积分，来自 {second_profile_name}。</p>
 {email_footer}]]></string>
-    <string name="_bx_credits_et_txt_name_out"><![CDATA[Credits out.]]></string>
-    <string name="_bx_credits_et_txt_subject_out"><![CDATA[Credits out.]]></string>
+    <string name="_bx_credits_et_txt_name_out"><![CDATA[积分出账]]></string>
+    <string name="_bx_credits_et_txt_subject_out"><![CDATA[积分出账]]></string>
     <string name="_bx_credits_et_txt_body_out"><![CDATA[{email_header}
-<p>Hello, {profile_name}.</p>
-<p>You've sent <b>{amount}</b> credits to {second_profile_name}.</p>
+<p>您好，{profile_name}.</p>
+<p>您已发出了 <b>{amount}</b> 积分，给{second_profile_name}。</p>
 {email_footer}]]></string>
-    <string name="_bx_credits_et_txt_name_withdraw_requested"><![CDATA[Withdraw request.]]></string>
-    <string name="_bx_credits_et_txt_subject_withdraw_requested"><![CDATA[Withdraw request.]]></string>
+    <string name="_bx_credits_et_txt_name_withdraw_requested"><![CDATA[提取请求。]]></string>
+    <string name="_bx_credits_et_txt_subject_withdraw_requested"><![CDATA[提取请求。]]></string>
     <string name="_bx_credits_et_txt_body_withdraw_requested"><![CDATA[{email_header}
-<p><a href="{profile_link}">{profile_name}</a> requested to withdraw <b>{amount}</b> credits from his/her balance.</p>
+<p><a href="{profile_link}">{profile_name}</a>请求从 TA 的余额中提取 <b>{amount}</b> 积分。</p>
 <p>{message}</p>
-<p>Current withdraw conversion rate is <b>{rate}</b></p>
+<p>当前的提取转换率是 <b>{rate}</b></p>
 {email_footer}]]></string>
-    <string name="_bx_credits_et_txt_name_withdraw_sent"><![CDATA[Withdraw was sent.]]></string>
-    <string name="_bx_credits_et_txt_subject_withdraw_sent"><![CDATA[Withdraw was sent.]]></string>
+    <string name="_bx_credits_et_txt_name_withdraw_sent"><![CDATA[提取已发出。]]></string>
+    <string name="_bx_credits_et_txt_subject_withdraw_sent"><![CDATA[提取已发出。]]></string>
     <string name="_bx_credits_et_txt_body_withdraw_sent"><![CDATA[{email_header}
-<p>Hello, {profile_name}.</p>
-<p>The requested amount of credits (<b>{amount}</b>) was withdrawn to you.</p>
+<p>您好，{profile_name}.</p>
+<p>您请求的 (<b>{amount}</b>) 积分已提取给您。</p>
 <p>{message}</p>
 {email_footer}]]></string>
 
 
     <!-- Other -->
-    <string name="_bx_credits_txt_sample_single"><![CDATA[credit]]></string>
-    <string name="_bx_credits_txt_sample_single_with_article"><![CDATA[a credit]]></string>
-    <string name="_bx_credits_txt_for_free"><![CDATA[for Free]]></string>
-    <string name="_bx_credits_txt_n_plus_m_for_free"><![CDATA[{0} (+{1} for free)]]></string>
-    <string name="_bx_credits_txt_purchase"><![CDATA[Purchase]]></string>
-    <string name="_bx_credits_txt_never"><![CDATA[never]]></string>
-    <string name="_bx_credits_txt_direction_out"><![CDATA[sent to]]></string>
-    <string name="_bx_credits_txt_direction_in"><![CDATA[got from]]></string>
-    <string name="_bx_credits_txt_purchased_note"><![CDATA[Contact <a href="{0}">{1}</a> if you have any questions or need support.]]></string>
-    <string name="_bx_credits_txt_history_info_grant"><![CDATA[Grant]]></string>
-    <string name="_bx_credits_txt_history_info_purchase"><![CDATA[Bundle purchase]]></string>
-    <string name="_bx_credits_txt_history_info_checkout"><![CDATA[Profile to profile checkout]]></string>
-    <string name="_bx_credits_txt_history_info_withdraw"><![CDATA[Withdraw by request]]></string>
-    <string name="_bx_credits_txt_history_info_service"><![CDATA[Artificially initiated transfer]]></string>
-    <string name="_bx_credits_txt_history_info_refund"><![CDATA[Refund]]></string>
+    <string name="_bx_credits_txt_sample_single"><![CDATA[积分]]></string>
+    <string name="_bx_credits_txt_sample_single_with_article"><![CDATA[一个积分]]></string>
+    <string name="_bx_credits_txt_for_free"><![CDATA[免费]]></string>
+    <string name="_bx_credits_txt_n_plus_m_for_free"><![CDATA[{0} (+{1} 免费)]]></string>
+    <string name="_bx_credits_txt_purchase"><![CDATA[购买]]></string>
+    <string name="_bx_credits_txt_never"><![CDATA[用不]]></string>
+    <string name="_bx_credits_txt_direction_out"><![CDATA[发给]]></string>
+    <string name="_bx_credits_txt_direction_in"><![CDATA[得自]]></string>
+    <string name="_bx_credits_txt_purchased_note"><![CDATA[请联系<a href="{0}">{1}</a>如果您有任何问题或需要帮助。]]></string>
+    <string name="_bx_credits_txt_history_info_grant"><![CDATA[授予]]></string>
+    <string name="_bx_credits_txt_history_info_purchase"><![CDATA[包购买]]></string>
+    <string name="_bx_credits_txt_history_info_checkout"><![CDATA[结账的档案]]></string>
+    <string name="_bx_credits_txt_history_info_withdraw"><![CDATA[请求的提出]]></string>
+    <string name="_bx_credits_txt_history_info_service"><![CDATA[人工地发起转换]]></string>
+    <string name="_bx_credits_txt_history_info_refund"><![CDATA[退款]]></string>
 
-    <string name="_bx_credits_msg_empty_author"><![CDATA['Main seller' is empty. You need to mark some profile as 'Main seller' in Settings of currently active Payment app.]]></string>
-    <string name="_bx_credits_msg_action_performed"><![CDATA[The action was performed successfully.]]></string>
-    <string name="_bx_credits_err_profile_not_found"><![CDATA[Profile wasn't found.]]></string>
-    <string name="_bx_credits_err_login_required"><![CDATA[Login required.]]></string>
-    <string name="_bx_credits_err_low_balance"><![CDATA[Low balance.]]></string>
-    <string name="_bx_credits_err_cannot_update_balance"><![CDATA[Cannot update balance.]]></string>
-    <string name="_bx_credits_err_cannot_send"><![CDATA[Cannot send message. Please report.]]></string>
-    <string name="_bx_credits_err_cannot_perform_action"><![CDATA[Cannot perform the action. Please report.]]></string>
+    <string name="_bx_credits_msg_empty_author"><![CDATA["主要卖家"为空。您需要在当前启用的付款应用的设置中，将某档案标记为"主要卖家"。]]></string>
+    <string name="_bx_credits_msg_action_performed"><![CDATA[该操作执行成功。]]></string>
+    <string name="_bx_credits_err_profile_not_found"><![CDATA[档案未找到]]></string>
+    <string name="_bx_credits_err_login_required"><![CDATA[需要登录。]]></string>
+    <string name="_bx_credits_err_low_balance"><![CDATA[余额不足。]]></string>
+    <string name="_bx_credits_err_cannot_update_balance"><![CDATA[无法更新余额。]]></string>
+    <string name="_bx_credits_err_cannot_send"><![CDATA[无法发送消息，请报告。]]></string>
+    <string name="_bx_credits_err_cannot_perform_action"><![CDATA[无法执行该操作，请报告。]]></string>
 
 
     <!-- Checkout process -->
-    <string name="_bx_credits_txt_checkout"><![CDATA[Checkout]]></string>
-    <string name="_bx_credits_txt_checkout_to"><![CDATA[Pay to {0} for:]]></string>
-    <string name="_bx_credits_txt_checkout_price_money"><![CDATA[Price:]]></string>
-    <string name="_bx_credits_txt_checkout_price_credits"><![CDATA[In Credits:]]></string>
-    <string name="_bx_credits_txt_checkout_rate"><![CDATA[Rate:]]></string>
-    <string name="_bx_credits_txt_checkout_qt"><![CDATA[qt.]]></string>
+    <string name="_bx_credits_txt_checkout"><![CDATA[结账]]></string>
+    <string name="_bx_credits_txt_checkout_to"><![CDATA[付给 {0} ：]]></string>
+    <string name="_bx_credits_txt_checkout_price_money"><![CDATA[价格：]]></string>
+    <string name="_bx_credits_txt_checkout_price_credits"><![CDATA[入账积分：]]></string>
+    <string name="_bx_credits_txt_checkout_rate"><![CDATA[转换率：]]></string>
+    <string name="_bx_credits_txt_checkout_qt"><![CDATA[数量]]></string>
 
     <!-- Subscribe process -->
-    <string name="_bx_credits_txt_subscribe"><![CDATA[Subscribe]]></string>
-    <string name="_bx_credits_txt_subscribe_for"><![CDATA[Subscribe for:]]></string>    
+    <string name="_bx_credits_txt_subscribe"><![CDATA[订阅]]></string>
+    <string name="_bx_credits_txt_subscribe_for"><![CDATA[订阅:]]></string>
     <string name="_bx_credits_txt_subscribe_period_mask"><![CDATA[{0} {1}]]></string>
-    <string name="_bx_credits_txt_subscribe_period_unit_year"><![CDATA[yr.]]></string>
-    <string name="_bx_credits_txt_subscribe_period_unit_month"><![CDATA[mo.]]></string>
-    <string name="_bx_credits_txt_subscribe_period_unit_week"><![CDATA[wk.]]></string>
-    <string name="_bx_credits_txt_subscribe_period_unit_day"><![CDATA[d.]]></string>
-    <string name="_bx_credits_txt_subscribe_period_unit_hour"><![CDATA[hr.]]></string>
-    <string name="_bx_credits_txt_subscribe_period_unit_minute"><![CDATA[min.]]></string>
-    <string name="_bx_credits_txt_subscribe_trial"><![CDATA[Trial:]]></string>
+    <string name="_bx_credits_txt_subscribe_period_unit_year"><![CDATA[年]]></string>
+    <string name="_bx_credits_txt_subscribe_period_unit_month"><![CDATA[月]]></string>
+    <string name="_bx_credits_txt_subscribe_period_unit_week"><![CDATA[周]]></string>
+    <string name="_bx_credits_txt_subscribe_period_unit_day"><![CDATA[天]]></string>
+    <string name="_bx_credits_txt_subscribe_period_unit_hour"><![CDATA[时]]></string>
+    <string name="_bx_credits_txt_subscribe_period_unit_minute"><![CDATA[分]]></string>
+    <string name="_bx_credits_txt_subscribe_trial"><![CDATA[试用：]]></string>
     <string name="_bx_credits_txt_subscribe_trial_mask"><![CDATA[{0} {1}]]></string>
 
-    <string name="_bx_credits_err_unknown_buyer"><![CDATA[Login required.]]></string>
-    <string name="_bx_credits_err_unknown_seller"><![CDATA[Unknown seller.]]></string>
-    <string name="_bx_credits_err_incorrect_data"><![CDATA[Incorrect input data. Please report.]]></string>
+    <string name="_bx_credits_err_unknown_buyer"><![CDATA[需要登录。]]></string>
+    <string name="_bx_credits_err_unknown_seller"><![CDATA[未知的卖家。]]></string>
+    <string name="_bx_credits_err_incorrect_data"><![CDATA[错误的输入，请报告。]]></string>
 </resources>
