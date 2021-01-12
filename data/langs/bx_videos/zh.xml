@@ -11,7 +11,7 @@
 	<string name="_bx_videos_option_per_page_profile"><![CDATA[档案/小组主页中，每页显示的视频数量]]></string>
 	<string name="_bx_videos_option_rss_num"><![CDATA[RSS 资讯聚合显示的数量]]></string>
 	<string name="_bx_videos_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
-  <string name="_bx_videos_option_auto_activation_for_categories"><![CDATA[作为文章类别自动启用]]></string>
+  <string name="_bx_videos_option_auto_activation_for_categories"><![CDATA[自动启用视频类别]]></string>
   <string name="_bx_videos_option_per_page_for_favorites_lists"><![CDATA[收藏列表中每页显示的视频数量]]></string>
 
   <string name="_bx_videos_form_entry"><![CDATA[视频]]></string>
@@ -250,6 +250,6 @@
     <string name="_bx_videos_txt_sample_score_up_single"><![CDATA[对视频表示喜欢]]></string>
     <string name="_bx_videos_txt_sample_score_down_single"><![CDATA[对视频表示不喜欢]]></string>
     <string name="_bx_videos_txt_n_views"><![CDATA[{0} 个观看]]></string>
-    <string name="_bx_videos_txt_processing_awaiting"><![CDATA[计划在视频处理完成之后立即发布。]]></string>
+    <string name="_bx_videos_txt_processing_awaiting"><![CDATA[视频将在处理完成之后立即发布。]]></string>
     <string name="_bx_videos_txt_processing_failed"><![CDATA[视频处理失败，无法发布视频，请您编辑视频来解决此问题。]]></string>
 </resources>

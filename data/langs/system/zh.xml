@@ -2021,11 +2021,11 @@
     <string name="_sys_connect_profile_error_info"><![CDATA[无法定义您的档案]]></string>
     <string name="_sys_connect_state_invalid"><![CDATA[状态参数不匹配]]></string>
     <string name="_sys_connect_adm_stg_cpt_category_general"><![CDATA[通用]]></string>
-    <string name="_sys_connect_option_redirect"><![CDATA[首次登录后的跳转页面]]></string>
-    <string name="_sys_connect_option_module"><![CDATA[创建个人信息的模块]]></string>
+    <string name="_sys_connect_option_redirect"><![CDATA[首次登录后跳转至以下页面]]></string>
+    <string name="_sys_connect_option_module"><![CDATA[个人档案创建到以下模块]]></string>
     <string name="_sys_connect_option_confirm_email"><![CDATA[如使用此模块，则在加入时总是需要电子邮件进行确认]]></string>
     <string name="_sys_connect_option_approve"><![CDATA[如使用此模块，则在加入时总是需要进行个人信息的审核]]></string>
-    <string name="_sys_connect_option_privacy"><![CDATA[新创建的个人信息默认为不对外可见]]></string>
+    <string name="_sys_connect_option_privacy"><![CDATA[新创建的个人档案默认对外不可见]]></string>
 
 	<string name="_sys_currency"><![CDATA[{0}{1}]]></string>
         <string name="_sys_decline"><![CDATA[拒绝]]></string>

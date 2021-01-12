@@ -4,25 +4,25 @@
 	<string name="_bx_unacon"><![CDATA[UNA Connect]]></string>
 	<string name="_bx_unacon_settings"><![CDATA[UNA Connect]]></string>
 	<string name="_bx_unacon_information_block"><![CDATA[
-This module can be used to login to this site using another UNA site (master site) credentials. <br />
-To make it work, go to the master site, install "OAuth2 Server" module and add new client site, specify the desired title and the following URL:<br />
+该模块允许使用另一个 UNA 网站（主网站）的账号登录到该网站。 <br />
+若使其正常工作，请前往主网站，安装“OAuth2 服务器”模块并创建新的客户端网站，输入标题和以下 URL：<br />
 <strong>{0}</strong><br />
-Then enter generated on the master site the Key & Server pair in this module settings.]]></string>
-	<string name="_bx_unacon_profile_error_api_keys"><![CDATA[Please configure the module in admin panel (can't define API key, secret & URL)]]></string>
-	<string name="_bx_unacon_chart"><![CDATA[UNA Profiles]]></string>
-	<string name="_bx_unacon_auth_title"><![CDATA[Login with UNA]]></string>
+然后在此模块设置中输入在主站点上生成的 Key 和 Secret。]]></string>
+	<string name="_bx_unacon_profile_error_api_keys"><![CDATA[请在管理面板中对模块进行配置（无法定义 API Key、Secret 和 URL）]]></string>
+	<string name="_bx_unacon_chart"><![CDATA[UNA 档案]]></string>
+	<string name="_bx_unacon_auth_title"><![CDATA[使用 UNA 登录]]></string>
 
     <string name="_bx_unacon_adm_stg_cpt_type"><![CDATA[UNA Connect]]></string>
     <string name="_bx_unacon_option_app_id"><![CDATA[UNA App ID]]></string>
     <string name="_bx_unacon_option_app_secret"><![CDATA[UNA App Secret]]></string>
-    <string name="_bx_unacon_option_app_url"><![CDATA[Main UNA Site URL]]></string>
-    <string name="_bx_unacon_option_auto_friends"><![CDATA[Auto-friend members if they are already friends on other UNA site]]></string>
-    <string name="_bx_unacon_option_rewrite"><![CDATA[Use rewrite URLs on main UNA site]]></string>
+    <string name="_bx_unacon_option_app_url"><![CDATA[UNA 主网站 URL]]></string>
+    <string name="_bx_unacon_option_auto_friends"><![CDATA[如果两个会员在 UNA 其他网站上已经是好友，则自动成为好友]]></string>
+    <string name="_bx_unacon_option_rewrite"><![CDATA[在 UNA 主网站上使用复写的 URL]]></string>
 
-	<string name="_bx_unacon_et_password_generated"><![CDATA[UNA connect temporary password]]></string>
-	<string name="_bx_unacon_et_password_generated_subject"><![CDATA[Temporary password]]></string>
+	<string name="_bx_unacon_et_password_generated"><![CDATA[UNA connect 临时密码]]></string>
+	<string name="_bx_unacon_et_password_generated_subject"><![CDATA[临时密码]]></string>
 	<string name="_bx_unacon_et_password_generated_body"><![CDATA[{email_header}
-<p>Temporary password - <b>{password}</b></p>
-<p>Change it after logging-in.</p>
+<p>临时密码 - <b>{password}</b></p>
+<p>登录后进行更改。</p>
 {email_footer}]]></string>
 </resources>
