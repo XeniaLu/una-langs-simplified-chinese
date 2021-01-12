@@ -1658,7 +1658,7 @@
         <string name="_adm_tmi_cpt_account"><![CDATA[账号]]></string>
 	<string name="_adm_tmi_cpt_site"><![CDATA[前往网站]]></string>
 	<string name="_adm_tmi_cpt_tour"><![CDATA[浏览]]></string>
-	<string name="_adm_tmi_cpt_launcher"><![CDATA[启动台]]></string>
+	<string name="_adm_tmi_cpt_launcher"><![CDATA[启动页]]></string>
 	<string name="_adm_txt_confirm_cancel"><![CDATA[取消]]></string>
 	<string name="_adm_txt_confirm_ok"><![CDATA[好的]]></string>
 	<string name="_adm_txt_forgot_password"><![CDATA[忘记密码？]]></string>
@@ -2469,7 +2469,7 @@
 	<string name="_sys_grid_confirmation"><![CDATA[您确定吗？]]></string>
 	<string name="_sys_grid_delete_failed"><![CDATA[删除失败]]></string>
   <string name="_sys_grid_search"><![CDATA[搜索...]]></string>
-  <string name="_sys_grid_total_count"><![CDATA[计数：{0}]]></string>
+  <string name="_sys_grid_total_count"><![CDATA[数量：{0}]]></string>
   <string name="_sys_grid_txt_account_manager"><![CDATA[跳转至账号管理。]]></string>
 	<string name="_sys_inst_conf_desc"><![CDATA[{0}{1}<br />例如：{2}]]></string>
 	<string name="_sys_inst_conf_desc_admin_email"><![CDATA[输入管理员电子邮件地址。]]></string>
@@ -3104,8 +3104,8 @@
 	<string name="_sys_splash_inp_postfix"><![CDATA[.online.me]]></string>
 	<string name="_sys_splash_slogan"><![CDATA[创建属于自己的社交网站的最简单方法。]]></string>
         <string name="_sys_status"><![CDATA[状态]]></string>
-        <string name="_sys_status_awaiting"><![CDATA[等待中]]></string>
-        <string name="_sys_status_failed"><![CDATA[失败]]></string>
+        <string name="_sys_status_awaiting"><![CDATA[处理中]]></string>
+        <string name="_sys_status_failed"><![CDATA[处理失败]]></string>
 	<string name="_sys_storage_err_db"><![CDATA[数据库错误]]></string>
 	<string name="_sys_storage_err_engine_add"><![CDATA[发生错误]]></string>
 	<string name="_sys_storage_err_engine_get"><![CDATA[发生错误]]></string>
@@ -3193,7 +3193,7 @@
 	<string name="_sys_txt_confirm_phone_set_phone_desc_set_phone"><![CDATA[请输入用于接收验证码的手机号码。]]></string>
 	<string name="_sys_txt_confirm_phone_set_phone_desc_phone_confirmation"><![CDATA[请输入您收到的验证码。]]></string>
 
-	<string name="_sys_txt_create_post_placeholder"><![CDATA[发生了什么，{0}]]></string>
+	<string name="_sys_txt_create_post_placeholder"><![CDATA[最近怎么样，{0}]]></string>
 
     <string name="_sys_txt_current_picture"><![CDATA[当前图片]]></string>
 	<string name="_sys_txt_data_successfully_submitted"><![CDATA[完成]]></string>
