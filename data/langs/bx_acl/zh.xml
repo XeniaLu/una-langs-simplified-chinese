@@ -83,7 +83,7 @@
 
 
 	<!-- Common Texts -->
-	<string name="_bx_acl_msg_empty_owner"><![CDATA['主要卖方为空。您需要在当前有效的付款应用设置中将一些个人资料标记为“主要卖家”。]]></string>
+	<string name="_bx_acl_msg_empty_owner"><![CDATA[“主要卖方”为空。您需要在当前有效的付款应用设置中将一些个人资料标记为“主要卖家”。]]></string>
 	<string name="_bx_acl_msg_performed"><![CDATA[操作已执行成功。]]></string>
 	<string name="_bx_acl_err_price_duplicate"><![CDATA[类似的定价方案已存在。]]></string>
 	<string name="_bx_acl_err_cannot_perform"><![CDATA[出现错误，请报告。]]></string>
