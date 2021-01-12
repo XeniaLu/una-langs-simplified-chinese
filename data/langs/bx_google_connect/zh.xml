@@ -4,14 +4,14 @@
 	<string name="_bx_googlecon"><![CDATA[Google Connect]]></string>
 	<string name="_bx_googlecon_settings"><![CDATA[Google Connect]]></string>
 	<string name="_bx_googlecon_information_block"><![CDATA[
-        <p>该模块可用于使用您的 Google 帐户证书登录到该网站。</p>
-        <p>为了确保其正常工作，当您创建一个项目指向以下信息时，请遵循说明<a target="_blank" href="https://developers.google.com/identity/sign-in/web/devconsole-project">如何生成 Google 项目</a>：<br />
+        <p>该模块允许使用您的 Google 账号登录到网站。</p>
+        <p>为了确保其正常工作，请按照有关<a target="_blank" href="https://developers.google.com/identity/sign-in/web/devconsole-project">如何创建 Google 项目</a>的说明进行操作，在创建项目时，请输入以下信息：<br />
             <ul>
-                <li>重定向 URL：<strong>{0}</strong></li>
+                <li>跳转 URL：<strong>{0}</strong></li>
             </ul>
-            然后在该模块设置中录入已生成的成对的 Client ID 和 Secret。
+            然后在此模块设置中输入生成的 Client ID 和 Secret。
         </p>]]></string>
-	<string name="_bx_googlecon_profile_error_api_keys"><![CDATA[请在管理面板中配置该模块（无法定义 Client ID & Secret）]]></string>
+	<string name="_bx_googlecon_profile_error_api_keys"><![CDATA[请在管理面板中对模块进行配置（无法定义 Client ID & Secret）]]></string>
 	<string name="_bx_googlecon_auth_title"><![CDATA[使用 Google 登录]]></string>
 
     <string name="_bx_googlecon_adm_stg_cpt_type"><![CDATA[Google Connect]]></string>
@@ -22,6 +22,6 @@
 	<string name="_bx_googlecon_et_password_generated_subject"><![CDATA[临时密码]]></string>
 	<string name="_bx_googlecon_et_password_generated_body"><![CDATA[{email_header}
 <p>临时密码 - <b>{password}</b></p>
-<p>登录后请修改。</p>
+<p>登录后进行更改。</p>
 {email_footer}]]></string>
 </resources>

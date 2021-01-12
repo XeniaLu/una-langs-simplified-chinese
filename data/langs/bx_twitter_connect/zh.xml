@@ -4,34 +4,34 @@
 	<string name="_bx_twitter"><![CDATA[Twitter Connect]]></string>
 	<string name="_bx_twitter_settings"><![CDATA[Twitter Connect]]></string>
 	<string name="_bx_twitter_information_block"><![CDATA[
-        <p>This module can be used to login to this site using Twitter credentials.</p>
-        <p>To make it work, <a target="_blank" href="https://apps.twitter.com">create Twitter app</a> and specify all the details, particularly:
+        <p>该模块允许使用 Twitter 账号登录到网站。</p>
+        <p>为了确保其正常工作，请<a target="_blank" href="https://apps.twitter.com">创建 Twitter 应用</a> 并设置详细信息，尤其是：
             <ul>
-                <li>Callback URL: <strong>{0}</strong></li>
+                <li>回调 URL：<strong>{0}</strong></li>
             </ul>
-            When the app is created make sure to specify the following fields:
+            应用程序创建成功后，请确保以下字段设置正确：
             <ul>
-                <li>Settings &gt; Privacy Policy URL</li>
-                <li>Settings &gt; Terms of Service URL</li>
-                <li>Settings &gt; Enable "Allow this application to be used to Sign in with Twitter"</li>
-                <li>Permissions &gt; Access &gt; Read only</li>
-                <li>Permissions &gt; Additional Permissions &gt; Enable "Request email addresses from users"</li>
+                <li>设置 &gt; 隐私政策 URL</li>
+                <li>设置 &gt; 服务条款 URL</li>
+                <li>设置 &gt; 启用“允许该应用程序使用 Twitter 登录”</li>
+                <li>权限 &gt; 访问 &gt; 只读</li>
+                <li>权限 &gt; 附加权限 &gt; 启用“向用户请求获取电子邮件地址”</li>
             </ul>
-            Then enter generated API Key & Secret pair in this module settings.
+            然后在此模块设置中输入生成的 API Key 和 Secret。
         </p>]]></string>
-		
-	<string name="_bx_twitter_profile_error_api_keys"><![CDATA[Please configure the module in admin panel (can't define API key, secret & URL)]]></string>
-	<string name="_bx_twitter_auth_title"><![CDATA[Login with Twitter]]></string>
-	<string name="_bx_twitter_error_no_oauth_token"><![CDATA[Auth token is missing]]></string>
 
-    <string name="_bx_twitter_adm_stg_cpt_type"><![CDATA[Twitter Connect]]></string>    
+	<string name="_bx_twitter_profile_error_api_keys"><![CDATA[请在管理面板中对模块进行配置（无法定义 API Key、Secret 和 URL）]]></string>
+	<string name="_bx_twitter_auth_title"><![CDATA[使用 Twitter 登录]]></string>
+	<string name="_bx_twitter_error_no_oauth_token"><![CDATA[缺少身份验证令牌]]></string>
+
+    <string name="_bx_twitter_adm_stg_cpt_type"><![CDATA[Twitter Connect]]></string>
     <string name="_bx_twitter_option_app_id"><![CDATA[API Key]]></string>
     <string name="_bx_twitter_option_app_secret"><![CDATA[API Secret]]></string>
 
-	<string name="_bx_twitter_et_password_generated"><![CDATA[Twitter connect temporary password]]></string>
-	<string name="_bx_twitter_et_password_generated_subject"><![CDATA[Temporary password]]></string>
+	<string name="_bx_twitter_et_password_generated"><![CDATA[Twitter connect 临时密码]]></string>
+	<string name="_bx_twitter_et_password_generated_subject"><![CDATA[临时密码]]></string>
 	<string name="_bx_twitter_et_password_generated_body"><![CDATA[{email_header}
-<p>Temporary password - <b>{password}</b></p>
-<p>Change it after logging-in.</p>
+<p>临时密码 - <b>{password}</b></p>
+<p>登录后进行更改。</p>
 {email_footer}]]></string>
 </resources>

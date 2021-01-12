@@ -5,9 +5,9 @@
 	<string name="_bx_unacon_settings"><![CDATA[UNA Connect]]></string>
 	<string name="_bx_unacon_information_block"><![CDATA[
 该模块允许使用另一个 UNA 网站（主网站）的账号登录到该网站。 <br />
-若使其正常工作，请前往主网站，安装“OAuth2 服务器”模块并创建新的客户端网站，输入标题和以下 URL：<br />
+为了确保其正常工作，请前往主网站，安装“OAuth2 服务器”模块并创建新的客户端网站，输入标题和以下 URL：<br />
 <strong>{0}</strong><br />
-然后在此模块设置中输入在主站点上生成的 Key 和 Secret。]]></string>
+然后在此模块设置中输入在主站点上生成的 API Key 和 Secret。]]></string>
 	<string name="_bx_unacon_profile_error_api_keys"><![CDATA[请在管理面板中对模块进行配置（无法定义 API Key、Secret 和 URL）]]></string>
 	<string name="_bx_unacon_chart"><![CDATA[UNA 档案]]></string>
 	<string name="_bx_unacon_auth_title"><![CDATA[使用 UNA 登录]]></string>
