@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-	<string name="_bx_datafox"><![CDATA[Data Fox]]></string>
-    <string name="_bx_datafox_adm_stg_cpt_type"><![CDATA[Data Fox]]></string>
-    <string name="_bx_datafox_adm_stg_cpt_category_general"><![CDATA[General]]></string>
+	<string name="_bx_datafox"><![CDATA[数码银狐]]></string>
+    <string name="_bx_datafox_adm_stg_cpt_type"><![CDATA[数码银狐]]></string>
+    <string name="_bx_datafox_adm_stg_cpt_category_general"><![CDATA[常规]]></string>
 </resources>
 
