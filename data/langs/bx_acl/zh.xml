@@ -48,7 +48,7 @@
 
 
 	<!-- Pre Lists -->
-	<string name="_bx_acl_pre_lists_period_units"><![CDATA[计费时间间隔]]></string>
+	<string name="_bx_acl_pre_lists_period_units"><![CDATA[账单周期]]></string>
 	<string name="_bx_acl_pre_values_day"><![CDATA[天]]></string>
 	<string name="_bx_acl_pre_values_week"><![CDATA[周]]></string>
 	<string name="_bx_acl_pre_values_month"><![CDATA[月]]></string>
@@ -71,7 +71,7 @@
 	<string name="_bx_acl_grid_action_subscribe"><![CDATA[租用]]></string>
 	<string name="_bx_acl_grid_action_subscribe_title"><![CDATA[订阅定期付款]]></string>
 	<string name="_bx_acl_grid_action_choose"><![CDATA[选择]]></string>
-    <string name="_bx_acl_grid_action_choose_title"><![CDATA[免费切换等级]]></string>
+    <string name="_bx_acl_grid_action_choose_title"><![CDATA[切换至免费级别]]></string>
 
 	<string name="_bx_acl_popup_title_price_add"><![CDATA[添加定价方案]]></string>
 	<string name="_bx_acl_popup_title_price_edit"><![CDATA[编辑定价方案]]></string>

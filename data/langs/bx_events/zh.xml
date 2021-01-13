@@ -39,7 +39,7 @@
     <string name="_bx_events_form_profile_input_initial_members"><![CDATA[邀请成员]]></string>
     <string name="_bx_events_form_profile_input_sys_event_name"><![CDATA[活动名称]]></string>
     <string name="_bx_events_form_profile_input_event_name"><![CDATA[活动名称]]></string>
-    <string name="_bx_events_form_profile_input_event_name_err"><![CDATA[信息是必要的，请填写该字段。]]></string>
+    <string name="_bx_events_form_profile_input_event_name_err"><![CDATA[该信息是必要的，请填写该字段。]]></string>
     <string name="_bx_events_form_profile_input_sys_event_desc"><![CDATA[描述]]></string>
     <string name="_bx_events_form_profile_input_event_desc"><![CDATA[描述]]></string>
     <string name="_bx_events_form_profile_input_sys_event_cat"><![CDATA[分类]]></string>
@@ -321,7 +321,7 @@
     <string name="_bx_events_grid_action_title_adm_delete_with_content"><![CDATA[删除其及其内容]]></string>
     <string name="_bx_events_grid_action_title_adm_more_actions"><![CDATA[更多操作]]></string>
   <string name="_bx_events_grid_action_title_adm_audit_content"><![CDATA[审核其及其内容]]></string>
-  <string name="_bx_events_grid_action_title_adm_audit_context"><![CDATA[审核上下文]]></string>
+  <string name="_bx_events_grid_action_title_adm_audit_context"><![CDATA[上下文审核]]></string>
   <string name="_bx_events_grid_action_title_adm_clear_reports"><![CDATA[清除报告]]></string>
 	<string name="_bx_events_grid_action_err_delete"><![CDATA[无法删除所选活动。]]></string>
 	<string name="_bx_events_grid_txt_account_manager"><![CDATA[重定向跳转至管理账号。]]></string>
@@ -351,14 +351,14 @@
     <string name="_bx_events_txt_invite_popup_button_accept"><![CDATA[接受]]></string>
     <string name="_bx_events_txt_invite_popup_button_decline"><![CDATA[谢绝]]></string>
     <string name="_bx_events_txt_invite_popup_error_invitation_absent"><![CDATA[抱歉，出现错误。您无法加入该活动。邀请已过期或被删除。]]></string>
-    <string name="_bx_events_txt_invite_popup_error_invitation_wrong_user"><![CDATA[抱歉，出现错误。您无法加入此活动。您已无法使用该邀请。]]></string>
+    <string name="_bx_events_txt_invite_popup_error_invitation_wrong_user"><![CDATA[抱歉，出现错误。您无法加入该活动。您已无法使用该邀请。]]></string>
 
     <string name="_bx_events_alert_action_fan_added"><![CDATA[成员已参与]]></string>
     <string name="_bx_events_txt_ntfs_fan_added"><![CDATA[活动<b class="bx-ntfs-content-profile">{owner_name}</b>已有一个成员<b class="bx-ntfs-content-entry">{subentry_sample}</b>]]></string>
     <string name="_bx_events_alert_action_join_invitation_notif"><![CDATA[参与邀请]]></string>
     <string name="_bx_events_alert_action_join_request"><![CDATA[参与请求]]></string>
-    <string name="_bx_events_txt_ntfs_join_invitation"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b>活动的代表邀请<b class="bx-ntfs-content-entry">{subentry_sample}</b>参与活动]]></string>
-    <string name="_bx_events_txt_ntfs_join_request"><![CDATA[活动 <b class="bx-ntfs-content-profile">{owner_name}</b>有一个参与请求表<b class="bx-ntfs-content-entry">{subentry_sample}</b>]]></string>
+    <string name="_bx_events_txt_ntfs_join_invitation"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b>活动代表邀请<b class="bx-ntfs-content-entry">{subentry_sample}</b>参与活动]]></string>
+    <string name="_bx_events_txt_ntfs_join_request"><![CDATA[活动<b class="bx-ntfs-content-profile">{owner_name}</b>有一个参与请求来自<b class="bx-ntfs-content-entry">{subentry_sample}</b>]]></string>
     <string name="_bx_events_txt_ntfs_timeline_post_common"><![CDATA[新的发布<b class="bx-ntfs-content-entry">{subentry_sample}</b>在<b class="bx-ntfs-content-profile">{owner_name}</b>活动时间线上]]></string>
 
     <string name="_bx_events_privacy_group_closed"><![CDATA[关闭的]]></string>
@@ -387,9 +387,9 @@
     <string name="_bx_events_cat_Other"><![CDATA[其他]]></string>
 
     <string name="_bx_events_pre_lists_roles"><![CDATA[活动角色]]></string>
-    <string name="_bx_events_role_regular"><![CDATA[常客]]></string>
-    <string name="_bx_events_role_administrator"><![CDATA[管理者]]></string>
-    <string name="_bx_events_role_moderator"><![CDATA[仲裁者]]></string>
+    <string name="_bx_events_role_regular"><![CDATA[成员]]></string>
+    <string name="_bx_events_role_administrator"><![CDATA[管理员]]></string>
+    <string name="_bx_events_role_moderator"><![CDATA[版主]]></string>
 
     <string name="_bx_events_pre_lists_repeat_year"><![CDATA[年重复]]></string>
     <string name="_bx_events_cat_repeat_year_every_year"><![CDATA[每年]]></string>
@@ -455,13 +455,13 @@
     <string name="_bx_events_email_fan_remove"><![CDATA[档案已从活动参与者中删除]]></string>
     <string name="_bx_events_email_fan_remove_subject"><![CDATA[你的档案已从活动中删除]]></string>
     <string name="_bx_events_email_fan_remove_body"><![CDATA[{email_header}
-<p>你的档案已被管理员从<a href="{EntryUrl}">{EntryTitle}</a>活动中删除</p>
+<p>你的档案已被活动管理员从<a href="{EntryUrl}">{EntryTitle}</a>活动中删除。</p>
 {email_footer}]]></string>
 
     <string name="_bx_events_email_fan_become_admin"><![CDATA[活动管理员身份已被授予]]></string>
     <string name="_bx_events_email_fan_become_admin_subject"><![CDATA[你现在已是活动管理员]]></string>
     <string name="_bx_events_email_fan_become_admin_body"><![CDATA[{email_header}
-<p>你现在已是<a href="{EntryUrl}">{EntryTitle}</a>活动的管理员</p>
+<p>你现在已是<a href="{EntryUrl}">{EntryTitle}</a>活动的管理员。</p>
 {email_footer}]]></string>
 
     <string name="_bx_events_email_admin_become_fan"><![CDATA[活动管理员身份已被撤销]]></string>
@@ -479,7 +479,7 @@
     <string name="_bx_events_email_set_role"><![CDATA[活动成员身份已被修改]]></string>
     <string name="_bx_events_email_set_role_subject"><![CDATA[你的活动身份已被修改]]></string>
     <string name="_bx_events_email_set_role_body"><![CDATA[{email_header}
-<p>你在<a href="{EntryUrl}">{EntryTitle}</a>活动中的身份已被修改为<b>{Role}</b>.</p>
+<p>你在<a href="{EntryUrl}">{EntryTitle}</a>活动中的身份已被修改为<b>{Role}</b>。</p>
 {email_footer}]]></string>
 
     <string name="_bx_events_email_reminder"><![CDATA[活动提醒]]></string>
