@@ -3,7 +3,7 @@
 
 	<string name="_bx_videos"><![CDATA[视频]]></string>
 	<string name="_bx_videos_cmts"><![CDATA[视频评论]]></string>
-        <string name="_bx_videos_reactions"><![CDATA[视频的情绪反馈]]></string>
+        <string name="_bx_videos_reactions"><![CDATA[视频的情感反馈]]></string>
 
 	<string name="_bx_videos_option_summary_chars"><![CDATA[视频摘要所支持的最大字符数，超出自动截断]]></string>
 	<string name="_bx_videos_option_plain_summary_chars"><![CDATA[当视频未设置封面图片时，视频描述所支持的最大字符数]]></string>
@@ -246,7 +246,7 @@
     <string name="_bx_videos_txt_sample_single_with_article"><![CDATA[视频]]></string>
     <string name="_bx_videos_txt_sample_comment_single"><![CDATA[对视频发表评论]]></string>
     <string name="_bx_videos_txt_sample_vote_single"><![CDATA[对视频进行投票]]></string>
-    <string name="_bx_videos_txt_sample_reaction_single"><![CDATA[对视频进行 '{0}' 情绪反馈]]></string>
+    <string name="_bx_videos_txt_sample_reaction_single"><![CDATA[对视频进行 '{0}' 情感反馈]]></string>
     <string name="_bx_videos_txt_sample_score_up_single"><![CDATA[对视频表示喜欢]]></string>
     <string name="_bx_videos_txt_sample_score_down_single"><![CDATA[对视频表示不喜欢]]></string>
     <string name="_bx_videos_txt_n_views"><![CDATA[{0} 个观看]]></string>

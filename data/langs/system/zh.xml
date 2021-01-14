@@ -1344,7 +1344,7 @@
 	<string name="_adm_prm_txt_term"><![CDATA[条款]]></string>
 	<string name="_adm_prm_txt_title"><![CDATA[标题]]></string>
 	<string name="_adm_prm_txt_visibility_items_anyone"><![CDATA[任何人]]></string>
-	<string name="_adm_prm_txt_visibility_items_n_user_levels"><![CDATA[{0} 个用户等级]]></string>
+	<string name="_adm_prm_txt_visibility_items_n_user_levels"><![CDATA[{0} 类会员]]></string>
 	<string name="_adm_prm_txt_visibility_items_nobody"><![CDATA[无任何人]]></string>
 
         <string name="_adm_rl_btn_role_add"><![CDATA[创建]]></string>
@@ -1473,7 +1473,7 @@
 	<string name="_adm_stg_cpt_option_sys_captcha_default"><![CDATA[默认验证码]]></string>
 	<string name="_adm_stg_cpt_option_sys_email_attachable_email_templates"><![CDATA[可插入附件的电子邮件模板列表]]></string>
 	<string name="_adm_stg_cpt_option_sys_db_cache_enable"><![CDATA[启用数据库缓存]]></string>
-	<string name="_adm_stg_cpt_option_sys_db_cache_engine"><![CDATA[数据库缓存引擎（除此之外的其他选项可能会需要额外的服务器设置）]]></string>
+	<string name="_adm_stg_cpt_option_sys_db_cache_engine"><![CDATA[数据库缓存引擎（若选中除“File”外的其他引擎，可能需要额外的服务器设置）]]></string>
 	<string name="_adm_stg_cpt_option_sys_default_payment"><![CDATA[支付模块]]></string>
     <string name="_adm_stg_cpt_option_sys_editor_default"><![CDATA[默认 HTML 编辑器]]></string>
 	<string name="_adm_stg_cpt_option_sys_player_default"><![CDATA[默认播放器]]></string>
@@ -1504,9 +1504,9 @@
 	<string name="_adm_stg_cpt_option_sys_oauth_key"><![CDATA[UNA 账号的 key]]></string>
 	<string name="_adm_stg_cpt_option_sys_oauth_secret"><![CDATA[UNA 账号的 secret]]></string>
 	<string name="_adm_stg_cpt_option_sys_page_cache_enable"><![CDATA[启用页面缓存]]></string>
-	<string name="_adm_stg_cpt_option_sys_page_cache_engine"><![CDATA[页面缓存引擎（可能会需要自定义的服务器设置）]]></string>
+	<string name="_adm_stg_cpt_option_sys_page_cache_engine"><![CDATA[页面缓存引擎（若选中除“File”外的其他引擎，可能需要额外的服务器设置）]]></string>
 	<string name="_adm_stg_cpt_option_sys_pb_cache_enable"><![CDATA[启用页面块缓存]]></string>
-	<string name="_adm_stg_cpt_option_sys_pb_cache_engine"><![CDATA[页面块缓存引擎（可能会需要自定义的服务器设置）]]></string>
+	<string name="_adm_stg_cpt_option_sys_pb_cache_engine"><![CDATA[页面块缓存引擎（若选中除“File”外的其他引擎，可能需要额外的服务器设置）]]></string>
 	<string name="_adm_stg_cpt_option_sys_per_page_search_keyword_single"><![CDATA[关键字搜索结果的结果显示数量]]></string>
 	<string name="_adm_stg_cpt_option_sys_per_page_search_keyword_plural"><![CDATA[全站搜索结果的结果显示数量]]></string>
 	<string name="_adm_stg_cpt_option_sys_push_app_id"><![CDATA[OneSignal App ID]]></string>
@@ -1534,7 +1534,7 @@
   <string name="_adm_stg_cpt_option_sys_security_block_content_after_n_reports"><![CDATA[发送 N 次报告之后阻止内容显示（0 - 不阻止）]]></string>
   <string name="_adm_stg_cpt_option_sys_site_logo_height"><![CDATA[LOGO 图片高度]]></string>
 	<string name="_adm_stg_cpt_option_sys_site_logo_width"><![CDATA[LOGO 图片宽度]]></string>
-	<string name="_adm_stg_cpt_option_sys_storage_default"><![CDATA[默认存储引擎（可能会需要自定义/额外的服务器设置）]]></string>
+	<string name="_adm_stg_cpt_option_sys_storage_default"><![CDATA[默认存储引擎（若选中除“Local”外的其他引擎，可能需要额外的服务器设置）]]></string>
 	<string name="_adm_stg_cpt_option_sys_storage_s3_access_key"><![CDATA[AWS 访问密钥（access key）]]></string>
 	<string name="_adm_stg_cpt_option_sys_storage_s3_bucket"><![CDATA[AWS 存储桶]]></string>
 	<string name="_adm_stg_cpt_option_sys_storage_s3_domain"><![CDATA[AWS 自定义域名（需要自行配置 DNS）]]></string>
@@ -1549,7 +1549,7 @@
 	<string name="_adm_stg_cpt_option_sys_template_cache_compress_enable"><![CDATA[启用 JS/CSS 文件压缩（应同时启用缓存）]]></string>
 	<string name="_adm_stg_cpt_option_sys_template_cache_css_enable"><![CDATA[启用 CSS 文件缓存]]></string>
 	<string name="_adm_stg_cpt_option_sys_template_cache_enable"><![CDATA[启用 HTML 文件缓存]]></string>
-	<string name="_adm_stg_cpt_option_sys_template_cache_engine"><![CDATA[模板缓存引擎（可能会需要自定义的服务器设置）]]></string>
+	<string name="_adm_stg_cpt_option_sys_template_cache_engine"><![CDATA[模板缓存引擎（若选中除“FileHTML”外的其他引擎，可能需要额外的服务器设置）]]></string>
 	<string name="_adm_stg_cpt_option_sys_template_cache_js_enable"><![CDATA[启用 JS 文件缓存]]></string>
 	<string name="_adm_stg_cpt_option_sys_template_cache_minify_css_enable"><![CDATA[启用 CSS 文件压缩（应用时启用缓存）]]></string>
 	<string name="_adm_stg_cpt_option_sys_template_cache_minify_js_enable"><![CDATA[启用 JS 文件压缩（应同时启用缓存）]]></string>
@@ -1565,8 +1565,8 @@
     <string name="_adm_stg_cpt_option_sys_tinymce_toolbar_standard"><![CDATA[用于标准编辑器的 TinyMCE 按钮]]></string>
     <string name="_adm_stg_cpt_option_sys_tinymce_plugins_full"><![CDATA[用于完整编辑器的 TinyMCE 插件]]></string>
     <string name="_adm_stg_cpt_option_sys_tinymce_toolbar_full"><![CDATA[用于完整编辑器的 TinyMCE 按钮]]></string>
-    <string name="_adm_stg_cpt_option_sys_metatags_hashtags_max"><![CDATA[每个帖子的最大标签数]]></string>
-    <string name="_adm_stg_cpt_option_sys_metatags_mentions_max"><![CDATA[每个帖子的最大点名数]]></string>
+    <string name="_adm_stg_cpt_option_sys_metatags_hashtags_max"><![CDATA[每条帖子的最大标签数]]></string>
+    <string name="_adm_stg_cpt_option_sys_metatags_mentions_max"><![CDATA[每条帖子的最大点名数]]></string>
 	<string name="_adm_stg_cpt_option_sys_hide_post_to_context_for_privacy"><![CDATA[隐私字段不会发布到模块的上下文中]]></string>
     <string name="_adm_stg_cpt_option_sys_search_keyword_min_len"><![CDATA[搜索关键字的最小字符数]]></string>
     <string name="_adm_stg_cpt_option_sys_profile_bot"><![CDATA[系统机器人档案]]></string>
@@ -1801,7 +1801,7 @@
 	<string name="_member_banned"><![CDATA[抱歉，您已被禁言]]></string>
 	<string name="_message_subject"><![CDATA[邮件主题]]></string>
 	<string name="_mma_comments_edit_own"><![CDATA[编辑自己的评论]]></string>
-	<string name="_mma_comments_post"><![CDATA[评论帖子]]></string>
+	<string name="_mma_comments_post"><![CDATA[评论]]></string>
 	<string name="_mma_comments_remove_own"><![CDATA[删除自己的评论]]></string>
 	<string name="_mma_comments_vote"><![CDATA[评论投票]]></string>
 	<string name="_mma_get_other_members_emails"><![CDATA[获取其他会员的电子邮件]]></string>
@@ -1833,7 +1833,7 @@
 	<string name="_sys_acl_action_comments_edit_all"><![CDATA[编辑全部评论]]></string>
 	<string name="_sys_acl_action_comments_edit_own"><![CDATA[编辑自己的评论]]></string>
         <string name="_sys_acl_action_comments_pin"><![CDATA[评论别针]]></string>
-	<string name="_sys_acl_action_comments_post"><![CDATA[评论帖子]]></string>
+	<string name="_sys_acl_action_comments_post"><![CDATA[评论]]></string>
 	<string name="_sys_acl_action_comments_remove_all"><![CDATA[删除全部评论]]></string>
 	<string name="_sys_acl_action_comments_remove_own"><![CDATA[删除自己的评论]]></string>
 	<string name="_sys_acl_action_connect"><![CDATA[连接（成为朋友，关注等）]]></string>
@@ -1855,7 +1855,7 @@
 	<string name="_sys_acl_action_post_links"><![CDATA[添加链接]]></string>
 	<string name="_sys_acl_action_post_links_desc"><![CDATA[在单行和多行文本输入框中添加链接]]></string>
 	<string name="_sys_acl_action_use_macros"><![CDATA[使用宏定义]]></string>
-        <string name="_sys_acl_action_use_macros_desc"><![CDATA[使用特殊架构后，您可以在任何地方插入动态内容]]></string>
+        <string name="_sys_acl_action_use_macros_desc"><![CDATA[使用特殊架构后，您可以在任何地方插入帖子内容]]></string>
 	<string name="_sys_acl_action_set_acl_level"><![CDATA[设置会员级别]]></string>
 	<string name="_sys_acl_action_set_acl_level_desc"><![CDATA[设置档案的会员级别]]></string>
         <string name="_sys_acl_action_show_membership_levels_in_privacy_groups"><![CDATA[在隐私组中显示会员级别]]></string>
@@ -2717,7 +2717,7 @@
         <string name="_sys_menu_item_title_system_va_favorite"><![CDATA[收藏]]></string>
         <string name="_sys_menu_item_title_system_va_feature"><![CDATA[精选]]></string>
         <string name="_sys_menu_item_title_system_va_reaction"><![CDATA[回应]]></string>
-        <string name="_sys_menu_item_title_system_va_repost"><![CDATA[重新发布]]></string>
+        <string name="_sys_menu_item_title_system_va_repost"><![CDATA[转发]]></string>
         <string name="_sys_menu_item_title_system_va_report"><![CDATA[报告]]></string>
         <string name="_sys_menu_item_title_system_va_notes"><![CDATA[笔记]]></string>
         <string name="_sys_menu_item_title_system_va_more_auto"><![CDATA[更多]]></string>
