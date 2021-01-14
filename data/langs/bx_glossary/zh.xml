@@ -209,7 +209,7 @@
     <string name="_bx_glossary_grid_action_err_delete"><![CDATA[无法删除所选术语。]]></string>
     <string name="_bx_glossary_grid_txt_account_manager"><![CDATA[重定向跳转至管理账号。]]></string>
 
-    <string name="_bx_glossary_chart_growth"><![CDATA[术语：增长]]></string>
+    <string name="_bx_glossary_chart_growth"><![CDATA[术语：增长量]]></string>
     <string name="_bx_glossary_chart_growth_speed"><![CDATA[术语：增长速度]]></string>
 
     <string name="_bx_glossary_search_extended"><![CDATA[术语搜索]]></string>

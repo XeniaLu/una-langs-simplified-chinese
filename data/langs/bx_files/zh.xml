@@ -210,7 +210,7 @@
   <string name="_bx_files_grid_action_err_delete"><![CDATA[无法删除所选文件。]]></string>
     <string name="_bx_files_grid_txt_account_manager"><![CDATA[重定向跳转至管理账号。]]></string>
 
-    <string name="_bx_files_chart_growth"><![CDATA[文件：增长]]></string>
+    <string name="_bx_files_chart_growth"><![CDATA[文件：增长量]]></string>
     <string name="_bx_files_chart_growth_speed"><![CDATA[文件：增长速度]]></string>
 
     <string name="_bx_files_search_extended"><![CDATA[文件搜索]]></string>

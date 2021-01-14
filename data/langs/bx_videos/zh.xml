@@ -8,7 +8,7 @@
 	<string name="_bx_videos_option_summary_chars"><![CDATA[视频摘要所支持的最大字符数，超出自动截断]]></string>
 	<string name="_bx_videos_option_plain_summary_chars"><![CDATA[当视频未设置封面图片时，视频描述所支持的最大字符数]]></string>
 	<string name="_bx_videos_option_per_page_browse"><![CDATA[每页显示的视频数量]]></string>
-	<string name="_bx_videos_option_per_page_profile"><![CDATA[档案/小组主页中，每页显示的视频数量]]></string>
+	<string name="_bx_videos_option_per_page_profile"><![CDATA[档案/小组页面中，每页显示的视频数量]]></string>
 	<string name="_bx_videos_option_rss_num"><![CDATA[RSS 资讯聚合显示的数量]]></string>
 	<string name="_bx_videos_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
   <string name="_bx_videos_option_auto_activation_for_categories"><![CDATA[自动启用视频类别]]></string>
@@ -139,11 +139,11 @@
     <string name="_bx_videos_page_block_title_sys_entries_in_context"><![CDATA[文章中的视频]]></string>
     <string name="_bx_videos_page_block_title_entries_actions"><![CDATA[视频操作]]></string>
     <string name="_bx_videos_page_block_title_browse_cmts"><![CDATA[视频评论]]></string>
-    <string name="_bx_videos_page_title_sys_manage"><![CDATA[管理我自己]]></string>
-    <string name="_bx_videos_page_title_sys_manage_administration"><![CDATA[管理全部]]></string>
+    <string name="_bx_videos_page_title_sys_manage"><![CDATA[管理自己的]]></string>
+    <string name="_bx_videos_page_title_sys_manage_administration"><![CDATA[管理全部的]]></string>
     <string name="_bx_videos_page_title_manage"><![CDATA[管理]]></string>
-    <string name="_bx_videos_page_block_title_system_manage"><![CDATA[管理我自己]]></string>
-    <string name="_bx_videos_page_block_title_system_manage_administration"><![CDATA[管理全部]]></string>
+    <string name="_bx_videos_page_block_title_system_manage"><![CDATA[管理自己的]]></string>
+    <string name="_bx_videos_page_block_title_system_manage_administration"><![CDATA[管理全部的]]></string>
     <string name="_bx_videos_page_block_title_manage"><![CDATA[管理]]></string>
     <string name="_bx_videos_page_block_title_sys_multicats"><![CDATA[视频类别（多类别）]]></string>
     <string name="_bx_videos_page_block_title_multicats"><![CDATA[视频类别]]></string>
@@ -223,20 +223,20 @@
     <string name="_bx_videos_grid_action_err_delete"><![CDATA[无法删除所选视频。]]></string>
     <string name="_bx_videos_grid_txt_account_manager"><![CDATA[跳转至账号管理。]]></string>
 
-    <string name="_bx_videos_chart_growth"><![CDATA[视频：增长趋势]]></string>
+    <string name="_bx_videos_chart_growth"><![CDATA[视频：增长量]]></string>
     <string name="_bx_videos_chart_growth_speed"><![CDATA[视频：增长速度]]></string>
 
     <string name="_bx_videos_search_extended"><![CDATA[视频搜索]]></string>
     <string name="_bx_videos_search_extended_cmts"><![CDATA[视频评论搜索]]></string>
 
     <string name="_bx_videos_pre_lists_cats"><![CDATA[视频类别]]></string>
-    <string name="_bx_videos_cat_animals_and_pets"><![CDATA[动物与宠物]]></string>
+    <string name="_bx_videos_cat_animals_and_pets"><![CDATA[动物/宠物]]></string>
     <string name="_bx_videos_cat_education"><![CDATA[教育]]></string>
     <string name="_bx_videos_cat_entertainment"><![CDATA[娱乐]]></string>
-    <string name="_bx_videos_cat_film_and_animation"><![CDATA[电影与动画]]></string>
+    <string name="_bx_videos_cat_film_and_animation"><![CDATA[电影/动画]]></string>
     <string name="_bx_videos_cat_music"><![CDATA[音乐]]></string>
     <string name="_bx_videos_cat_news"><![CDATA[新闻]]></string>
-    <string name="_bx_videos_cat_people_and_blogs"><![CDATA[人物与博客]]></string>
+    <string name="_bx_videos_cat_people_and_blogs"><![CDATA[人物/博客]]></string>
     <string name="_bx_videos_cat_sports"><![CDATA[运动]]></string>
     <string name="_bx_videos_cat_travel"><![CDATA[旅游]]></string>
 
@@ -246,10 +246,10 @@
     <string name="_bx_videos_txt_sample_single_with_article"><![CDATA[视频]]></string>
     <string name="_bx_videos_txt_sample_comment_single"><![CDATA[对视频发表评论]]></string>
     <string name="_bx_videos_txt_sample_vote_single"><![CDATA[对视频进行投票]]></string>
-    <string name="_bx_videos_txt_sample_reaction_single"><![CDATA[对视频进行 '{0}' 情感反馈]]></string>
+    <string name="_bx_videos_txt_sample_reaction_single"><![CDATA[对视频 '{0}' 进行情感反馈]]></string>
     <string name="_bx_videos_txt_sample_score_up_single"><![CDATA[对视频表示喜欢]]></string>
     <string name="_bx_videos_txt_sample_score_down_single"><![CDATA[对视频表示不喜欢]]></string>
     <string name="_bx_videos_txt_n_views"><![CDATA[{0} 个观看]]></string>
-    <string name="_bx_videos_txt_processing_awaiting"><![CDATA[视频将在处理完成之后立即发布。]]></string>
+    <string name="_bx_videos_txt_processing_awaiting"><![CDATA[计划在视频处理完成之后立即发布。]]></string>
     <string name="_bx_videos_txt_processing_failed"><![CDATA[视频处理失败，无法发布视频，请您编辑视频来解决此问题。]]></string>
 </resources>

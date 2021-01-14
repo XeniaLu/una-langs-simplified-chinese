@@ -12,7 +12,7 @@
     <string name="_bx_classes_option_rss_num"><![CDATA[在 RSS 订阅中的数量]]></string>
     <string name="_bx_classes_option_searchable_fields"><![CDATA[关键字搜索时的可搜索字段]]></string>
     <string name="_bx_classes_option_auto_activation_for_categories"><![CDATA[在类别中自动激活]]></string>
-  
+
     <string name="_bx_classes_form_entry"><![CDATA[课时]]></string>
     <string name="_bx_classes_form_entry_display_add"><![CDATA[添加课时]]></string>
     <string name="_bx_classes_form_entry_display_edit"><![CDATA[编辑课时]]></string>
@@ -222,7 +222,7 @@
     <string name="_bx_classes_grid_action_err_delete"><![CDATA[无法删除选中的课时。]]></string>
     <string name="_bx_classes_grid_txt_account_manager"><![CDATA[跳转到账号管理。]]></string>
 
-    <string name="_bx_classes_chart_growth"><![CDATA[课时：增长]]></string>
+    <string name="_bx_classes_chart_growth"><![CDATA[课时：增长量]]></string>
     <string name="_bx_classes_chart_growth_speed"><![CDATA[课时：增速]]></string>
 
     <string name="_bx_classes_pre_lists_availability"><![CDATA[可用性]]></string>

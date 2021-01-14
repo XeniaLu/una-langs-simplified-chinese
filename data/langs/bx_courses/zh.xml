@@ -272,7 +272,7 @@
     <string name="_bx_courses_grid_action_err_delete"><![CDATA[无法删除选中的课程。]]></string>
     <string name="_bx_courses_grid_txt_account_manager"><![CDATA[跳转到账号管理。]]></string>
 
-    <string name="_bx_courses_chart_growth"><![CDATA[课程：增长]]></string>
+    <string name="_bx_courses_chart_growth"><![CDATA[课程：增长量]]></string>
     <string name="_bx_courses_chart_growth_speed"><![CDATA[课程：增速]]></string>
 
     <string name="_bx_courses_search_extended"><![CDATA[课程搜索]]></string>

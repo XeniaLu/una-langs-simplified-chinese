@@ -202,7 +202,7 @@
     <string name="_bx_events_page_block_title_featured_entries_view_showcase"><![CDATA[精选活动]]></string>
     <string name="_bx_events_page_block_title_sys_recommended_entries_view_showcase"><![CDATA[推荐活动 (展示活动)]]></string>
     <string name="_bx_events_page_block_title_recommended_entries_view_showcase"><![CDATA[推荐活动]]></string>
-    
+
     <string name="_bx_events_menu_title_submenu"><![CDATA[活动子菜单]]></string>
     <string name="_bx_events_menu_set_title_submenu"><![CDATA[活动子菜单]]></string>
     <string name="_bx_events_menu_set_title_view_profile_actions"><![CDATA[活动操作]]></string>
@@ -326,7 +326,7 @@
 	<string name="_bx_events_grid_action_err_delete"><![CDATA[无法删除所选活动。]]></string>
 	<string name="_bx_events_grid_txt_account_manager"><![CDATA[重定向跳转至管理账号。]]></string>
 
-    <string name="_bx_events_chart_growth"><![CDATA[活动：增长]]></string>
+    <string name="_bx_events_chart_growth"><![CDATA[活动：增长量]]></string>
     <string name="_bx_events_chart_growth_speed"><![CDATA[相册：增长速度]]></string>
 
     <string name="_bx_events_search_extended"><![CDATA[活动搜索]]></string>

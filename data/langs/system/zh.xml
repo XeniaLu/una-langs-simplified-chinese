@@ -2005,7 +2005,7 @@
   <string name="_sys_chart_growth_object"><![CDATA[显示]]></string>
 	<string name="_sys_chart_growth_date_from"><![CDATA[从]]></string>
 	<string name="_sys_chart_growth_date_to"><![CDATA[至]]></string>
-	<string name="_sys_chart_accounts_growth"><![CDATA[账号：增长]]></string>
+	<string name="_sys_chart_accounts_growth"><![CDATA[账号：增长量]]></string>
 	<string name="_sys_chart_accounts_growth_speed"><![CDATA[账号：增长速度]]></string>
 	<string name="_sys_close"><![CDATA[关闭]]></string>
         <string name="_sys_confirm"><![CDATA[确认]]></string>

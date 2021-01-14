@@ -305,7 +305,7 @@
     <string name="_bx_ads_grid_action_err_delete"><![CDATA[无法删除所选广告。]]></string>
     <string name="_bx_ads_grid_txt_account_manager"><![CDATA[重定向跳转至管理账号。]]></string>
 
-    <string name="_bx_ads_chart_growth"><![CDATA[广告：增长]]></string>
+    <string name="_bx_ads_chart_growth"><![CDATA[广告：增长量]]></string>
     <string name="_bx_ads_chart_growth_speed"><![CDATA[广告：增长速度]]></string>
 
     <string name="_bx_ads_search_extended"><![CDATA[广告搜索]]></string>

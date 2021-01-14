@@ -248,9 +248,9 @@
     <string name="_bx_albums_grid_action_err_delete"><![CDATA[无法删除所选相册。]]></string>
     <string name="_bx_albums_grid_txt_account_manager"><![CDATA[重定向跳转至管理账号。]]></string>
 
-    <string name="_bx_albums_chart_growth"><![CDATA[相册：增长]]></string>
+    <string name="_bx_albums_chart_growth"><![CDATA[相册：增长量]]></string>
     <string name="_bx_albums_chart_growth_speed"><![CDATA[相册：增长速度]]></string>
-    <string name="_bx_albums_chart_growth_media"><![CDATA[图片：增长]]></string>
+    <string name="_bx_albums_chart_growth_media"><![CDATA[图片：增长量]]></string>
     <string name="_bx_albums_chart_growth_speed_media"><![CDATA[图片：增长速度]]></string>
 
     <string name="_bx_albums_search_extended"><![CDATA[相册搜索]]></string>

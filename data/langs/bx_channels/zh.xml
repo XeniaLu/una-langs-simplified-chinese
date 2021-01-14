@@ -37,7 +37,7 @@
 	<string name="_bx_channels_form_profile_input_delete_confirm"><![CDATA[我确定我要删除该频道]]></string>
 	<string name="_bx_channels_form_profile_input_delete_confirm_info"><![CDATA[该操作无法撤销。]]></string>
 	<string name="_bx_channels_form_profile_input_delete_confirm_error"><![CDATA[如果您确定要删除频道，请勾选该复选框。]]></string>
-	
+
 	<string name="_bx_channels_acl_action_delete_profile"><![CDATA[删除频道]]></string>
 	<string name="_bx_channels_acl_action_view_profile"><![CDATA[查看频道]]></string>
 	<string name="_bx_channels_acl_action_edit_any_profile"><![CDATA[编辑任何频道]]></string>
@@ -160,7 +160,7 @@
         <string name="_bx_channels_menu_item_title_view_profile_more_auto"><![CDATA[更多]]></string>
 	<string name="_bx_channels_menu_item_title_system_invite"><![CDATA[邀请]]></string>
 	<string name="_bx_channels_menu_item_title_invite"><![CDATA[邀请]]></string>
-	
+
 	<string name="_bx_channels_menu_item_title_system_befriend"><![CDATA[添加好友]]></string>
 	<string name="_bx_channels_menu_item_title_befriend"><![CDATA[添加好友]]></string>
 	<string name="_bx_channels_menu_item_title_befriend_sent"><![CDATA[添加好友（请求）]]></string>
@@ -169,7 +169,7 @@
 	<string name="_bx_channels_menu_item_title_unfriend"><![CDATA[解除好友关系]]></string>
 	<string name="_bx_channels_menu_item_title_unfriend_cancel_request"><![CDATA[取消好友申请]]></string>
 	<string name="_bx_channels_menu_item_title_unfriend_reject_request"><![CDATA[拒绝好友申请]]></string>
-	
+
 	<string name="_bx_channels_menu_item_title_system_subscribe"><![CDATA[关注]]></string>
 	<string name="_bx_channels_menu_item_title_subscribe"><![CDATA[关注]]></string>
 	<string name="_bx_channels_menu_item_title_system_unsubscribe"><![CDATA[]]></string>
@@ -214,10 +214,10 @@
   <string name="_bx_channels_grid_action_title_adm_audit_content"><![CDATA[检查内容]]></string>
 	<string name="_bx_channels_grid_action_err_delete"><![CDATA[无法删除选中的频道。]]></string>
 	<string name="_bx_channels_grid_txt_account_manager"><![CDATA[跳转到账号管理。]]></string>
-	
-	<string name="_bx_channels_chart_growth"><![CDATA[频道：增长]]></string>
+
+	<string name="_bx_channels_chart_growth"><![CDATA[频道：增长量]]></string>
 	<string name="_bx_channels_chart_growth_speed"><![CDATA[频道：增速]]></string>
-	
+
 	<string name="_bx_channels_search_extended"><![CDATA[频道搜索]]></string>
 	<string name="_bx_channels_search_extended_cmts"><![CDATA[频道评论搜索]]></string>
 

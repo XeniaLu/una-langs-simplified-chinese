@@ -192,7 +192,7 @@
     <string name="_bx_groups_page_block_title_groups_browse_by_label"><![CDATA[按标签浏览]]></string>
     <string name="_bx_groups_page_block_title_sys_labels_breadcrumbs"><![CDATA[标签导航栏]]></string>
     <string name="_bx_groups_page_block_title_labels_breadcrumbs"><![CDATA[标签导航栏]]></string>
-    
+
 
   <string name="_bx_groups_menu_title_submenu"><![CDATA[小组子菜单]]></string>
     <string name="_bx_groups_menu_set_title_submenu"><![CDATA[小组子菜单]]></string>
@@ -329,7 +329,7 @@
     <string name="_bx_groups_popup_title_price_add"><![CDATA[添加定价方案]]></string>
     <string name="_bx_groups_popup_title_price_edit"><![CDATA[编辑定价方案]]></string>
 
-    <string name="_bx_groups_chart_growth"><![CDATA[小组：增长]]></string>
+    <string name="_bx_groups_chart_growth"><![CDATA[小组：增长量]]></string>
     <string name="_bx_groups_chart_growth_speed"><![CDATA[小组：增长速度]]></string>
 
     <string name="_bx_groups_search_extended"><![CDATA[小组搜索]]></string>
@@ -378,7 +378,7 @@
     <string name="_bx_groups_cat_Causes"><![CDATA[事业]]></string>
     <string name="_bx_groups_cat_Fun"><![CDATA[趣味]]></string>
     <string name="_bx_groups_cat_Uncategorised"><![CDATA[无分类的]]></string>
-    
+
     <string name="_bx_groups_pre_lists_roles"><![CDATA[小组角色]]></string>
     <string name="_bx_groups_role_regular"><![CDATA[成员]]></string>
     <string name="_bx_groups_role_administrator"><![CDATA[管理员]]></string>
