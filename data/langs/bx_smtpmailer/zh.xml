@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-	<string name="_bx_smtp"><![CDATA[SMTP Mailer]]></string>
-	<string name="_bx_smtp_tester"><![CDATA[Test]]></string>
-	<string name="_bx_smtp_recipient"><![CDATA[Recipient]]></string>
-	<string name="_bx_smtp_subject"><![CDATA[Subject]]></string>
-	<string name="_bx_smtp_body"><![CDATA[Body]]></string>
-	<string name="_bx_smtp_is_html"><![CDATA[Is HTML?]]></string>
-	<string name="_bx_smtp_send_ok"><![CDATA[Mail has been successfully sent]]></string>
-	<string name="_bx_smtp_send_fail"><![CDATA[Mail send failed]]></string>
-	<string name="_bx_smtp_help"><![CDATA[Help]]></string>
+	<string name="_bx_smtp"><![CDATA[SMTP 发送邮件]]></string>
+	<string name="_bx_smtp_tester"><![CDATA[调试]]></string>
+	<string name="_bx_smtp_recipient"><![CDATA[收件人]]></string>
+	<string name="_bx_smtp_subject"><![CDATA[主题]]></string>
+	<string name="_bx_smtp_body"><![CDATA[正文]]></string>
+	<string name="_bx_smtp_is_html"><![CDATA[包含 HTML 吗？]]></string>
+	<string name="_bx_smtp_send_ok"><![CDATA[邮件发送成功]]></string>
+	<string name="_bx_smtp_send_fail"><![CDATA[邮件发送失败]]></string>
+	<string name="_bx_smtp_help"><![CDATA[帮助]]></string>
 	<string name="_bx_smtp_help_text"><![CDATA[
-        <b>SMTP authentication </b> - most SMTP servers requires SMTP authentication, most probably you need to enable it.
+        <b>SMTP 登录 </b> - 大多数 SMTP 服务器都需要 SMTP 登录，您很可能需要启用它。
         <br />
-        <b>SMTP server name</b> - is it better to send mail from your site SMTP server, so it is probably the name of your site or localhost.
+        <b>SMTP 服务器名称</b> - 最好是通过您的网站 SMTP 服务器发送邮件，因此它可能是您的网站域名或者是 localhost。
         <br />
-        <b>SMTP username/SMTP password</b> - registered email account username and password, it is better to create different account for this purpose, like no-reply@mysite.com.
+        <b>SMTP 用户名/SMTP 用户名</b> - 注册的邮箱账号用户名和密码，最好另外创建一个账户来发送邮件，例如 no-reply@mysite.com。
         <br />
-        <b>From name of the message</b> - recipients will see this name as email sender, so it is probably your site name.
+        <b>邮件发件人的姓名</b> - 作为邮件的发送者，收件人将会看到此名称，因此它可能是您的网站名称。
         <br />
-        <b>Is your SMTP server requires secure connection</b> - you can disable it if your hostname is localhost, secure connection is not needed if you send mails from localhost.
+        <b>您的 SMTP 服务器是否需要使用安全连接</b> - 如果您的主机名是 localhost，则可以禁用该选项，从 localhost 发送邮件则不需要安全连接。
         <br />
-        <b>Enable SMTP mailer</b> - it is possible to disable SMTP mailer at all, for example if you have temporary problems with your SMTP server. 
+        <b>启用 SMTP 发送邮件</b> - 可以在此处禁用 SMTP 发送邮件功能，例如，如果您的 SMTP 服务器暂时出现问题。
         <br />
-        <b>Override default sender email address</b> - set this the same as <b>SMTP username</b> email address, to avoid problems with mail marked as spam.
+        <b>覆盖默认的发件人电子邮件地址</b> - 与 <b>SMTP 用户名</b> 电子邮件地址的设置相同，以避免出现被标记为垃圾邮件的问题。
         <br />
         <br />
-        Alternatively, you can get above options from your desktop mail client, if you are going to use the same email address for sending mail from your site.
-        
+        另外，如果您要使用相同的电子邮件地址发送邮件，则可以从您的桌面邮件客户端获取上述配置选项。
+
         <hr class="bx-def-hr" />
 
-        If emails still go to spam folder, check the following:
+        如果电子邮件仍旧被过滤到垃圾收件收件箱中，请检查以下内容：
         <ul>
-            <li>Try to set "Override default sender email address" field the same as "SMTP username" email address</li>
-            <li>Make sure that "Override default sender email address" is valid and exists</li>
-            <li>Try to change default email templates, it maybe that standard ones can be in spam filters, since they are used on a lot of sites by default</li>
-            <li>Ask your members to add your site email to their contacts - when email is in user's contact list it always goes to inbox</li>
-            <li><a href="http://www.boonex.com/trac/dolphin/wiki/TutorialTweakingSpamFilters" target="_blank">This is great tutorial</a> on how to whitelist your server in many popular webmail services, including yahoo</li>
+            <li>尝试将“覆盖默认的发件人电子邮件地址”字段设置为与“SMTP 用户名”电子邮件地址相同</li>
+            <li>确保输入“覆盖默认的发件人电子邮件地址”且可用</li>
+            <li>尝试更改默认的邮件模板，因为默认情况下很多网站都默认将标准的邮件模板过滤到垃圾邮件收件箱中。</li>
+            <li>要求您的会员将您网站的电子邮件地址添加到他们的通讯录中 - 当电子邮件地址在用户的联系人列表中时，邮件会始终转发到收件箱中</li>
+            <li><a href="http://www.boonex.com/trac/dolphin/wiki/TutorialTweakingSpamFilters" target="_blank">这是个很棒的教程</a>，关于如何将您的服务器添加到众多主流邮件服务的白名单中，包括 Yahoo</li>
         </ul>
 ]]></string>
-    <string name="_bx_smtp_adm_stg_cpt_type"><![CDATA[SMTP Mailer]]></string>
-    <string name="_bx_smtp_adm_stg_cpt_category_general"><![CDATA[General]]></string>
-    
-    <string name="_bx_smtp_option_on"><![CDATA[Enable SMTP mailer]]></string>
-    <string name="_bx_smtp_option_auth"><![CDATA[SMTP authentication (Is your SMTP server requires username and password?)]]></string>
-    <string name="_bx_smtp_option_username"><![CDATA[SMTP username (only if SMTP authentication is enabled)]]></string>
-    <string name="_bx_smtp_option_password"><![CDATA[SMTP password (only if SMTP authentication is enabled)]]></string>
-    <string name="_bx_smtp_option_host"><![CDATA[SMTP server name or IP address]]></string>
-    <string name="_bx_smtp_option_port"><![CDATA[SMTP server port number (25 - default, 465 - for secure ssl connection, 587 - for secure tls connection)]]></string>
-    <string name="_bx_smtp_option_secure"><![CDATA[Is your SMTP server requires secure connection]]></string>
-    <string name="_bx_smtp_option_allow_selfsigned"><![CDATA[Allow self-signed certificates]]></string>
-    <string name="_bx_smtp_option_from_name"><![CDATA['From' name of the message]]></string>
-    <string name="_bx_smtp_option_from_email"><![CDATA[Override default sender email address]]></string>
-    <string name="_bx_smtp_mailer_log"><![CDATA[SMTP Mailer: sending errors]]></string>
+    <string name="_bx_smtp_adm_stg_cpt_type"><![CDATA[SMTP 发送邮件]]></string>
+    <string name="_bx_smtp_adm_stg_cpt_category_general"><![CDATA[通用]]></string>
+
+    <string name="_bx_smtp_option_on"><![CDATA[启用 SMTP 发送邮件]]></string>
+    <string name="_bx_smtp_option_auth"><![CDATA[SMTP 登录（您的 SMTP 服务器是否需要用户名和密码？）]]></string>
+    <string name="_bx_smtp_option_username"><![CDATA[SMTP 用户名（仅在启用 SMTP 登录时需要）]]></string>
+    <string name="_bx_smtp_option_password"><![CDATA[SMTP 密码（仅在启用 SMTP 登录时需要）]]></string>
+    <string name="_bx_smtp_option_host"><![CDATA[SMTP 服务器名称或 IP 地址]]></string>
+    <string name="_bx_smtp_option_port"><![CDATA[SMTP 服务器端口号（25 - 默认值，465 - 用于安全 SSL 连接，587 - 用于安全 TLS 连接）]]></string>
+    <string name="_bx_smtp_option_secure"><![CDATA[您的 SMTP 服务器是否需要安全连接]]></string>
+    <string name="_bx_smtp_option_allow_selfsigned"><![CDATA[允许自签名证书]]></string>
+    <string name="_bx_smtp_option_from_name"><![CDATA[邮件的“发件人”姓名]]></string>
+    <string name="_bx_smtp_option_from_email"><![CDATA[覆盖默认的发件人电子邮件地址]]></string>
+    <string name="_bx_smtp_mailer_log"><![CDATA[SMTP 发送邮件：发送错误]]></string>
 </resources>
 
