@@ -3,48 +3,48 @@
 	<string name="_bx_stripe_connect"><![CDATA[Stripe Connect]]></string>
 
 	<!-- OPTIONS -->
-	<string name="_bx_stripe_connect_option_mode"><![CDATA[Mode]]></string>
-	<string name="_bx_stripe_connect_option_mode_live"><![CDATA[Live]]></string>
-	<string name="_bx_stripe_connect_option_mode_test"><![CDATA[Test]]></string>
-    <string name="_bx_stripe_connect_option_api_id_live"><![CDATA[Client ID (live)]]></string>
-    <string name="_bx_stripe_connect_option_api_public_live"><![CDATA[Public Key (live)]]></string>
-    <string name="_bx_stripe_connect_option_api_secret_live"><![CDATA[Secret Key (live)]]></string>
-    <string name="_bx_stripe_connect_option_api_id_test"><![CDATA[Client ID (test)]]></string>
-    <string name="_bx_stripe_connect_option_api_public_test"><![CDATA[Public Key (test)]]></string>
-    <string name="_bx_stripe_connect_option_api_secret_test"><![CDATA[Secret Key (test)]]></string>
-    <string name="_bx_stripe_connect_option_api_scope"><![CDATA[Scope]]></string>
-    <string name="_bx_stripe_connect_option_api_scope_read_only"><![CDATA[Read Only]]></string>
-    <string name="_bx_stripe_connect_option_api_scope_read_write"><![CDATA[Read Write]]></string>
-    <string name="_bx_stripe_connect_option_pmode_single"><![CDATA[One-time payments processing mode]]></string>
-    <string name="_bx_stripe_connect_option_fee_single"><![CDATA[One-time fee (in cents, percent)]]></string>
-    <string name="_bx_stripe_connect_option_pmode_recurring"><![CDATA[Subscription payments processing mode]]></string>
-    <string name="_bx_stripe_connect_option_pmode_direct"><![CDATA[Direct]]></string>
-    <string name="_bx_stripe_connect_option_pmode_platform"><![CDATA[Platform]]></string>
-    <string name="_bx_stripe_connect_option_fee_recurring"><![CDATA[Subscription fee (percent only)]]></string>
-    <string name="_bx_stripe_connect_option_redirect_url"><![CDATA[Redirect URL]]></string>  
+	<string name="_bx_stripe_connect_option_mode"><![CDATA[模式]]></string>
+	<string name="_bx_stripe_connect_option_mode_live"><![CDATA[正式]]></string>
+	<string name="_bx_stripe_connect_option_mode_test"><![CDATA[测试]]></string>
+    <string name="_bx_stripe_connect_option_api_id_live"><![CDATA[Client ID（正式）]]></string>
+    <string name="_bx_stripe_connect_option_api_public_live"><![CDATA[Public Key（正式）]]></string>
+    <string name="_bx_stripe_connect_option_api_secret_live"><![CDATA[Secret Key（正式）]]></string>
+    <string name="_bx_stripe_connect_option_api_id_test"><![CDATA[Client ID（测试）]]></string>
+    <string name="_bx_stripe_connect_option_api_public_test"><![CDATA[Public Key（测试）]]></string>
+    <string name="_bx_stripe_connect_option_api_secret_test"><![CDATA[Secret Key（测试）]]></string>
+    <string name="_bx_stripe_connect_option_api_scope"><![CDATA[范围]]></string>
+    <string name="_bx_stripe_connect_option_api_scope_read_only"><![CDATA[只读]]></string>
+    <string name="_bx_stripe_connect_option_api_scope_read_write"><![CDATA[可读写]]></string>
+    <string name="_bx_stripe_connect_option_pmode_single"><![CDATA[一次性支付处理模式]]></string>
+    <string name="_bx_stripe_connect_option_fee_single"><![CDATA[支付费率（以美分计，百分比）]]></string>
+    <string name="_bx_stripe_connect_option_pmode_recurring"><![CDATA[自动订阅处理模式]]></string>
+    <string name="_bx_stripe_connect_option_pmode_direct"><![CDATA[直接]]></string>
+    <string name="_bx_stripe_connect_option_pmode_platform"><![CDATA[平台]]></string>
+    <string name="_bx_stripe_connect_option_fee_recurring"><![CDATA[订阅费率（仅百分比）]]></string>
+    <string name="_bx_stripe_connect_option_redirect_url"><![CDATA[跳转 URL]]></string>
 
 	<!-- PAGES and BLOCKS -->
-	<string name="_bx_stripe_connect_page_title_sys_result"><![CDATA[Stripe Connect Results]]></string>
-	<string name="_bx_stripe_connect_page_title_result"><![CDATA[Stripe Connect Results]]></string>
-	<string name="_bx_stripe_connect_page_block_title_result"><![CDATA[Stripe Connect Results]]></string>
+	<string name="_bx_stripe_connect_page_title_sys_result"><![CDATA[Stripe Connect 结果]]></string>
+	<string name="_bx_stripe_connect_page_title_result"><![CDATA[Stripe Connect 结果]]></string>
+	<string name="_bx_stripe_connect_page_block_title_result"><![CDATA[Stripe Connect 结果]]></string>
 	<string name="_bx_stripe_connect_page_block_title_connect"><![CDATA[Stripe Connect]]></string>
 
 	<!-- MENUS -->
-	<string name="_bx_stripe_connect_menu_item_title_accounts"><![CDATA[Accounts]]></string>
+	<string name="_bx_stripe_connect_menu_item_title_accounts"><![CDATA[账户]]></string>
 
 	<!-- GRIDS -->
-	<string name="_bx_stripe_connect_grid_column_title_author"><![CDATA[Author]]></string>
-	<string name="_bx_stripe_connect_grid_column_title_user_id"><![CDATA[Stripe User ID]]></string>
+	<string name="_bx_stripe_connect_grid_column_title_author"><![CDATA[作者]]></string>
+	<string name="_bx_stripe_connect_grid_column_title_user_id"><![CDATA[Stripe 用户 ID]]></string>
 	<string name="_bx_stripe_connect_grid_column_title_public_key"><![CDATA[Public Key]]></string>
 	<string name="_bx_stripe_connect_grid_column_title_access_token"><![CDATA[Secret Key]]></string>
-	<string name="_bx_stripe_connect_grid_column_title_added"><![CDATA[Connected]]></string>
-	<string name="_bx_stripe_connect_action_title_delete"><![CDATA[Disconnect]]></string>
-	
+	<string name="_bx_stripe_connect_grid_column_title_added"><![CDATA[已接入]]></string>
+	<string name="_bx_stripe_connect_action_title_delete"><![CDATA[取消接入]]></string>
+
 	<!-- OTHER -->
-	<string name="_bx_stripe_connect_btn_connect"><![CDATA[Connect]]></string>
-	<string name="_bx_stripe_connect_msg_connected"><![CDATA[You were successfully connected.]]></string>
-	<string name="_bx_stripe_connect_wrn_disconnect"><![CDATA[Are you sure you want to disconnect?]]></string>
-	<string name="_bx_stripe_connect_err_perform"><![CDATA[Cannot perform the action. Please report.]]></string>
-	<string name="_bx_stripe_connect_txt_keys_usage"><![CDATA[<b>Note</b>. You should use these <b>Public</b> and <b>Secret</b> keys in configuration settings of your Stripe account <a href="{0}">here</a>.]]></string>
+	<string name="_bx_stripe_connect_btn_connect"><![CDATA[接入]]></string>
+	<string name="_bx_stripe_connect_msg_connected"><![CDATA[您已成功接入。]]></string>
+	<string name="_bx_stripe_connect_wrn_disconnect"><![CDATA[您确定要取消接入吗？]]></string>
+	<string name="_bx_stripe_connect_err_perform"><![CDATA[无法执行该操作，请您对问题进行反馈。]]></string>
+	<string name="_bx_stripe_connect_txt_keys_usage"><![CDATA[<b>注意</b>，您应当将您 Stripe 账号的<b>Public Key</b>和<b>Secret Key</b>配置在<a href="{0}">这里</a>。]]></string>
   <string name="_bx_stripe_connect_log"><![CDATA[Stripe Connect]]></string>
 </resources>
