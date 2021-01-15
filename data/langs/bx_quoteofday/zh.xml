@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-	<string name="_bx_quoteofday"><![CDATA[Quote of the Day]]></string>
-	<string name="_bx_quoteofday_option_rss_url"><![CDATA[Url of external RSS feed]]></string>
-	<string name="_bx_quoteofday_lmi_cpt_quotes"><![CDATA[Quotes List]]></string>
-	<string name="_bx_quoteofday_source"><![CDATA[Source]]></string>
-	<string name="_bx_quoteofday_rss_max_items"><![CDATA[Max number of items from RSS]]></string>
-	<string name="_bx_quoteofday_source_internal"><![CDATA[Internal List]]></string>
-	<string name="_bx_quoteofday_source_rss"><![CDATA[Rss feed]]></string>
-	
-	<string name="_bx_quoteofday_grid_column_title_adm_active"><![CDATA[Active]]></string>
-	<string name="_bx_quoteofday_grid_column_title_adm_text"><![CDATA[Text]]></string>
-	<string name="_bx_quoteofday_grid_column_title_adm_added"><![CDATA[Added]]></string>
-	<string name="_bx_quoteofday_grid_action_title_adm_add"><![CDATA[Add new]]></string>
-	<string name="_bx_quoteofday_grid_action_title_adm_edit"><![CDATA[Edit]]></string>
-	<string name="_bx_quoteofday_grid_action_title_adm_delete"><![CDATA[Delete]]></string>
-	<string name="_bx_quoteofday_grid_action_title_adm_publish"><![CDATA[Mark as Today Quote]]></string>
-  <string name="_bx_quoteofday_grid_action_title_adm_audit_content"><![CDATA[Audit actions]]></string>
-	<string name="_bx_quoteofday_grid_action_title_adm_publish_text"><![CDATA[Item set as Today Quote]]></string>
-	
-	<string name="_bx_quoteofday_form_entry"><![CDATA[Quote of the Day]]></string>
-	<string name="_bx_quoteofday_form_entry_input_do_submit"><![CDATA[Save]]></string>
-	<string name="_bx_quoteofday_form_add_title"><![CDATA[Add new]]></string>
-	<string name="_bx_quoteofday_form_entry_input_text"><![CDATA[Text]]></string>
-	<string name="_bx_quoteofday_form_edit_title"><![CDATA[Edit]]></string>
-	<string name="_bx_quoteofday_form_entry_input_cancel"><![CDATA[Cancel]]></string>
-	<string name="_bx_quoteofday_form_entry_input_text_err"><![CDATA[Text field can't be empty]]></string>
-	
-	<string name="_bx_quoteofday_page_title_manage"><![CDATA[Quote of the Day management]]></string>
-	<string name="_bx_quoteofday_page_block_title_manage"><![CDATA[Quote of the Day management]]></string>
-	<string name="_bx_quoteofday_page_block_title"><![CDATA[Quote of the Day]]></string>
-	
-	<string name="_bx_quoteofday_menu_item_title_system_admt_manage"><![CDATA[Quotes of the day]]></string>
-	<string name="_bx_quoteofday_adm_stg_cpt_type"><![CDATA[Quote of the Day]]></string>
-	
-	<string name="_bx_quoteofday_selection_mode"><![CDATA[Quote of the Day selected by]]></string>
-	<string name="_bx_quoteofday_selection_mode_by_order"><![CDATA[By order]]></string>
-	<string name="_bx_quoteofday_selection_mode_by_random"><![CDATA[By random]]></string>
+	<string name="_bx_quoteofday"><![CDATA[每日名言]]></string>
+	<string name="_bx_quoteofday_option_rss_url"><![CDATA[外部 RSS 资讯信息的 URL]]></string>
+	<string name="_bx_quoteofday_lmi_cpt_quotes"><![CDATA[名言清单]]></string>
+	<string name="_bx_quoteofday_source"><![CDATA[来源]]></string>
+	<string name="_bx_quoteofday_rss_max_items"><![CDATA[RSS 资讯信息中显示的最大数量]]></string>
+	<string name="_bx_quoteofday_source_internal"><![CDATA[内部清单]]></string>
+	<string name="_bx_quoteofday_source_rss"><![CDATA[RSS 资讯信息]]></string>
+
+	<string name="_bx_quoteofday_grid_column_title_adm_active"><![CDATA[是否有效]]></string>
+	<string name="_bx_quoteofday_grid_column_title_adm_text"><![CDATA[内容]]></string>
+	<string name="_bx_quoteofday_grid_column_title_adm_added"><![CDATA[创建时间]]></string>
+	<string name="_bx_quoteofday_grid_action_title_adm_add"><![CDATA[创建]]></string>
+	<string name="_bx_quoteofday_grid_action_title_adm_edit"><![CDATA[编辑]]></string>
+	<string name="_bx_quoteofday_grid_action_title_adm_delete"><![CDATA[删除]]></string>
+	<string name="_bx_quoteofday_grid_action_title_adm_publish"><![CDATA[标记为今日名言]]></string>
+  <string name="_bx_quoteofday_grid_action_title_adm_audit_content"><![CDATA[审核操作]]></string>
+	<string name="_bx_quoteofday_grid_action_title_adm_publish_text"><![CDATA[名言已设置为今日名言]]></string>
+
+	<string name="_bx_quoteofday_form_entry"><![CDATA[每日名言]]></string>
+	<string name="_bx_quoteofday_form_entry_input_do_submit"><![CDATA[保存]]></string>
+	<string name="_bx_quoteofday_form_add_title"><![CDATA[创建]]></string>
+	<string name="_bx_quoteofday_form_entry_input_text"><![CDATA[内容]]></string>
+	<string name="_bx_quoteofday_form_edit_title"><![CDATA[编辑]]></string>
+	<string name="_bx_quoteofday_form_entry_input_cancel"><![CDATA[取消]]></string>
+	<string name="_bx_quoteofday_form_entry_input_text_err"><![CDATA[内容字段不能为空]]></string>
+
+	<string name="_bx_quoteofday_page_title_manage"><![CDATA[每日名言管理]]></string>
+	<string name="_bx_quoteofday_page_block_title_manage"><![CDATA[每日名言管理]]></string>
+	<string name="_bx_quoteofday_page_block_title"><![CDATA[每日名言]]></string>
+
+	<string name="_bx_quoteofday_menu_item_title_system_admt_manage"><![CDATA[每日名言]]></string>
+	<string name="_bx_quoteofday_adm_stg_cpt_type"><![CDATA[每日名言]]></string>
+
+	<string name="_bx_quoteofday_selection_mode"><![CDATA[每日名言挑选模式]]></string>
+	<string name="_bx_quoteofday_selection_mode_by_order"><![CDATA[按顺序]]></string>
+	<string name="_bx_quoteofday_selection_mode_by_random"><![CDATA[随机]]></string>
 </resources>

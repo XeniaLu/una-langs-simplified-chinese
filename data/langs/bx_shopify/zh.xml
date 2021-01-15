@@ -7,7 +7,7 @@
 
 	<string name="_bx_shopify_option_per_page_browse"><![CDATA[每页显示的商品数量]]></string>
 	<string name="_bx_shopify_option_per_page_profile"><![CDATA[个人档案页中每页显示的商品数量]]></string>
-	<string name="_bx_shopify_option_rss_num"><![CDATA[RSS 资讯聚合显示的商品数量]]></string>
+	<string name="_bx_shopify_option_rss_num"><![CDATA[RSS 资讯信息显示的商品数量]]></string>
 	<string name="_bx_shopify_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
 
 	<string name="_bx_shopify_form_entry"><![CDATA[商品]]></string>

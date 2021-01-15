@@ -9,7 +9,7 @@
     <string name="_bx_events_option_time_format"><![CDATA[时间格式]]></string>
     <string name="_bx_events_option_short_date_format"><![CDATA[短日期格式]]></string>
     <string name="_bx_events_option_datetime_format"><![CDATA[日期和时间格式]]></string>
-    <string name="_bx_events_option_summary_chars"><![CDATA[自动剪裁活动摘要中允许的最大字符数]]></string>
+    <string name="_bx_events_option_summary_chars"><![CDATA[自动生成的活动摘要中允许的最大字符数]]></string>
     <string name="_bx_events_option_searchable_fields"><![CDATA[可搜索的字段]]></string>
     <string name="_bx_events_option_members_mode"><![CDATA[活动成员的特殊模式]]></string>
     <string name="_bx_events_option_members_mode_multi_roles"><![CDATA[多角色]]></string>

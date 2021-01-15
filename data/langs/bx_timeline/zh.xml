@@ -21,7 +21,7 @@
     <string name="_bx_timeline_option_enable_infinite_scroll"><![CDATA[启用无限滚动加载（处于实验阶段）]]></string>
     <string name="_bx_timeline_option_events_per_preload"><![CDATA[无限滚动加载：每次预加载的数量]]></string>
     <string name="_bx_timeline_option_auto_preloads"><![CDATA[无限滚动加载：默认动预加载的数量]]></string>
-    <string name="_bx_timeline_option_rss_length"><![CDATA[RSS 资讯聚合显示的数量]]></string>
+    <string name="_bx_timeline_option_rss_length"><![CDATA[RSS 资讯信息显示的数量]]></string>
     <string name="_bx_timeline_option_events_hide"><![CDATA[显示活动]]></string>
     <string name="_bx_timeline_option_enable_dynamic_cards"><![CDATA[启用帖子卡片加载]]></string>
     <string name="_bx_timeline_option_enable_brief_cards"><![CDATA[启用卡片摘要]]></string>

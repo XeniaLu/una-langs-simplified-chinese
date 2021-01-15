@@ -5,11 +5,11 @@
     <string name="_bx_tasks_cmts"><![CDATA[评论]]></string>
     <string name="_bx_tasks_reactions"><![CDATA[情绪反馈]]></string>
 
-    <string name="_bx_tasks_option_summary_chars"><![CDATA[待办任务摘要所支持的最大字符数，超出自动截断]]></string>
-    <string name="_bx_tasks_option_plain_summary_chars"><![CDATA[当待办任务未设置封面图片时，待办任务描述所支持的最大字符数]]></string>
+    <string name="_bx_tasks_option_summary_chars"><![CDATA[自动生成的待办任务摘要中允许的最大字符数]]></string>
+    <string name="_bx_tasks_option_plain_summary_chars"><![CDATA[缺少待办任务图片时，待办任务说明中允许的最大字符数]]></string>
     <string name="_bx_tasks_option_per_page_browse"><![CDATA[每页显示的待办任务数量]]></string>
     <string name="_bx_tasks_option_per_page_profile"><![CDATA[档案/小组页面中，每页显示的待办任务数量]]></string>
-    <string name="_bx_tasks_option_rss_num"><![CDATA[RSS 资讯聚合显示的数量]]></string>
+    <string name="_bx_tasks_option_rss_num"><![CDATA[RSS 资讯信息显示的数量]]></string>
     <string name="_bx_tasks_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
     <string name="_bx_tasks_option_auto_activation_for_categories"><![CDATA[自动启用待办任务类别]]></string>
 

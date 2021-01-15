@@ -5,11 +5,11 @@
 	<string name="_bx_videos_cmts"><![CDATA[视频评论]]></string>
         <string name="_bx_videos_reactions"><![CDATA[视频的情绪反馈]]></string>
 
-	<string name="_bx_videos_option_summary_chars"><![CDATA[视频摘要所支持的最大字符数，超出自动截断]]></string>
-	<string name="_bx_videos_option_plain_summary_chars"><![CDATA[当视频未设置封面图片时，视频描述所支持的最大字符数]]></string>
+	<string name="_bx_videos_option_summary_chars"><![CDATA[自动生成的视频摘要中允许的最大字符数]]></string>
+	<string name="_bx_videos_option_plain_summary_chars"><![CDATA[缺少视频图片时，视频说明中允许的最大字符数]]></string>
 	<string name="_bx_videos_option_per_page_browse"><![CDATA[每页显示的视频数量]]></string>
 	<string name="_bx_videos_option_per_page_profile"><![CDATA[档案/小组页面中，每页显示的视频数量]]></string>
-	<string name="_bx_videos_option_rss_num"><![CDATA[RSS 资讯聚合显示的数量]]></string>
+	<string name="_bx_videos_option_rss_num"><![CDATA[RSS 资讯信息显示的数量]]></string>
 	<string name="_bx_videos_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
   <string name="_bx_videos_option_auto_activation_for_categories"><![CDATA[自动启用视频类别]]></string>
   <string name="_bx_videos_option_per_page_for_favorites_lists"><![CDATA[收藏列表中每页显示的视频数量]]></string>

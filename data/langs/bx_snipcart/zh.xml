@@ -5,11 +5,11 @@
 	<string name="_bx_snipcart_cmts"><![CDATA[Snipcart 的评价]]></string>
         <string name="_bx_snipcart_reactions"><![CDATA[Snipcart 的情绪反馈]]></string>
 
-	<string name="_bx_snipcart_option_summary_chars"><![CDATA[商品摘要所支持的最大字符数，超出自动截断]]></string>
-	<string name="_bx_snipcart_option_plain_summary_chars"><![CDATA[当商品未设置封面图片时，商品描述所支持的最大字符数]]></string>
+	<string name="_bx_snipcart_option_summary_chars"><![CDATA[自动生成的商品摘要中允许的最大字符数]]></string>
+	<string name="_bx_snipcart_option_plain_summary_chars"><![CDATA[缺少商品图片时，商品说明中允许的最大字符数]]></string>
 	<string name="_bx_snipcart_option_per_page_browse"><![CDATA[每页显示的商品数量]]></string>
 	<string name="_bx_snipcart_option_per_page_profile"><![CDATA[个人档案页中每页显示的商品数量]]></string>
-	<string name="_bx_snipcart_option_rss_num"><![CDATA[RSS 资讯聚合显示的商品数量]]></string>
+	<string name="_bx_snipcart_option_rss_num"><![CDATA[RSS 资讯信息显示的商品数量]]></string>
 	<string name="_bx_snipcart_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
 
 	<string name="_bx_snipcart_form_entry"><![CDATA[商品]]></string>

@@ -6,7 +6,7 @@
     <string name="_bx_spaces_option_enable_multilevel_hierarchy"><![CDATA[允许多级分层结构（处于实验阶段）]]></string>
     <string name="_bx_spaces_option_num_connections_quick"><![CDATA[好友组件中的数量]]></string>
     <string name="_bx_spaces_option_per_page_browse"><![CDATA[每页显示数量]]></string>
-    <string name="_bx_spaces_option_num_rss"><![CDATA[RSS 资讯聚合显示的数量]]></string>
+    <string name="_bx_spaces_option_num_rss"><![CDATA[RSS 资讯信息显示的数量]]></string>
     <string name="_bx_spaces_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
     <string name="_bx_spaces_option_members_mode"><![CDATA[对于空间成员的特殊模式]]></string>
     <string name="_bx_spaces_option_members_mode_multi_roles"><![CDATA[多身份]]></string>
@@ -297,7 +297,7 @@
     <string name="_bx_spaces_cat_General"><![CDATA[一般]]></string>
     <string name="_bx_spaces_cat_Business"><![CDATA[商务]]></string>
     <string name="_bx_spaces_cat_Interests"><![CDATA[兴趣爱好]]></string>
-    <string name="_bx_spaces_cat_Causes"><![CDATA[根源]]></string>
+    <string name="_bx_spaces_cat_Causes"><![CDATA[事业]]></string>
     <string name="_bx_spaces_cat_Fun"><![CDATA[搞笑]]></string>
     <string name="_bx_spaces_cat_Uncategorised"><![CDATA[未分类]]></string>
 

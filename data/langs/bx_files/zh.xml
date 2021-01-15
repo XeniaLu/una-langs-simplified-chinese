@@ -5,7 +5,7 @@
 	<string name="_bx_files_cmts"><![CDATA[文件的评论]]></string>
         <string name="_bx_files_reactions"><![CDATA[文件的表情符号]]></string>
 
-	<string name="_bx_files_option_summary_chars"><![CDATA[自动裁剪文件摘要中允许的最大字符数]]></string>
+	<string name="_bx_files_option_summary_chars"><![CDATA[自动生成的文件摘要中允许的最大字符数]]></string>
 	<string name="_bx_files_option_per_page_browse"><![CDATA[每页显示数量]]></string>
     <string name="_bx_files_option_per_page_profile"><![CDATA[个人主页显示数量]]></string>
 	<string name="_bx_files_option_rss_num"><![CDATA[RSS 订阅源显示数量]></string>

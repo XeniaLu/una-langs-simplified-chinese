@@ -5,8 +5,8 @@
     <string name="_bx_classes_cmts"><![CDATA[课时评论]]></string>
     <string name="_bx_classes_reactions"><![CDATA[课时表情符号]]></string>
 
-    <string name="_bx_classes_option_summary_chars"><![CDATA[课时概要中自动裁剪的字符数]]></string>
-    <string name="_bx_classes_option_plain_summary_chars"><![CDATA[当无缩略图时，课时简介中的字符数]]></string>
+    <string name="_bx_classes_option_summary_chars"><![CDATA[自动生成的课时概要中允许的最大字符数]]></string>
+    <string name="_bx_classes_option_plain_summary_chars"><![CDATA[缺少课时图片时，课时说明中允许的最大字符数]]></string>
     <string name="_bx_classes_option_per_page_browse"><![CDATA[每页数量]]></string>
     <string name="_bx_classes_option_per_page_profile"><![CDATA[在主页/分组中每页的数量]]></string>
     <string name="_bx_classes_option_rss_num"><![CDATA[在 RSS 订阅中的数量]]></string>

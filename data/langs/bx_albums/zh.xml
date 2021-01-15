@@ -7,8 +7,8 @@
 	<string name="_bx_albums_media"><![CDATA[图片]]></string>
 	<string name="_bx_albums_media_cmts"><![CDATA[图片评论]]></string>
 
-	<string name="_bx_albums_option_summary_chars"><![CDATA[自动剪裁相册摘要中允许的最大字符数]]></string>
-	<string name="_bx_albums_option_plain_summary_chars"><![CDATA[无缩略图相册的相册纯文本描述中允许的最大字符数]]></string>
+	<string name="_bx_albums_option_summary_chars"><![CDATA[自动生成的相册摘要中允许的最大字符数]]></string>
+	<string name="_bx_albums_option_plain_summary_chars"><![CDATA[缺少相册图片时，相册说明中允许的最大字符数]]></string>
 	<string name="_bx_albums_option_per_page_browse"><![CDATA[每页显示的数量]]></string>
 	<string name="_bx_albums_option_per_page_profile"><![CDATA[个人主页显示的数量]]></string>
 	<string name="_bx_albums_option_album_browsing_unit"><![CDATA[相册卡显示的数量]]></string>
