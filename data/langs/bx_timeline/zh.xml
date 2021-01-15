@@ -2,7 +2,7 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
     <string name="_bx_timeline"><![CDATA[时间轴]]></string>
     <string name="_bx_timeline_cmts"><![CDATA[时间轴的评论]]></string>
-    <string name="_bx_timeline_reactions"><![CDATA[时间轴的情感反馈]]></string>
+    <string name="_bx_timeline_reactions"><![CDATA[时间轴的情绪反馈]]></string>
 
     <string name="_bx_timeline_options_category_general"><![CDATA[通用]]></string>
     <string name="_bx_timeline_options_category_browse"><![CDATA[浏览]]></string>
@@ -217,7 +217,7 @@
     <string name="_bx_timeline_menu_item_title_system_item_view"><![CDATA[查看]]></string>
     <string name="_bx_timeline_menu_item_title_system_item_vote"><![CDATA[投票（喜欢）]]></string>
     <string name="_bx_timeline_menu_item_title_system_item_score"><![CDATA[投票（喜欢/不喜欢）]]></string>
-    <string name="_bx_timeline_menu_item_title_system_item_reaction"><![CDATA[情感反馈]]></string>
+    <string name="_bx_timeline_menu_item_title_system_item_reaction"><![CDATA[情绪反馈]]></string>
     <string name="_bx_timeline_menu_item_title_system_item_share"><![CDATA[分享]]></string>
     <string name="_bx_timeline_menu_item_title_item_share"><![CDATA[分享]]></string>
     <string name="_bx_timeline_menu_item_title_system_item_report"><![CDATA[投诉]]></string>
@@ -299,7 +299,7 @@
     <string name="_bx_timeline_txt_sample_ext"><![CDATA[时间轴帖子]]></string>
     <string name="_bx_timeline_txt_sample_comment_single"><![CDATA[时间轴帖子的评论]]></string>
     <string name="_bx_timeline_txt_sample_vote_single"><![CDATA[时间轴帖子的投票]]></string>
-    <string name="_bx_timeline_txt_sample_reaction_single"><![CDATA['{0}' 时间轴帖子的情感反馈]]></string>
+    <string name="_bx_timeline_txt_sample_reaction_single"><![CDATA['{0}' 时间轴帖子的情绪反馈]]></string>
     <string name="_bx_timeline_txt_sample_score_up_single"><![CDATA[对时间轴帖子表示喜欢]]></string>
     <string name="_bx_timeline_txt_sample_score_down_single"><![CDATA[对时间轴帖子表示不喜欢]]></string>
     <string name="_bx_timeline_txt_sample_with_link"><![CDATA[带有链接]]></string>

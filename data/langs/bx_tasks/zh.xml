@@ -3,7 +3,7 @@
 
     <string name="_bx_tasks"><![CDATA[待办任务]]></string>
     <string name="_bx_tasks_cmts"><![CDATA[评论]]></string>
-    <string name="_bx_tasks_reactions"><![CDATA[情感反馈]]></string>
+    <string name="_bx_tasks_reactions"><![CDATA[情绪反馈]]></string>
 
     <string name="_bx_tasks_option_summary_chars"><![CDATA[待办任务摘要所支持的最大字符数，超出自动截断]]></string>
     <string name="_bx_tasks_option_plain_summary_chars"><![CDATA[当待办任务未设置封面图片时，待办任务描述所支持的最大字符数]]></string>
@@ -118,9 +118,9 @@
     <string name="_bx_tasks_page_title_sys_home"><![CDATA[待办任务首页]]></string>
     <string name="_bx_tasks_page_title_home"><![CDATA[待办任务]]></string>
     <string name="_bx_tasks_page_block_title_featured_entries_view_extended"><![CDATA[精选待办]]></string>
-    <string name="_bx_tasks_page_block_title_recent_entries"><![CDATA[最新待办（相册视图）]]></string>
+    <string name="_bx_tasks_page_block_title_recent_entries"><![CDATA[最新待办（图库视图）]]></string>
     <string name="_bx_tasks_page_block_title_recent_entries_view_extended"><![CDATA[最新待办]]></string>
-    <string name="_bx_tasks_page_block_title_recent_entries_view_full"><![CDATA[最新待办（全屏视图）]]></string>
+    <string name="_bx_tasks_page_block_title_recent_entries_view_full"><![CDATA[最新待办（完整视图）]]></string>
     <string name="_bx_tasks_page_block_title_entry_social_sharing"><![CDATA[分享]]></string>
     <string name="_bx_tasks_page_block_title_entry_author"><![CDATA[作者]]></string>
 	<string name="_bx_tasks_page_block_title_entry_assignments"><![CDATA[被指派]]></string>
@@ -143,7 +143,7 @@
     <string name="_bx_tasks_page_block_title_search_results_cmts"><![CDATA[搜索评论结果]]]></string>
     <string name="_bx_tasks_page_block_title_popular_entries"><![CDATA[人气待办]]></string>
     <string name="_bx_tasks_page_block_title_popular_entries_view_extended"><![CDATA[人气待办（展开视图）]]></string>
-    <string name="_bx_tasks_page_block_title_popular_entries_view_full"><![CDATA[人气待办（全屏视图）]]></string>
+    <string name="_bx_tasks_page_block_title_popular_entries_view_full"><![CDATA[人气待办（完整视图）]]></string>
     <string name="_bx_tasks_page_block_title_top_entries"><![CDATA[热门待办]]></string>
     <string name="_bx_tasks_page_block_title_updated_entries"><![CDATA[近期更新]]></string>
     <string name="_bx_tasks_page_title_sys_view_entry_comments"><![CDATA[待办任务评论]]></string>
@@ -315,7 +315,7 @@
     <string name="_bx_tasks_txt_action_reopened"><![CDATA[重新打开]]></string>
     <string name="_bx_tasks_txt_sample_comment_single"><![CDATA[对待办任务发表评论]]></string>
     <string name="_bx_tasks_txt_sample_vote_single"><![CDATA[对待办任务进行投票]]></string>
-    <string name="_bx_tasks_txt_sample_reaction_single"><![CDATA[对待办任务'{0}' 进行情感反馈]]></string>
+    <string name="_bx_tasks_txt_sample_reaction_single"><![CDATA[对待办任务'{0}' 进行情绪反馈]]></string>
     <string name="_bx_tasks_txt_sample_score_up_single"><![CDATA[对待办任务表示喜欢]]></string>
     <string name="_bx_tasks_txt_sample_score_down_single"><![CDATA[对待办任务表示不喜欢]]></string>
     <string name="_bx_tasks_txt_processing_awaiting"><![CDATA[计划在视频处理完成之后立即发布。]]></string>

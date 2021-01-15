@@ -3,7 +3,7 @@
 
 	<string name="_bx_videos"><![CDATA[视频]]></string>
 	<string name="_bx_videos_cmts"><![CDATA[视频评论]]></string>
-        <string name="_bx_videos_reactions"><![CDATA[视频的情感反馈]]></string>
+        <string name="_bx_videos_reactions"><![CDATA[视频的情绪反馈]]></string>
 
 	<string name="_bx_videos_option_summary_chars"><![CDATA[视频摘要所支持的最大字符数，超出自动截断]]></string>
 	<string name="_bx_videos_option_plain_summary_chars"><![CDATA[当视频未设置封面图片时，视频描述所支持的最大字符数]]></string>
@@ -87,12 +87,12 @@
     <string name="_bx_videos_page_title_browse_updated"><![CDATA[近期更新]]></string>
     <string name="_bx_videos_page_title_sys_home"><![CDATA[视频首页]]></string>
     <string name="_bx_videos_page_title_home"><![CDATA[视频]]></string>
-    <string name="_bx_videos_page_block_title_featured_entries"><![CDATA[精选视频（相册视图）]]></string>
+    <string name="_bx_videos_page_block_title_featured_entries"><![CDATA[精选视频（图库视图）]]></string>
     <string name="_bx_videos_page_block_title_featured_entries_view_extended"><![CDATA[精选视频]]></string>
-    <string name="_bx_videos_page_block_title_featured_entries_view_full"><![CDATA[精选视频（全屏视图）]]></string>
-    <string name="_bx_videos_page_block_title_recent_entries"><![CDATA[最新视频（相册视图）]]></string>
+    <string name="_bx_videos_page_block_title_featured_entries_view_full"><![CDATA[精选视频（完整视图）]]></string>
+    <string name="_bx_videos_page_block_title_recent_entries"><![CDATA[最新视频（图库视图）]]></string>
     <string name="_bx_videos_page_block_title_recent_entries_view_extended"><![CDATA[最新视频]]></string>
-    <string name="_bx_videos_page_block_title_recent_entries_view_full"><![CDATA[最新视频（全屏视图）]]></string>
+    <string name="_bx_videos_page_block_title_recent_entries_view_full"><![CDATA[最新视频（完整视图）]]></string>
     <string name="_bx_videos_page_block_title_entry_social_sharing"><![CDATA[分享]]></string>
     <string name="_bx_videos_page_block_title_entry_author"><![CDATA[作者]]></string>
     <string name="_bx_videos_page_block_title_entry_actions"><![CDATA[操作]]></string>
@@ -118,7 +118,7 @@
     <string name="_bx_videos_page_block_title_search_results_cmts"><![CDATA[评论搜索结果]]></string>
     <string name="_bx_videos_page_block_title_popular_entries"><![CDATA[人气视频]]></string>
     <string name="_bx_videos_page_block_title_popular_entries_view_extended"><![CDATA[人气视频（展开视图）]]></string>
-    <string name="_bx_videos_page_block_title_popular_entries_view_full"><![CDATA[人气视频（全屏视图）]]></string>
+    <string name="_bx_videos_page_block_title_popular_entries_view_full"><![CDATA[人气视频（完整视图）]]></string>
     <string name="_bx_videos_page_block_title_top_entries"><![CDATA[热门视频]]></string>
     <string name="_bx_videos_page_block_title_updated_entries"><![CDATA[近期更新]]></string>
     <string name="_bx_videos_page_block_title_favorites_entries"><![CDATA["{title}" 列表]]></string>
@@ -246,7 +246,7 @@
     <string name="_bx_videos_txt_sample_single_with_article"><![CDATA[视频]]></string>
     <string name="_bx_videos_txt_sample_comment_single"><![CDATA[对视频发表评论]]></string>
     <string name="_bx_videos_txt_sample_vote_single"><![CDATA[对视频进行投票]]></string>
-    <string name="_bx_videos_txt_sample_reaction_single"><![CDATA[对视频 '{0}' 进行情感反馈]]></string>
+    <string name="_bx_videos_txt_sample_reaction_single"><![CDATA[对视频 '{0}' 进行情绪反馈]]></string>
     <string name="_bx_videos_txt_sample_score_up_single"><![CDATA[对视频表示喜欢]]></string>
     <string name="_bx_videos_txt_sample_score_down_single"><![CDATA[对视频表示不喜欢]]></string>
     <string name="_bx_videos_txt_n_views"><![CDATA[{0} 个观看]]></string>
