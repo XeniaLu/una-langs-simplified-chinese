@@ -1,183 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
-	<string name="_bx_invites"><![CDATA[Invitations]]></string>
+	<string name="_bx_invites"><![CDATA[邀请]]></string>
 
 	<!-- Forms -->
-	<string name="_bx_invites_form_invite"><![CDATA[Invite]]></string>
-	<string name="_bx_invites_form_invite_display_send"><![CDATA[Send]]></string>
-	<string name="_bx_invites_form_invite_input_sys_emails"><![CDATA[Emails]]></string>
-	<string name="_bx_invites_form_invite_input_emails"><![CDATA[Emails]]></string>
-	<string name="_bx_invites_form_invite_input_emails_inf"><![CDATA[Use semicolon to separate emails.]]></string>
-	<string name="_bx_invites_form_invite_input_emails_err"><![CDATA[You need to use correct emails and enter at least one email.]]></string>
-	<string name="_bx_invites_form_invite_input_sys_text"><![CDATA[Text]]></string>
-	<string name="_bx_invites_form_invite_input_text"><![CDATA[Text]]></string>
-	<string name="_bx_invites_form_invite_input_text_err"><![CDATA[You need to type the text which will be added to invitation email.]]></string>
-	<string name="_bx_invites_form_invite_input_sys_do_submit"><![CDATA[Send]]></string>
-	<string name="_bx_invites_form_invite_input_do_submit"><![CDATA[Send]]></string>
+	<string name="_bx_invites_form_invite"><![CDATA[邀请]]></string>
+	<string name="_bx_invites_form_invite_display_send"><![CDATA[发送]]></string>
+	<string name="_bx_invites_form_invite_input_sys_emails"><![CDATA[邮箱]]></string>
+	<string name="_bx_invites_form_invite_input_emails"><![CDATA[邮箱]]></string>
+	<string name="_bx_invites_form_invite_input_emails_inf"><![CDATA[使用分号来分隔邮箱地址。]]></string>
+	<string name="_bx_invites_form_invite_input_emails_err"><![CDATA[您需要使用正确的邮箱地址，并且至少输入一个。]]></string>
+	<string name="_bx_invites_form_invite_input_sys_text"><![CDATA[文本]]></string>
+	<string name="_bx_invites_form_invite_input_text"><![CDATA[文本]]></string>
+	<string name="_bx_invites_form_invite_input_text_err"><![CDATA[您需要输入一些文字，这些文字将被添加到邀请邮件里。]]></string>
+	<string name="_bx_invites_form_invite_input_sys_do_submit"><![CDATA[发送]]></string>
+	<string name="_bx_invites_form_invite_input_do_submit"><![CDATA[发送]]></string>
 
-	<string name="_bx_invites_form_request"><![CDATA[Request Invitation]]></string>
-	<string name="_bx_invites_form_request_display_send"><![CDATA[Send]]></string>
-	<string name="_bx_invites_form_request_input_sys_name"><![CDATA[Your Name]]></string>
-	<string name="_bx_invites_form_request_input_name"><![CDATA[Your Name]]></string>
-	<string name="_bx_invites_form_request_input_name_err"><![CDATA[You need to type your name.]]></string>
-	<string name="_bx_invites_form_request_input_sys_email"><![CDATA[Your email]]></string>
-	<string name="_bx_invites_form_request_input_email"><![CDATA[Your email]]></string>
-	<string name="_bx_invites_form_request_input_email_err"><![CDATA[You need to type the correct email.]]></string>
-	<string name="_bx_invites_form_request_input_sys_text"><![CDATA[Text]]></string>
-	<string name="_bx_invites_form_request_input_text"><![CDATA[Why do you want to join?]]></string>
-	<string name="_bx_invites_form_request_input_text_err"><![CDATA[You need to briefly describe why you want to join our site.]]></string>
-	<string name="_bx_invites_form_request_input_sys_do_submit"><![CDATA[Send]]></string>
-	<string name="_bx_invites_form_request_input_do_submit"><![CDATA[Send]]></string>
+	<string name="_bx_invites_form_request"><![CDATA[请求邀请]]></string>
+	<string name="_bx_invites_form_request_display_send"><![CDATA[发送]]></string>
+	<string name="_bx_invites_form_request_input_sys_name"><![CDATA[您的名字]]></string>
+	<string name="_bx_invites_form_request_input_name"><![CDATA[您的名字]]></string>
+	<string name="_bx_invites_form_request_input_name_err"><![CDATA[您需要输入您的名字。]]></string>
+	<string name="_bx_invites_form_request_input_sys_email"><![CDATA[您的邮箱]]></string>
+	<string name="_bx_invites_form_request_input_email"><![CDATA[您的邮箱]]></string>
+	<string name="_bx_invites_form_request_input_email_err"><![CDATA[您需要输入正确的邮箱地址。]]></string>
+	<string name="_bx_invites_form_request_input_sys_text"><![CDATA[文本]]></string>
+	<string name="_bx_invites_form_request_input_text"><![CDATA[您为何想要加入？]]></string>
+	<string name="_bx_invites_form_request_input_text_err"><![CDATA[您需要简单描述一下您为何想要加入我们的网站。]]></string>
+	<string name="_bx_invites_form_request_input_sys_do_submit"><![CDATA[发送]]></string>
+	<string name="_bx_invites_form_request_input_do_submit"><![CDATA[发送]]></string>
 
 
 	<!-- Grids -->
-	<string name="_bx_invites_grid_column_title_name"><![CDATA[Name]]></string>
-	<string name="_bx_invites_grid_column_title_email"><![CDATA[Email]]></string>
+	<string name="_bx_invites_grid_column_title_name"><![CDATA[名字]]></string>
+	<string name="_bx_invites_grid_column_title_email"><![CDATA[邮箱]]></string>
 	<string name="_bx_invites_grid_column_title_nip"><![CDATA[IP]]></string>
-	<string name="_bx_invites_grid_column_title_date"><![CDATA[Date]]></string>
+	<string name="_bx_invites_grid_column_title_date"><![CDATA[日期]]></string>
 
-  <string name="_bx_invites_grid_column_title_date_invite"><![CDATA[Date invite]]></string>
-  <string name="_bx_invites_grid_column_title_date_seen"><![CDATA[Date seen]]></string>
-  <string name="_bx_invites_grid_column_title_date_joined"><![CDATA[Date joined]]></string>
-  <string name="_bx_invites_grid_column_title_joined_account"><![CDATA[Joined]]></string>
-  <string name="_bx_invites_grid_column_title_status"><![CDATA[Status]]></string>
+  <string name="_bx_invites_grid_column_title_date_invite"><![CDATA[邀请日期]]></string>
+  <string name="_bx_invites_grid_column_title_date_seen"><![CDATA[查阅日期]]></string>
+  <string name="_bx_invites_grid_column_title_date_joined"><![CDATA[加入日期]]></string>
+  <string name="_bx_invites_grid_column_title_joined_account"><![CDATA[已加入]]></string>
+  <string name="_bx_invites_grid_column_title_status"><![CDATA[状态]]></string>
 
-	<string name="_bx_invites_grid_action_title_adm_info"><![CDATA[Info]]></string>
-  <string name="_bx_invites_grid_action_title_adm_invite_info"><![CDATA[Invitation info]]></string>
-  <string name="_bx_invites_grid_action_title_adm_invite"><![CDATA[Invite]]></string>
-	<string name="_bx_invites_grid_action_title_adm_delete"><![CDATA[Delete]]></string>
-  <string name="_bx_invites_grid_action_title_adm_add"><![CDATA[Send invitations]]></string>
+	<string name="_bx_invites_grid_action_title_adm_info"><![CDATA[信息]]></string>
+  <string name="_bx_invites_grid_action_title_adm_invite_info"><![CDATA[邀请信息]]></string>
+  <string name="_bx_invites_grid_action_title_adm_invite"><![CDATA[邀请]]></string>
+	<string name="_bx_invites_grid_action_title_adm_delete"><![CDATA[删除]]></string>
+  <string name="_bx_invites_grid_action_title_adm_add"><![CDATA[发送邀请]]></string>
 
-  <string name="_bx_invites_grid_invites_column_title_email"><![CDATA[Email]]></string>
-  <string name="_bx_invites_grid_invites_column_title_date"><![CDATA[Date]]></string>
-  <string name="_bx_invites_grid_invites_column_title_who_sent"><![CDATA[Who sent]]></string>
-  <string name="_bx_invites_grid_invites_column_title_date_seen"><![CDATA[Date seen]]></string>
-  <string name="_bx_invites_grid_invites_column_title_joined_account"><![CDATA[Joined account]]></string>
-  <string name="_bx_invites_grid_invites_column_title_date_joined"><![CDATA[Date joined]]></string>
-  <string name="_bx_invites_grid_invites_column_title_request"><![CDATA[Request]]></string>
-  <string name="_bx_invites_grid_txt_account_manager"><![CDATA[Redirect to manage account.]]></string>
-  <string name="_bx_invites_grid_txt_view_request"><![CDATA[View request]]></string>
+  <string name="_bx_invites_grid_invites_column_title_email"><![CDATA[邮箱]]></string>
+  <string name="_bx_invites_grid_invites_column_title_date"><![CDATA[日期]]></string>
+  <string name="_bx_invites_grid_invites_column_title_who_sent"><![CDATA[来自]]></string>
+  <string name="_bx_invites_grid_invites_column_title_date_seen"><![CDATA[查阅日期]]></string>
+  <string name="_bx_invites_grid_invites_column_title_joined_account"><![CDATA[加入的账号]]></string>
+  <string name="_bx_invites_grid_invites_column_title_date_joined"><![CDATA[加入日期]]></string>
+  <string name="_bx_invites_grid_invites_column_title_request"><![CDATA[请求]]></string>
+  <string name="_bx_invites_grid_txt_account_manager"><![CDATA[跳转到管理账号]]></string>
+  <string name="_bx_invites_grid_txt_view_request"><![CDATA[查看请求]]></string>
 
   <!-- Pages and Blocks -->
-	<string name="_bx_invites_page_title_sys_invite"><![CDATA[Invite]]></string>
-	<string name="_bx_invites_page_title_invite"><![CDATA[Invite]]></string>
-<string name="_bx_invites_page_block_title_system_invite_form"><![CDATA[Invite Form]]></string>
-	<string name="_bx_invites_page_block_title_invite_form"><![CDATA[Invite]]></string>
+	<string name="_bx_invites_page_title_sys_invite"><![CDATA[邀请]]></string>
+	<string name="_bx_invites_page_title_invite"><![CDATA[邀请]]></string>
+<string name="_bx_invites_page_block_title_system_invite_form"><![CDATA[邀请表单]]></string>
+	<string name="_bx_invites_page_block_title_invite_form"><![CDATA[邀请]]></string>
 
-	<string name="_bx_invites_page_title_sys_request"><![CDATA[Request Invitation]]></string>
-	<string name="_bx_invites_page_title_request"><![CDATA[Request Invitation]]></string>
-	<string name="_bx_invites_page_block_title_request_form"><![CDATA[Request Invitation]]></string>
+	<string name="_bx_invites_page_title_sys_request"><![CDATA[请求邀请]]></string>
+	<string name="_bx_invites_page_title_request"><![CDATA[请求邀请]]></string>
+	<string name="_bx_invites_page_block_title_request_form"><![CDATA[请求邀请]]></string>
 
-	<string name="_bx_invites_page_title_sys_requests"><![CDATA[Manage Invites]]></string>
-	<string name="_bx_invites_page_title_invites"><![CDATA[Manage Invites]]></string>
-	<string name="_bx_invites_page_block_title_invites"><![CDATA[Manage Invites]]></string>
+	<string name="_bx_invites_page_title_sys_requests"><![CDATA[管理邀请]]></string>
+	<string name="_bx_invites_page_title_invites"><![CDATA[管理邀请]]></string>
+	<string name="_bx_invites_page_block_title_invites"><![CDATA[管理邀请]]></string>
 
-	<string name="_bx_invites_page_block_title_invite"><![CDATA[Invite]]></string>
+	<string name="_bx_invites_page_block_title_invite"><![CDATA[邀请]]></string>
 
-  <string name="_bx_invites_page_title_sys_invites"><![CDATA[Manage Requests]]></string>
-  <string name="_bx_invites_page_title_requests"><![CDATA[Manage Requests]]></string>
-  <string name="_bx_invites_page_block_title_requests"><![CDATA[Manage Requests]]></string>
+  <string name="_bx_invites_page_title_sys_invites"><![CDATA[管理请求]]></string>
+  <string name="_bx_invites_page_title_requests"><![CDATA[管理请求]]></string>
+  <string name="_bx_invites_page_block_title_requests"><![CDATA[管理请求]]></string>
 
 	<!-- Menus -->
-	<string name="_bx_invites_menu_item_title_system_admt_requests"><![CDATA[Invitation requests]]></string>
-	<string name="_bx_invites_menu_item_title_admt_requests"><![CDATA[Invitations]]></string>
-	<string name="_bx_invites_menu_item_title_requests"><![CDATA[Requests]]></string>
-  <string name="_bx_invites_menu_dashboard_manage_tools_addon_counter1_caption"><![CDATA[awaiting]]></string>
-  <string name="_bx_invites_menu_item_title_manage_requests"><![CDATA[Manage requests]]></string>
-  <string name="_bx_invites_menu_item_title_manage_invites"><![CDATA[Manage invites]]></string>
+	<string name="_bx_invites_menu_item_title_system_admt_requests"><![CDATA[邀请请求]]></string>
+	<string name="_bx_invites_menu_item_title_admt_requests"><![CDATA[邀请]]></string>
+	<string name="_bx_invites_menu_item_title_requests"><![CDATA[请求]]></string>
+  <string name="_bx_invites_menu_dashboard_manage_tools_addon_counter1_caption"><![CDATA[等待]]></string>
+  <string name="_bx_invites_menu_item_title_manage_requests"><![CDATA[管理请求]]></string>
+  <string name="_bx_invites_menu_item_title_manage_invites"><![CDATA[管理邀请]]></string>
 
   <!-- Options -->
-  <string name="_bx_invites_option_automatically_befriend"><![CDATA[Enable automatically befriend inviter and invited]]></string>
-	<string name="_bx_invites_option_count_per_user"><![CDATA[How many invitations one user can send]]></string>
-	<string name="_bx_invites_option_key_lifetime"><![CDATA[Invitation key lifetime (in days)]]></string>
-	<string name="_bx_invites_option_enable_request_invite"><![CDATA[Enable invitation requests by email]]></string>
-  <string name="_bx_invites_option_requests_notifications"><![CDATA[Enable invitation requests in notifications]]></string>
-  <string name="_bx_invites_option_requests_email"><![CDATA[Emails to send invitation requests to (comma separated)]]></string>
-	<string name="_bx_invites_option_enable_reg_by_inv"><![CDATA[Enable registration by invitation only]]></string>
+  <string name="_bx_invites_option_automatically_befriend"><![CDATA[启用自动成为邀请者和被邀请者的好友]]></string>
+	<string name="_bx_invites_option_count_per_user"><![CDATA[一个用户可以发出多少个邀请]]></string>
+	<string name="_bx_invites_option_key_lifetime"><![CDATA[邀请码有效期（天）]]></string>
+	<string name="_bx_invites_option_enable_request_invite"><![CDATA[启用邮箱邀请请求]]></string>
+  <string name="_bx_invites_option_requests_notifications"><![CDATA[在通知中启用邀请请求]]></string>
+  <string name="_bx_invites_option_requests_email"><![CDATA[发给邀请请求的邮箱（逗号分隔）]]></string>
+	<string name="_bx_invites_option_enable_reg_by_inv"><![CDATA[启用仅允许邀请注册]]></string>
 
 
 	<!-- ACL -->
-	<string name="_bx_invites_acl_action_invite"><![CDATA[Invite]]></string>
-	<string name="_bx_invites_acl_action_request"><![CDATA[Request Invitation]]></string>
-	<string name="_bx_invites_acl_action_delete_request"><![CDATA[Delete invitation requests]]></string>
-  <string name="_bx_invites_acl_action_delete_invite"><![CDATA[Delete invite]]></string>
+	<string name="_bx_invites_acl_action_invite"><![CDATA[邀请]]></string>
+	<string name="_bx_invites_acl_action_request"><![CDATA[请求邀请]]></string>
+	<string name="_bx_invites_acl_action_delete_request"><![CDATA[删除邀请请求]]></string>
+  <string name="_bx_invites_acl_action_delete_invite"><![CDATA[删除邀请]]></string>
 
 	<!-- Email Templates -->
-	<string name="_bx_invites_et_invite_form_message"><![CDATA[Invite form message.]]></string>
-	<string name="_bx_invites_et_invite_form_message_subject"><![CDATA[Invitation from {site_name}.]]></string>
+	<string name="_bx_invites_et_invite_form_message"><![CDATA[邀请表单消息。]]></string>
+	<string name="_bx_invites_et_invite_form_message_subject"><![CDATA[来自 {site_name} 的邀请。]]></string>
 	<string name="_bx_invites_et_invite_form_message_body"><![CDATA[{email_header}
-<p><b>Dear Friend</b>,</p>
-<p>{profile_name} invites you to join to <a href="{site_url}">{site_name}</a> community site.<br />Message from {profile_name}:</p>
+<p><b>亲爱的朋友</b>,</p>
+<p>{profile_name} 邀请您加入 <a href="{site_url}">{site_name}</a> 社区。<br />来自 {profile_name} 的消息:</p>
 <hr />
 <p>{text}</p>
 <hr />
-<p>Click the following link to join: <a href="{join_url}">{join_url}</a></p>
+<p>点击如下链接加入： <a href="{join_url}">{join_url}</a></p>
 {email_footer}]]></string>
 
-	<string name="_bx_invites_et_invite_by_request_message"><![CDATA[Invite by request message.]]></string>
-	<string name="_bx_invites_et_invite_by_request_message_subject"><![CDATA[Invitation from {site_name}.]]></string>
+	<string name="_bx_invites_et_invite_by_request_message"><![CDATA[通过请求消息邀请。]]></string>
+	<string name="_bx_invites_et_invite_by_request_message_subject"><![CDATA[来自 {site_name} 的邀请。]]></string>
 	<string name="_bx_invites_et_invite_by_request_message_body">
   <![CDATA[{email_header}
-<p><b>Dear Friend</b>,</p>
-<p>You are welcome to join <a href="{site_url}">{site_name}</a> community site.</p>
-<p>Click the following link to join: <a href="{join_url}">{join_url}</a></p>
+<p><b>亲爱的朋友</b>,</p>
+<p>欢迎您加入 <a href="{site_url}">{site_name}</a> 社区。</p>
+<p>点击如下链接加入：<a href="{join_url}">{join_url}</a></p>
 <img src="{seen_image_url}" width="1" height="1">
 {email_footer}]]></string>
 
-	<string name="_bx_invites_et_request_form_message"><![CDATA[Request Invitation form message.]]></string>
-	<string name="_bx_invites_et_request_form_message_subject"><![CDATA[Request invitation.]]></string>
+	<string name="_bx_invites_et_request_form_message"><![CDATA[请求邀请表单消息。]]></string>
+	<string name="_bx_invites_et_request_form_message_subject"><![CDATA[请求邀请。]]></string>
 	<string name="_bx_invites_et_request_form_message_body"><![CDATA[{email_header}
-<p><b>Dear Administrator</b>,</p>
-<p>{sender_name} (<a href="mailto:{sender_email}">{sender_email}</a>; IP {sender_ip}) requested an invitation to join <b>{site_name}</b> site.</p>
-<p><a href="{manage_url}">Click here</a> to manage requests.</p>
+<p><b>亲爱的管理员</b>,</p>
+<p>{sender_name} (<a href="mailto:{sender_email}">{sender_email}</a>; IP {sender_ip}) 请求一份加入 <b>{site_name}</b> 的邀请。</p>
+<p><a href="{manage_url}">点击这里</a> 管理请求。</p>
 {email_footer}]]></string>
 
 
 	<!-- Common Texts -->
-	<string name="_bx_invites_txt_link_popup_title"><![CDATA[Invitation Link]]></string>
-	<string name="_bx_invites_txt_invite_block_text"><![CDATA[You can invite your friends to join. You have <b>{0}</b> invites to share.]]></string>
-	<string name="_bx_invites_txt_request_block_text"><![CDATA[Registration is by invitation only.]]></string>
-	<string name="_bx_invites_txt_unlimited"><![CDATA[unlimited]]></string>
+	<string name="_bx_invites_txt_link_popup_title"><![CDATA[邀请链接]]></string>
+	<string name="_bx_invites_txt_invite_block_text"><![CDATA[您可以邀请您的朋友加入。您有 <b>{0}</b> 个邀请可分享。]]></string>
+	<string name="_bx_invites_txt_request_block_text"><![CDATA[仅可通过邀请注册。]]></string>
+	<string name="_bx_invites_txt_unlimited"><![CDATA[无限制]]></string>
 	
-	<string name="_bx_invites_btn_invite_email"><![CDATA[Invite By Email]]></string>
-	<string name="_bx_invites_btn_invite_link"><![CDATA[Get Invitation Link]]></string>
-	<string name="_bx_invites_btn_copy"><![CDATA[Copy]]></string>
-	<string name="_bx_invites_btn_request"><![CDATA[Request Invitation]]></string>
-	<string name="_bx_invites_msg_invitation"><![CDATA[Hello! This site might be interesting for you.]]></string>
-	<string name="_bx_invites_msg_invitation_sent"><![CDATA[Invitation message was sent to {0} email addresses from the list.]]></string>
-	<string name="_bx_invites_msg_request_sent"><![CDATA[Invitation request was sent.]]></string>
-	<string name="_bx_invites_err_cannot_perform"><![CDATA[An error appeared. Please report.]]></string>
-	<string name="_bx_invites_err_limit_reached"><![CDATA[The number of invitations sent by you reached the limit.]]></string>
-	<string name="_bx_invites_err_not_available"><![CDATA[The feature is not available now. Please, try again later.]]></string>
-	<string name="_bx_invites_err_invite"><![CDATA[Cannot send an invitation on request.]]></string>
-	<string name="_bx_invites_err_delete_invite"><![CDATA[Cannot delete the invite.]]></string>
-  <string name="_bx_invites_err_delete_request"><![CDATA[Cannot delete the request.]]></string>
-	<string name="_bx_invites_err_used"><![CDATA[The invitation link isn't available or already used.]]></string>
-  <string name="_bx_invites_err_already_send"><![CDATA[The request already sent for this email.]]></string>
-  <string name="_bx_invites_err_already_registed"><![CDATA[User with this email already registered. Please use  <a href="{0}">forgot password</a> to restore access to your account.]]></string>
-  <string name="_bx_invites_request_status_new"><![CDATA[New]]></string>
-  <string name="_bx_invites_request_status_invited"><![CDATA[Invited]]></string>
-  <string name="_bx_invites_request_status_seen"><![CDATA[Seen]]></string>
-  <string name="_bx_invites_request_status_joined"><![CDATA[Joined]]></string>
-  <string name="_bx_invites_request_status_for_filter_all"><![CDATA[All requests]]></string>
-  <string name="_bx_invites_request_status_for_filter_new"><![CDATA[New requests]]></string>
-  <string name="_bx_invites_request_status_for_filter_invited"><![CDATA[Requests with invites]]></string>
-  <string name="_bx_invites_request_status_for_filter_seen"><![CDATA[Invite seen]]></string>
-  <string name="_bx_invites_request_status_for_filter_joined"><![CDATA[Joined]]></string>
+	<string name="_bx_invites_btn_invite_email"><![CDATA[通过邮箱邀请]]></string>
+	<string name="_bx_invites_btn_invite_link"><![CDATA[获取邀请链接]]></string>
+	<string name="_bx_invites_btn_copy"><![CDATA[拷贝]]></string>
+	<string name="_bx_invites_btn_request"><![CDATA[请求邀请]]></string>
+	<string name="_bx_invites_msg_invitation"><![CDATA[您好！您可能对这个网站感兴趣。]]></string>
+	<string name="_bx_invites_msg_invitation_sent"><![CDATA[邀请消息已发送至列表中的 {0} 个邮箱地址。]]></string>
+	<string name="_bx_invites_msg_request_sent"><![CDATA[邀请请求已发送。]]></string>
+	<string name="_bx_invites_err_cannot_perform"><![CDATA[发生错误，请报告。]]></string>
+	<string name="_bx_invites_err_limit_reached"><![CDATA[您发出的邀请数量已达到限制。]]></string>
+	<string name="_bx_invites_err_not_available"><![CDATA[该功能暂时不可用，请稍后重试。]]></string>
+	<string name="_bx_invites_err_invite"><![CDATA[不能发送请求的邀请。]]></string>
+	<string name="_bx_invites_err_delete_invite"><![CDATA[无法删除邀请。]]></string>
+  <string name="_bx_invites_err_delete_request"><![CDATA[无法删除邀请。]]></string>
+	<string name="_bx_invites_err_used"><![CDATA[邀请链接无效或者已被使用。]]></string>
+  <string name="_bx_invites_err_already_send"><![CDATA[已往该邮箱地址发送过邀请。]]></string>
+  <string name="_bx_invites_err_already_registed"><![CDATA[该邮箱已注册。请使用<a href="{0}">忘记密码</a>来重新获取您对账户的访问权限。]]></string>
+  <string name="_bx_invites_request_status_new"><![CDATA[新的]]></string>
+  <string name="_bx_invites_request_status_invited"><![CDATA[已邀请]]></string>
+  <string name="_bx_invites_request_status_seen"><![CDATA[已阅]]></string>
+  <string name="_bx_invites_request_status_joined"><![CDATA[已加入]]></string>
+  <string name="_bx_invites_request_status_for_filter_all"><![CDATA[全部请求]]></string>
+  <string name="_bx_invites_request_status_for_filter_new"><![CDATA[新请求]]></string>
+  <string name="_bx_invites_request_status_for_filter_invited"><![CDATA[邀请的请求]]></string>
+  <string name="_bx_invites_request_status_for_filter_seen"><![CDATA[已阅邀请]]></string>
+  <string name="_bx_invites_request_status_for_filter_joined"><![CDATA[已加入]]></string>
 
-  <string name="_bx_invites_invites_status_for_filter_all"><![CDATA[All invites]]></string>
-  <string name="_bx_invites_invites_status_for_filter_accepted"><![CDATA[Accepted invites]]></string>
-  <string name="_bx_invites_invites_status_for_filter_not_accepted"><![CDATA[Not accepted invites]]></string>
+  <string name="_bx_invites_invites_status_for_filter_all"><![CDATA[全部邀请]]></string>
+  <string name="_bx_invites_invites_status_for_filter_accepted"><![CDATA[已接受邀请]]></string>
+  <string name="_bx_invites_invites_status_for_filter_not_accepted"><![CDATA[未接受邀请]]></string>
 
-  <string name="_bx_invites_title_date_invite_sent"><![CDATA[Date sent]]></string>
-  <string name="_bx_invites_title_date_invite_seen"><![CDATA[Date seen]]></string>
+  <string name="_bx_invites_title_date_invite_sent"><![CDATA[发送日期]]></string>
+  <string name="_bx_invites_title_date_invite_seen"><![CDATA[查阅日期]]></string>
 
-  <string name="_bx_invites_reports_for_analytics_invited_total"><![CDATA[Invited - Total numbers]]></string>
-  <string name="_bx_invites_reports_for_analytics_invited_speed_grows"><![CDATA[Invited - Grows speed]]></string>
-  <string name="_bx_invites_reports_for_analytics_invitation_total"><![CDATA[Invitation - Total numbers]]></string>
-  <string name="_bx_invites_reports_for_analytics_invitation_speed_grows"><![CDATA[Invitation - Grows speed]]></string>
+  <string name="_bx_invites_reports_for_analytics_invited_total"><![CDATA[已邀请 - 总数]]></string>
+  <string name="_bx_invites_reports_for_analytics_invited_speed_grows"><![CDATA[已邀请 - 增速]]></string>
+  <string name="_bx_invites_reports_for_analytics_invitation_total"><![CDATA[邀请 - 总数]]></string>
+  <string name="_bx_invites_reports_for_analytics_invitation_speed_grows"><![CDATA[邀请 - 增速]]></string>
 
-  <string name="_bx_invites_alert_action_request"><![CDATA[<b class="bx-ntfs-content-profile">{entry_sample}</b> request invitation - <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
-  <string name="_bx_invites_alert_action_request_notify_personal"><![CDATA[New requests]]></string>
+  <string name="_bx_invites_alert_action_request"><![CDATA[<b class="bx-ntfs-content-profile">{entry_sample}</b> 请求邀请 - <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
+  <string name="_bx_invites_alert_action_request_notify_personal"><![CDATA[新请求]]></string>
 </resources>
