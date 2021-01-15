@@ -162,9 +162,9 @@
     <string name="_bx_ads_page_title_entries_updated"><![CDATA[已更新的广告]]></string>
     <string name="_bx_ads_page_title_sys_entries_search"><![CDATA[搜索]]></string>
     <string name="_bx_ads_page_title_entries_search"><![CDATA[搜索]]></string>
-    <string name="_bx_ads_page_block_title_search_form"><![CDATA[搜索表单]]></string>
+    <string name="_bx_ads_page_block_title_search_form"><![CDATA[搜索条件]]></string>
     <string name="_bx_ads_page_block_title_search_results"><![CDATA[搜索结果]]></string>
-    <string name="_bx_ads_page_block_title_search_form_cmts"><![CDATA[评论搜索表单]]></string>
+    <string name="_bx_ads_page_block_title_search_form_cmts"><![CDATA[评论搜索条件]]></string>
     <string name="_bx_ads_page_block_title_search_results_cmts"><![CDATA[评论搜索结果]]></string>
     <string name="_bx_ads_page_block_title_popular_entries"><![CDATA[受欢迎的广告]]></string>
     <string name="_bx_ads_page_block_title_popular_entries_view_extended"><![CDATA[受欢迎的广告 (展开视图)]]></string>

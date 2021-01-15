@@ -4,7 +4,7 @@
 
     <string name="_bx_dev_adm_wgt_cpt"><![CDATA[开发者]]></string>
     <string name="_bx_dev_adm_page_cpt"><![CDATA[开发者]]></string>
-    
+
     <!-- Forms Builder -->
     <string name="_bx_dev_frm_txt_forms_gl_title"><![CDATA[系统名称]]></string>
     <string name="_bx_dev_frm_txt_forms_gl_module"><![CDATA[模块]]></string>
@@ -36,7 +36,7 @@
     <string name="_bx_dev_frm_btn_pre_lists_create"><![CDATA[添加新列表]]></string>
     <string name="_bx_dev_frm_btn_pre_values_create"><![CDATA[添加新元素]]></string>
     <string name="_bx_dev_frm_btn_search_forms_create"><![CDATA[添加新搜索]]></string>
-    <string name="_bx_dev_frm_btn_search_forms_edit"><![CDATA[编辑搜索表单]]></string>
+    <string name="_bx_dev_frm_btn_search_forms_edit"><![CDATA[编辑搜索条件]]></string>
     <string name="_bx_dev_frm_btn_search_forms_fields_edit"><![CDATA[编辑搜索字段]]></string>
     <string name="_bx_dev_frm_btn_search_forms_fields_reset"><![CDATA[重置]]></string>
     <string name="_bx_dev_frm_txt_select_module"><![CDATA[选择模块...]]></string>
@@ -177,11 +177,11 @@
     <string name="_bx_dev_frm_btn_sys_prevalues_cancel"><![CDATA[取消]]></string>
     <string name="_bx_dev_frm_btn_prevalues_cancel"><![CDATA[取消]]></string>
     <string name="_bx_dev_frm_err_prevalues_create_forbidden"><![CDATA[该列表已使用，无法添加非数字、小于 1 或者大于 {0} 的值。]]></string>
-    <string name="_bx_dev_frm_txt_search_forms_create_popup"><![CDATA[添加新搜索表单]]></string>
-    <string name="_bx_dev_frm_txt_search_forms_edit_popup"><![CDATA[编辑"{0}"搜索表单]]></string>
-    <string name="_bx_dev_frm_err_search_forms_create"><![CDATA[无法添加搜索表单]]></string>
-    <string name="_bx_dev_frm_err_search_forms_edit"><![CDATA[无法更新搜索表单]]></string>
-    <string name="_bx_dev_frm_txt_search_forms_form"><![CDATA[表单构建搜索表单]]></string>
+    <string name="_bx_dev_frm_txt_search_forms_create_popup"><![CDATA[添加新搜索条件]]></string>
+    <string name="_bx_dev_frm_txt_search_forms_edit_popup"><![CDATA[编辑"{0}"搜索条件]]></string>
+    <string name="_bx_dev_frm_err_search_forms_create"><![CDATA[无法添加搜索条件]]></string>
+    <string name="_bx_dev_frm_err_search_forms_edit"><![CDATA[无法更新搜索条件]]></string>
+    <string name="_bx_dev_frm_txt_search_forms_form"><![CDATA[表单构建搜索条件]]></string>
     <string name="_bx_dev_frm_txt_search_forms_display_add"><![CDATA[添加]]></string>
     <string name="_bx_dev_frm_txt_search_forms_display_edit"><![CDATA[编辑]]></string>
     <string name="_bx_dev_frm_txt_sys_search_forms_id"><![CDATA[ID]]></string>
@@ -211,8 +211,8 @@
     <string name="_bx_dev_frm_txt_search_fields_form"><![CDATA[表单构建搜索字段]]></string>
     <string name="_bx_dev_frm_txt_search_fields_display_edit"><![CDATA[编辑]]></string>
     <string name="_bx_dev_frm_txt_sys_search_fields_id"><![CDATA[ID]]></string>
-    <string name="_bx_dev_frm_txt_sys_search_fields_object"><![CDATA[搜索表单]]></string>
-    <string name="_bx_dev_frm_txt_search_fields_object"><![CDATA[搜索表单]]></string>
+    <string name="_bx_dev_frm_txt_sys_search_fields_object"><![CDATA[搜索条件]]></string>
+    <string name="_bx_dev_frm_txt_search_fields_object"><![CDATA[搜索条件]]></string>
     <string name="_bx_dev_frm_txt_sys_search_fields_name"><![CDATA[名称]]></string>
     <string name="_bx_dev_frm_txt_search_fields_name"><![CDATA[名称]]></string>
     <string name="_bx_dev_frm_err_search_fields_name"><![CDATA[您需要输入一个值]]></string>
@@ -236,7 +236,7 @@
     <string name="_bx_dev_frm_btn_sys_search_fields_save"><![CDATA[保存]]></string>
     <string name="_bx_dev_frm_btn_search_fields_cancel"><![CDATA[取消]]></string>
     <string name="_bx_dev_frm_btn_sys_search_fields_cancel"><![CDATA[取消]]></string>
-    
+
     <!-- Navigation Builder -->
     <string name="_bx_dev_nav_txt_menus_gl_title"><![CDATA[系统名称]]></string>
     <string name="_bx_dev_nav_txt_menus_gl_set_title"><![CDATA[集合]]></string>

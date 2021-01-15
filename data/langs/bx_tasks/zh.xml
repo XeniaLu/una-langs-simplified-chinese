@@ -137,7 +137,7 @@
     <string name="_bx_tasks_page_title_entries_updated"><![CDATA[近期更新]]></string>
     <string name="_bx_tasks_page_title_sys_entries_search"><![CDATA[搜索]]></string>
     <string name="_bx_tasks_page_title_entries_search"><![CDATA[搜索]]></string>
-    <string name="_bx_tasks_page_block_title_search_form"><![CDATA[搜索表单]]></string>
+    <string name="_bx_tasks_page_block_title_search_form"><![CDATA[搜索条件]]></string>
     <string name="_bx_tasks_page_block_title_search_results"><![CDATA[搜索结果]]></string>
     <string name="_bx_tasks_page_block_title_search_form_cmts"><![CDATA[搜索评论表单]]></string>
     <string name="_bx_tasks_page_block_title_search_results_cmts"><![CDATA[搜索评论结果]]]></string>

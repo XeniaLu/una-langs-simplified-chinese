@@ -89,7 +89,7 @@
         <string name="_report_comment_with_note"><![CDATA[提起投诉 '{0}'，并注释为： {1}]]></string>
 	<string name="_report_counter"><![CDATA[{0}]]></string>
 	<string name="_report_do_report"><![CDATA[投诉]]></string>
-	<string name="_report_do_report_by"><![CDATA[投诉人]]></string>
+	<string name="_report_do_report_by"><![CDATA[条投诉]]></string>
 	<string name="_report_err_cannot_perform_action"><![CDATA[无法执行该操作。]]></string>
 	<string name="_report_err_duplicate_report"><![CDATA[不可重复投诉。]]></string>
 	<string name="_report_err_not_enabled"><![CDATA[该功能目前无法使用，请稍后再试。]]></string>
@@ -722,7 +722,7 @@
 	<string name="_adm_form_btn_pre_values_create"><![CDATA[添加新项目]]></string>
 	<string name="_adm_form_btn_pre_values_delete_item"><![CDATA[删除项目]]></string>
 	<string name="_adm_form_btn_pre_values_edit_item"><![CDATA[编辑项目]]></string>
-	<string name="_adm_form_btn_search_forms_edit"><![CDATA[编辑搜索表单]]></string>
+	<string name="_adm_form_btn_search_forms_edit"><![CDATA[编辑搜索条件]]></string>
     <string name="_adm_form_btn_search_forms_fields_edit"><![CDATA[编辑搜索字段]]></string>
     <string name="_adm_form_btn_search_forms_fields_reset"><![CDATA[重置]]></string>
     <string name="_adm_form_btn_search_forms_save"><![CDATA[保存]]></string>
@@ -754,8 +754,8 @@
 	<string name="_adm_form_dsc_pre_lists_title"><![CDATA[列表名称仅供工作台使用]]></string>
 	<string name="_adm_form_dsc_pre_values_empty"><![CDATA[您可将其用于类似"请选择..."的下拉框，不会被提交]]></string>
 	<string name="_adm_form_dsc_pre_values_lkey"><![CDATA[显示于网站上的名称]]></string>
-	<string name="_adm_form_dsc_search_forms_fields_search_type"><![CDATA[搜索表单中的控件类型]]></string>
-    <string name="_adm_form_dsc_search_forms_title"><![CDATA[搜索表单的名称，仅在工作台中显示。]]></string>
+	<string name="_adm_form_dsc_search_forms_fields_search_type"><![CDATA[搜索条件中的控件类型]]></string>
+    <string name="_adm_form_dsc_search_forms_title"><![CDATA[搜索条件的名称，仅在工作台中显示。]]></string>
 	<string name="_adm_form_err_cannot_process_action"><![CDATA[无法执行该操作，没有找到相关联的执行方法。]]></string>
 	<string name="_adm_form_err_displays_edit"><![CDATA[无法更新标题]]></string>
 	<string name="_adm_form_err_displays_title"><![CDATA[请输入标题，至少 3 个字符]]></string>
@@ -790,9 +790,9 @@
 	<string name="_adm_form_err_pre_values_edit"><![CDATA[无法编辑]]></string>
 	<string name="_adm_form_err_pre_values_lkey"><![CDATA[请输入标题，至少 1 个字符]]></string>
 	<string name="_adm_form_err_search_forms_essential"><![CDATA[该字段为必填字段，请输入。]]></string>
-    <string name="_adm_form_err_search_forms_fields_edit"><![CDATA[无法更新搜索表单字段]]></string>
-    <string name="_adm_from_err_search_forms_fields_reset"><![CDATA[无法重置该搜索表单。]]></string>
-    <string name="_adm_form_err_search_forms_edit"><![CDATA[无法更新所选的搜索表单。]]></string>
+    <string name="_adm_form_err_search_forms_fields_edit"><![CDATA[无法更新搜索条件字段]]></string>
+    <string name="_adm_from_err_search_forms_fields_reset"><![CDATA[无法重置该搜索条件。]]></string>
+    <string name="_adm_form_err_search_forms_edit"><![CDATA[无法更新所选的搜索条件。]]></string>
     <string name="_adm_form_err_search_forms_title"><![CDATA[请输入名称，至少 3 个字符]]></string>
 	<string name="_adm_form_txt_all_modules"><![CDATA[全部模块]]></string>
 	<string name="_adm_form_txt_confirm_delete"><![CDATA[您确定要删除该字段吗？它将从所有页面中删除！您也可以选择关闭而非删除。]]></string>
@@ -995,7 +995,7 @@
 	<string name="_adm_form_txt_pre_values_empty"><![CDATA[对该项目使用空值]]></string>
 	<string name="_adm_form_txt_pre_values_gl_lkey"><![CDATA[标题]]></string>
 	<string name="_adm_form_txt_pre_values_lkey"><![CDATA[标题]]></string>
-    <string name="_adm_form_txt_search_forms_edit_popup"><![CDATA[编辑 "{0}" 搜索表单]]></string>
+    <string name="_adm_form_txt_search_forms_edit_popup"><![CDATA[编辑 "{0}" 搜索条件]]></string>
     <string name="_adm_form_txt_search_forms_fields"><![CDATA[字段]]></string>
     <string name="_adm_form_txt_search_forms_fields_type"><![CDATA[类型]]></string>
     <string name="_adm_form_txt_search_forms_fields_caption"><![CDATA[标题]]></string>
@@ -1019,14 +1019,14 @@
 	<string name="_adm_ipbl_Type1_desc"><![CDATA[IP 列表类型为 1：除下列 IP 地址以外的均被允许]]></string>
 	<string name="_adm_ipbl_Type2_desc"><![CDATA[IP 列表类型为 2：除下列 IP 地址以外的均被禁止]]></string>
 	<string name="_adm_ipbl_sample"><![CDATA[示例]]></string>
-    <string name="_adm_lang_cnf_uninstall"><![CDATA[<h3>是否卸载 "{0}"?</h3><p>即将卸载 "{0}" 并删除该语言的所有数据。您确定要继续吗？</p>]]></string>
+    <string name="_adm_lang_cnf_uninstall"><![CDATA[<h3>是否卸载语言 "{0}"?</h3><p>即将卸载 "{0}" 并删除该语言的所有数据。您确定要继续吗？</p>]]></string>
 	<string name="_adm_lmi_cpt_actions"><![CDATA[操作]]></string>
   <string name="_adm_lmi_cpt_badges"><![CDATA[徽章]]></string>
 	<string name="_adm_lmi_cpt_categories"><![CDATA[分类]]></string>
 	<string name="_adm_lmi_cpt_checkout"><![CDATA[结算 {checkout_counter}]]></string>
 	<string name="_adm_lmi_cpt_cover"><![CDATA[封面]]></string>
 	<string name="_adm_lmi_cpt_search"><![CDATA[搜索]]></string>
-	<string name="_adm_lmi_cpt_search_forms"><![CDATA[搜索表单]]></string>
+	<string name="_adm_lmi_cpt_search_forms"><![CDATA[搜索条件]]></string>
 	<string name="_adm_lmi_cpt_search_fields"><![CDATA[搜索字段]]></string>
 	<string name="_adm_lmi_cpt_splash"><![CDATA[启动页面]]></string>
 	<string name="_adm_lmi_cpt_displays"><![CDATA[标题]]></string>
@@ -1703,7 +1703,7 @@
 	<string name="_adm_txt_modules_process_storages"><![CDATA[处理存储：]]></string>
 	<string name="_adm_txt_modules_process_failed"><![CDATA[失败]]></string>
 	<string name="_adm_txt_modules_process_success"><![CDATA[已完成]]></string>
-	<string name="_adm_txt_modules_process_esearches"><![CDATA[处理搜索表单：]]></string>
+	<string name="_adm_txt_modules_process_esearches"><![CDATA[处理搜索条件：]]></string>
 	<string name="_adm_txt_modules_register_transcoders"><![CDATA[注册转码器：]]></string>
 	<string name="_adm_txt_modules_unregister_transcoders"><![CDATA[注销转码器：]]></string>
 	<string name="_adm_txt_modules_show_conclusion"><![CDATA[来自供应商的结论：]]></string>
@@ -1876,8 +1876,8 @@
 	<string name="_sys_acl_action_vote"><![CDATA[投票]]></string>
         <string name="_sys_acl_action_vote_view"><![CDATA[查看票数]]></string>
         <string name="_sys_acl_action_vote_view_voters"><![CDATA[查看投票人]]></string>
-	<string name="_sys_acl_action_report"><![CDATA[报告]]></string>
-	<string name="_sys_acl_action_report_view"><![CDATA[查看报告]]></string>
+	<string name="_sys_acl_action_report"><![CDATA[投诉]]></string>
+	<string name="_sys_acl_action_report_view"><![CDATA[查看投诉]]></string>
 	<string name="_sys_acl_action_add_block"><![CDATA[Wiki：添加组件]]></string>
 	<string name="_sys_acl_action_edit_block"><![CDATA[Wiki：编辑组件]]></string>
 	<string name="_sys_acl_action_translate_block"><![CDATA[Wiki：翻译组件]]></string>
@@ -2409,7 +2409,7 @@
   <string name="_sys_form_favorite_list_title_visibility"><![CDATA[是否可见]]></string>
   <string name="_sys_txt_default_favorite_list"><![CDATA[默认]]></string>
 
-	<string name="_sys_form_report"><![CDATA[报告]]></string>
+	<string name="_sys_form_report"><![CDATA[投诉]]></string>
 	<string name="_sys_form_report_input_caption_submit"><![CDATA[发布]]></string>
 	<string name="_sys_form_report_input_caption_text"><![CDATA[报告文本]]></string>
 	<string name="_sys_form_report_input_caption_type"><![CDATA[报告类型]]></string>
@@ -2457,7 +2457,7 @@
 	<string name="_sys_form_wiki_input_caption_content"><![CDATA[内容]]></string>
 	<string name="_sys_form_wiki_input_caption_content_info"><![CDATA[支持 Markdown 语法和宏定义。]]></string>
 	<string name="_sys_form_wiki_input_caption_content_main"><![CDATA[主要（原）内容]]></string>
-	<string name="_sys_form_wiki_input_caption_notes"><![CDATA[笔记]]></string>
+	<string name="_sys_form_wiki_input_caption_notes"><![CDATA[评论]]></string>
 	<string name="_sys_form_wiki_input_caption_submit"><![CDATA[提交]]></string>
 	<string name="_sys_form_wiki_input_caption_close"><![CDATA[关闭]]></string>
 	<string name="_sys_form_wiki_buttons"><![CDATA[按钮]]></string>
@@ -2689,7 +2689,7 @@
         <string name="_sys_menu_item_title_system_cmts_item_quote"><![CDATA[引用]]></string>
         <string name="_sys_menu_item_title_system_cmts_item_reaction"><![CDATA[回应]]></string>
 	<string name="_sys_menu_item_title_system_cmts_item_reply"><![CDATA[回复]]></string>
-	<string name="_sys_menu_item_title_system_cmts_item_report"><![CDATA[报告]]></string>
+	<string name="_sys_menu_item_title_system_cmts_item_report"><![CDATA[投诉]]></string>
 	<string name="_sys_menu_item_title_system_cmts_item_score"><![CDATA[分数]]></string>
 	<string name="_sys_menu_item_title_system_cmts_item_vote"><![CDATA[投票]]></string>
 	<string name="_sys_menu_item_title_system_cmts_item_more"><![CDATA[更多]]></string>
@@ -2718,10 +2718,10 @@
         <string name="_sys_menu_item_title_system_va_feature"><![CDATA[精选]]></string>
         <string name="_sys_menu_item_title_system_va_reaction"><![CDATA[回应]]></string>
         <string name="_sys_menu_item_title_system_va_repost"><![CDATA[转发]]></string>
-        <string name="_sys_menu_item_title_system_va_report"><![CDATA[报告]]></string>
-        <string name="_sys_menu_item_title_system_va_notes"><![CDATA[笔记]]></string>
+        <string name="_sys_menu_item_title_system_va_report"><![CDATA[投诉]]></string>
+        <string name="_sys_menu_item_title_system_va_notes"><![CDATA[评论]]></string>
         <string name="_sys_menu_item_title_system_va_more_auto"><![CDATA[更多]]></string>
-        <string name="_sys_menu_item_title_va_notes"><![CDATA[笔记]]></string>
+        <string name="_sys_menu_item_title_va_notes"><![CDATA[评论]]></string>
         <string name="_sys_menu_item_title_va_more_auto"><![CDATA[]]></string>
 	<string name="_sys_menu_item_title_system_social_sharing_facebook"><![CDATA[分享到 Facebook]]></string>
     <string name="_sys_menu_item_title_system_social_sharing_twitter"><![CDATA[分享到 Twitter]]></string>
@@ -2739,8 +2739,8 @@
     <string name="_sys_menu_item_title_system_sm_unfriend"><![CDATA[删除好友]]></string>
     <string name="_sys_menu_item_title_system_sm_join_paid"><![CDATA[付款 & 加入]]></string>
     <string name="_sys_menu_item_title_system_sm_join"><![CDATA[加入]]></string>
-    <string name="_sys_menu_item_title_system_sm_leave"><![CDATA[离开]]></string>
-    <string name="_sys_menu_item_title_system_sm_nl"><![CDATA[新行]]></string>
+    <string name="_sys_menu_item_title_system_sm_leave"><![CDATA[退出]]></string>
+    <string name="_sys_menu_item_title_system_sm_nl"><![CDATA[新队列]]></string>
     <string name="_sys_menu_item_title_system_sm_subscribe"><![CDATA[关注]]></string>
     <string name="_sys_menu_item_title_system_sm_friends"><![CDATA[好友]]></string>
     <string name="_sys_menu_item_title_system_sm_members"><![CDATA[成员]]></string>
@@ -2912,7 +2912,7 @@
 	<string name="_sys_page_block_title_homepage_menu"><![CDATA[内容模块菜单]]></string>
         <string name="_sys_page_block_title_homepage_splash"><![CDATA[启动页]]></string>
 	<string name="_sys_page_block_title_forgot_password"><![CDATA[忘记密码]]></string>
-  <string name="_sys_page_block_title_search_keyword_form"><![CDATA[搜索表单]]></string>
+  <string name="_sys_page_block_title_search_keyword_form"><![CDATA[搜索条件]]></string>
   <string name="_sys_page_block_title_search_keyword_result"><![CDATA[搜索结果]]></string>
         <string name="_sys_page_block_title_membership_stats"><![CDATA[会员限制]]></string>
 	<string name="_sys_page_block_system_title_login"><![CDATA[使用注册链接登录]]></string>
@@ -3056,16 +3056,16 @@
             <li><b>{1}</b> 被删除</li>
         </ul>]]></string>
         <string name="_sys_ps_group_title_custom"><![CDATA[自定义]]></string>
-        <string name="_sys_ps_group_title_followers"><![CDATA[粉丝]]></string>
-	<string name="_sys_ps_group_title_friends"><![CDATA[好友]]></string>
-        <string name="_sys_ps_group_title_friends_selected"><![CDATA[已选择的好友...]]></string>
-        <string name="_sys_ps_group_title_relations"><![CDATA[关系]]></string>
-        <string name="_sys_ps_group_title_relations_selected"><![CDATA[已选择的关系...]]></string>
-	<string name="_sys_ps_group_title_me_only"><![CDATA[我自己]]></string>
-	<string name="_sys_ps_group_title_members"><![CDATA[会员]]></string>
+        <string name="_sys_ps_group_title_followers"><![CDATA[仅粉丝]]></string>
+	<string name="_sys_ps_group_title_friends"><![CDATA[仅好友]]></string>
+        <string name="_sys_ps_group_title_friends_selected"><![CDATA[指定的好友...]]></string>
+        <string name="_sys_ps_group_title_relations"><![CDATA[仅关系]]></string>
+        <string name="_sys_ps_group_title_relations_selected"><![CDATA[指定的关系...]]></string>
+	<string name="_sys_ps_group_title_me_only"><![CDATA[仅限自己]]></string>
+	<string name="_sys_ps_group_title_members"><![CDATA[仅会员]]></string>
 	<string name="_sys_ps_group_title_public"><![CDATA[公开]]></string>
-        <string name="_sys_ps_group_title_participants"><![CDATA[参加者]]></string>
-	<string name="_sys_ps_group_title_closed"><![CDATA[关闭]]></string>
+        <string name="_sys_ps_group_title_participants"><![CDATA[仅参与人员]]></string>
+	<string name="_sys_ps_group_title_closed"><![CDATA[不对外]]></string>
 	<string name="_sys_ps_group_title_secret"><![CDATA[私密]]></string>
     <string name="_sys_ps_ferr_incorrect_gc_not_allowed"><![CDATA[不允许自定义隐私组。]]></string>
     <string name="_sys_ps_ferr_incorrect_gc_owner"><![CDATA[您不是该内容的所有者。]]></string>
@@ -3269,14 +3269,14 @@
         <string name="_sys_txt_splash_share"><![CDATA[分享]]></string>
         <string name="_sys_txt_splash_share_text"><![CDATA[为您带来最新的消息，分享有趣的文章，激动人心的网站，精彩的照片和视频。]]></string>
         <string name="_sys_txt_splash_create"><![CDATA[创造]]></string>
-        <string name="_sys_txt_splash_create_text"><![CDATA[建立您自己的社交档案，发布状态更新，记下笔记，创建投票并上传媒体专辑。]]></string>
+        <string name="_sys_txt_splash_create_text"><![CDATA[建立您自己的社交档案，发布状态更新，写下评论，创建投票并上传媒体专辑。]]></string>
 	<string name="_sys_txt_switch_profile_context"><![CDATA[切换]]></string>
 	<string name="_sys_txt_unsubscribe_email_settings_update_success"><![CDATA[您的电子邮件设置已更新成功。]]></string>
 	<string name="_sys_txt_unsubscribe_error_occured"><![CDATA[发生错误，请登录到您的帐户并更新电子邮件设置，或联系网站管理员为您手动取消订阅。]]></string>
 	<string name="_sys_txt_unsubscribe_info"><![CDATA[更新以下电子邮件的设置 <b>{0}</b>]]></string>
         <string name="_sys_txt_unsubscribe_wrong_link"><![CDATA[退订链接有误。]]></string>
         <string name="_sys_txt_user_n"><![CDATA[用户 #{0}]]></string>
-        <string name="_sys_txt_reports_title"><![CDATA[报告]]></string>
+        <string name="_sys_txt_reports_title"><![CDATA[投诉]]></string>
         <string name="_sys_unconfirmed"><![CDATA[未确认]]></string>
 	<string name="_sys_upgrade_conclusion"><![CDATA[<h3>重要信息：</h3><p>{0}</p>]]></string>
 	<string name="_sys_upgrade_db_and_files_versions_different"><![CDATA[数据库和文件版本不同，可能是之前的补丁包未正确按照。]]></string>
@@ -3332,7 +3332,7 @@
 	<string name="_undefined"><![CDATA[未定义]]></string>
 	<string name="_view_counter"><![CDATA[{0}]]></string>
 	<string name="_view_do_view"><![CDATA[查看]]></string>
-	<string name="_view_do_view_by"><![CDATA[查看于]]></string>
+	<string name="_view_do_view_by"><![CDATA[位查看]]></string>
 	<string name="_view_do_view_by_counter"><![CDATA[{0} 阅读]]></string>
 	<string name="_view_n_views"><![CDATA[{0} 阅读]]></string>
 	<string name="_vote_counter"><![CDATA[{0}]]></string>

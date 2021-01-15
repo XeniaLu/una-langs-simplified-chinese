@@ -155,13 +155,13 @@
     <string name="_bx_albums_page_title_entries_search"><![CDATA[搜索]]></string>
     <string name="_bx_albums_page_title_sys_entries_favorites"><![CDATA[最喜爱的媒体]]></string>
     <string name="_bx_albums_page_title_entries_favorites"><![CDATA[最喜爱的媒体]]></string>
-    <string name="_bx_albums_page_block_title_search_form"><![CDATA[搜索表单]]></string>
+    <string name="_bx_albums_page_block_title_search_form"><![CDATA[搜索条件]]></string>
     <string name="_bx_albums_page_block_title_search_results"><![CDATA[搜索结果]]></string>
-    <string name="_bx_albums_page_block_title_search_form_media"><![CDATA[图片搜索表单]]></string>
+    <string name="_bx_albums_page_block_title_search_form_media"><![CDATA[图片搜索条件]]></string>
     <string name="_bx_albums_page_block_title_search_results_media"><![CDATA[图片搜索结果]]></string>
-    <string name="_bx_albums_page_block_title_search_form_cmts"><![CDATA[评论搜索表单]></string>
+    <string name="_bx_albums_page_block_title_search_form_cmts"><![CDATA[评论搜索条件]></string>
     <string name="_bx_albums_page_block_title_search_results_cmts"><![CDATA[评论搜索结果]]></string>
-    <string name="_bx_albums_page_block_title_search_form_media_cmts"><![CDATA[图片评论搜索表单]]></string>
+    <string name="_bx_albums_page_block_title_search_form_media_cmts"><![CDATA[图片评论搜索条件]]></string>
     <string name="_bx_albums_page_block_title_search_results_media_cmts"><![CDATA[图片评论搜索结果]]></string>
     <string name="_bx_albums_page_block_title_sys_recent_media_view_showcase"><![CDATA[最新图片 (展示视图)]]></string>
     <string name="_bx_albums_page_block_title_recent_media_view_showcase"><![CDATA[最新图片]]></string>
