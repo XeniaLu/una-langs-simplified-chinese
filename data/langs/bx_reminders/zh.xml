@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-    <string name="_bx_reminders"><![CDATA[Reminders]]></string>
+    <string name="_bx_reminders"><![CDATA[提醒]]></string>
 
     <!-- Options -->
-    <string name="_bx_reminders_option_delete_after"><![CDATA[Delete expired reminders after (in days, use -1 to disable)]]></string>
-    <string name="_bx_reminders_option_system_profile_id"><![CDATA[System profile to send notifications from]]></string>
+    <string name="_bx_reminders_option_delete_after"><![CDATA[指定天数之后删除过期的提醒（以天为单位，-1 代表不删除）]]></string>
+    <string name="_bx_reminders_option_system_profile_id"><![CDATA[以指定的个人档案发送消息通知]]></string>
 
 
     <!-- Pages -->
-    <string name="_bx_reminders_page_block_title_sys_view"><![CDATA[Reminders]]></string>
-    <string name="_bx_reminders_page_block_title_view"><![CDATA[Reminders]]></string>
+    <string name="_bx_reminders_page_block_title_sys_view"><![CDATA[提醒]]></string>
+    <string name="_bx_reminders_page_block_title_view"><![CDATA[提醒]]></string>
 
 
     <!-- Different -->
-    <string name="_bx_reminders_type_title_birthday"><![CDATA[Birthdays]]></string>
-    <string name="_bx_reminders_type_text_birthday"><![CDATA[<b>{profile_name}</b> birthday is on <b>{date}</b>. Don't forget to wish a happy birthday.]]></string>
-    <string name="_bx_reminders_type_title_anniversary"><![CDATA[Anniversaries]]></string>
-    <string name="_bx_reminders_type_text_anniversary"><![CDATA[<b>{profile_name}</b> celebrates <b>{title}</b> on <b>{date}</b>. Don't forget to congratulate on the anniversary.]]></string>
+    <string name="_bx_reminders_type_title_birthday"><![CDATA[生日]]></string>
+    <string name="_bx_reminders_type_text_birthday"><![CDATA[<b>{profile_name}</b> 的生日是 <b>{date}</b>。不要忘记说声生日快乐。]]></string>
+    <string name="_bx_reminders_type_title_anniversary"><![CDATA[纪念日]]></string>
+    <string name="_bx_reminders_type_text_anniversary"><![CDATA[<b>{date}</b> 是 <b>{profile_name}</b> 庆祝 <b>{title}</b> 的日子。不要忘记在纪念日到来之时道一声祝福。]]></string>
 
-    <string name="_bx_reminders_type_title_new_year"><![CDATA[New Year]]></string>
-    <string name="_bx_reminders_type_text_new_year"><![CDATA[What do you want to do differently this year?]]></string>
-    <string name="_bx_reminders_type_title_valentine_day"><![CDATA[Valentine's Day]]></string>
-    <string name="_bx_reminders_type_text_valentine_day"><![CDATA[When was the first time you fell in love?]]></string>
-    <string name="_bx_reminders_type_title_easter"><![CDATA[Easter]]></string>
-    <string name="_bx_reminders_type_text_easter"><![CDATA[What role has Jesus played in your life?]]></string>
-    <string name="_bx_reminders_type_title_halloween"><![CDATA[Halloween]]></string>
-    <string name="_bx_reminders_type_text_halloween"><![CDATA[What is your favorite holiday to celebrate and why?]]></string>
-    <string name="_bx_reminders_type_title_thanksgiving"><![CDATA[Thanksgiving]]></string>
-    <string name="_bx_reminders_type_text_thanksgiving"><![CDATA[Whose influence are you thankful for?]]></string>
-    <string name="_bx_reminders_type_title_christmas"><![CDATA[Christmas]]></string>
-    <string name="_bx_reminders_type_text_christmas"><![CDATA[What is your favorite family tradition and why?]]></string>
+    <string name="_bx_reminders_type_title_new_year"><![CDATA[新年]]></string>
+    <string name="_bx_reminders_type_text_new_year"><![CDATA[你今年想做些什么？]]></string>
+    <string name="_bx_reminders_type_title_valentine_day"><![CDATA[情人节]]></string>
+    <string name="_bx_reminders_type_text_valentine_day"><![CDATA[你第一次坠入爱河是在什么时候？]]></string>
+    <string name="_bx_reminders_type_title_easter"><![CDATA[复活节]]></string>
+    <string name="_bx_reminders_type_text_easter"><![CDATA[耶稣在你的生活中扮演了什么角色？]]></string>
+    <string name="_bx_reminders_type_title_halloween"><![CDATA[万圣节]]></string>
+    <string name="_bx_reminders_type_text_halloween"><![CDATA[你最喜欢的节日是什么节？为什么？]]></string>
+    <string name="_bx_reminders_type_title_thanksgiving"><![CDATA[感恩节]]></string>
+    <string name="_bx_reminders_type_text_thanksgiving"><![CDATA[你感激谁对你的帮助？]]></string>
+    <string name="_bx_reminders_type_title_christmas"><![CDATA[圣诞节]]></string>
+    <string name="_bx_reminders_type_text_christmas"><![CDATA[你最喜欢的家庭传统是什么？为什么？]]></string>
 
-    <string name="_bx_reminders_txt_sample_single"><![CDATA[reminder]]></string>
-    <string name="_bx_reminders_txt_sample_single_with_article"><![CDATA[a reminder]]></string>
+    <string name="_bx_reminders_txt_sample_single"><![CDATA[提醒]]></string>
+    <string name="_bx_reminders_txt_sample_single_with_article"><![CDATA[提醒]]></string>
 </resources>
