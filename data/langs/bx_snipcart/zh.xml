@@ -209,7 +209,7 @@
 	<string name="_bx_snipcart_menu_item_title_manage_my"><![CDATA[我的商品]]></string>
 	<string name="_bx_snipcart_menu_item_title_manage_all"><![CDATA[全部商品]]></string>
         <string name="_bx_snipcart_menu_item_title_system_buy_for"><![CDATA[购买]]></string>
-	<string name="_bx_snipcart_menu_item_title_buy_for"><![CDATA[购买 {1}{0}]]></string>
+	<string name="_bx_snipcart_menu_item_title_buy_for"><![CDATA[以 {1}{0} 购买]]></string>
 
 	<string name="_bx_snipcart_grid_filter_item_title_adm_select_one_filter1"><![CDATA[全部状态]]></string>
 	<string name="_bx_snipcart_grid_filter_item_title_adm_active"><![CDATA[有效]]></string>
@@ -221,7 +221,7 @@
     <string name="_bx_snipcart_grid_action_title_adm_edit"><![CDATA[编辑]]></string>
     <string name="_bx_snipcart_grid_action_title_adm_delete"><![CDATA[删除]]></string>
     <string name="_bx_snipcart_grid_action_title_adm_more_actions"><![CDATA[更多操作]]></string>
-    <string name="_bx_snipcart_grid_action_title_adm_audit_content"><![CDATA[更多操作]]></string>
+    <string name="_bx_snipcart_grid_action_title_adm_audit_content"><![CDATA[审核操作]]></string>
     <string name="_bx_snipcart_grid_action_title_adm_clear_reports"><![CDATA[清除投诉]]></string>
     <string name="_bx_snipcart_grid_action_err_delete"><![CDATA[无法删除所选商品。]]></string>
     <string name="_bx_snipcart_grid_txt_account_manager"><![CDATA[跳转至账号管理。]]></string>
@@ -236,7 +236,7 @@
     <string name="_bx_snipcart_cat_automotive_and_industrial"><![CDATA[汽车/工业]]></string>
     <string name="_bx_snipcart_cat_beauty_health_food"><![CDATA[美容/保健/美食]]></string>
     <string name="_bx_snipcart_cat_books"><![CDATA[书籍]]></string>
-    <string name="_bx_snipcart_cat_clothing_shoes_jewelry"><![CDATA[服饰/鞋帽/珠宝]]></string>
+    <string name="_bx_snipcart_cat_clothing_shoes_jewelry"><![CDATA[服装/鞋帽/珠宝]]></string>
     <string name="_bx_snipcart_cat_electronics_and_computers"><![CDATA[电子/计算机]]></string>
     <string name="_bx_snipcart_cat_handmade"><![CDATA[手工制作]]></string>
     <string name="_bx_snipcart_cat_home_garden_tools"><![CDATA[家居/园艺/工具]]></string>
@@ -250,9 +250,9 @@
 
     <string name="_bx_snipcart_pre_lists_currencies"><![CDATA[货币]]></string>
 
-    <string name="_bx_snipcart_msg_save_settings"><![CDATA[设置保存成功。]]></string>
-    <string name="_bx_snipcart_err_save_settings"><![CDATA[设置无法保存。]]></string>
-    <string name="_bx_snipcart_err_not_configured"><![CDATA[首先您需要<a href="{0}">点击这里</a>对商店进行配置。]]></string>
+    <string name="_bx_snipcart_msg_save_settings"><![CDATA[配置保存成功。]]></string>
+    <string name="_bx_snipcart_err_save_settings"><![CDATA[配置无法保存。]]></string>
+    <string name="_bx_snipcart_err_not_configured"><![CDATA[首先您需要对商店进行配置，请<a href="{0}">点击这里</a>。]]></string>
 
     <string name="_bx_snipcart_txt_all_entries_by"><![CDATA[{0} 的商品]]></string>
     <string name="_bx_snipcart_txt_all_entries_in"><![CDATA[<a href="{0}">在 {1} ({2}) 中的全部商品</a>]]></string>

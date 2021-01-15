@@ -3353,7 +3353,7 @@
 	<string name="_week_tue"><![CDATA[周二]]></string>
 	<string name="_week_wed"><![CDATA[周三]]></string>
 	<string name="_sys_option_labels"><![CDATA[标签]]></string>
-	<string name="_sys_option_per_page_browse_showcase"><![CDATA[案例展示页面中每页所展示的个数]]></string>
+	<string name="_sys_option_per_page_browse_showcase"><![CDATA[展示柜视图中每页所展示的个数]]></string>
 	<string name="_sys_option_per_page_browse_recommended"><![CDATA[推荐页面中每页所展示的个数]]></string>
 	<string name="_sys_javascript_requred"><![CDATA[网站需要启用 JavaScript！请您在浏览器中开启该配置开关！]]></string>
 	<string name="_sys_wiki_system_title"><![CDATA[系统 WIKI]]></string>
