@@ -12,7 +12,7 @@
     <string name="_bx_reviews_option_rss_num"><![CDATA[RSS 资讯信息显示的评价数量]]></string>
     <string name="_bx_reviews_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索范围]]></string>
     <string name="_bx_reviews_option_use_galery_as_cover"><![CDATA[如果没有上传封面，则使用第一张图片附件作为封面]]></string>
-    <string name="_bx_reviews_option_auto_activation_for_categories"><![CDATA[自动激活类别]]></string>
+    <string name="_bx_reviews_option_auto_activation_for_categories"><![CDATA[自动启用类别]]></string>
     <string name="_bx_reviews_option_per_page_for_favorites_lists"><![CDATA[收藏列表中，每页显示的评价数量]]></string>
 
     <string name="_bx_reviews_form_entry"><![CDATA[评价]]></string>
@@ -66,9 +66,9 @@
     <string name="_bx_reviews_form_poll_input_sys_text"><![CDATA[问题]]></string>
     <string name="_bx_reviews_form_poll_input_text"><![CDATA[问题]]></string>
     <string name="_bx_reviews_form_poll_input_text_err"><![CDATA[请输入问题，该字段为必填项]]></string>
-    <string name="_bx_reviews_form_poll_input_sys_answers"><![CDATA[回答]]></string>
-    <string name="_bx_reviews_form_poll_input_answers"><![CDATA[回答]]></string>
-    <string name="_bx_reviews_form_poll_input_answers_err"><![CDATA[投票应至少有 2 个非空答案]]></string>
+    <string name="_bx_reviews_form_poll_input_sys_answers"><![CDATA[答案]]></string>
+    <string name="_bx_reviews_form_poll_input_answers"><![CDATA[答案]]></string>
+    <string name="_bx_reviews_form_poll_input_answers_err"><![CDATA[投票应至少有 2 个非空答案。]]></string>
     <string name="_bx_reviews_form_poll_input_answers_add"><![CDATA[添加更多]]></string>
     <string name="_bx_reviews_form_poll_input_sys_do_submit"><![CDATA[添加]]></string>
     <string name="_bx_reviews_form_poll_input_do_submit"><![CDATA[添加]]></string>
