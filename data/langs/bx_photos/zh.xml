@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
     <string name="_bx_photos"><![CDATA[照片]]></string>
-    <string name="_bx_photos_cmts"><![CDATA[照片评论]]></string>
-    <string name="_bx_photos_reactions"><![CDATA[照片的情绪反馈]]></string>
+    <string name="_bx_photos_cmts"><![CDATA[照片 - 评论]]></string>
+    <string name="_bx_photos_reactions"><![CDATA[照片 - 情绪反馈]]></string>
 
     <string name="_bx_photos_option_summary_chars"><![CDATA[自动生成的照片摘要中允许的最大字符数]]></string>
     <string name="_bx_photos_option_plain_summary_chars"><![CDATA[缺少照片图片时，照片说明中允许的最大字符数]]></string>

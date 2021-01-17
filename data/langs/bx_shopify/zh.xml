@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
 	<string name="_bx_shopify"><![CDATA[Shopify]]></string>
-	<string name="_bx_shopify_cmts"><![CDATA[Shopify 的评价]]></string>
-        <string name="_bx_shopify_reactions"><![CDATA[Shopify 的情绪反馈]]></string>
+	<string name="_bx_shopify_cmts"><![CDATA[Shopify - 评价]]></string>
+        <string name="_bx_shopify_reactions"><![CDATA[Shopify - 情绪反馈]]></string>
 
 	<string name="_bx_shopify_option_per_page_browse"><![CDATA[每页显示的商品数量]]></string>
 	<string name="_bx_shopify_option_per_page_profile"><![CDATA[个人档案页中每页显示的商品数量]]></string>

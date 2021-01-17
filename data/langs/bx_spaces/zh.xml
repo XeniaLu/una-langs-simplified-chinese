@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
     <string name="_bx_spaces"><![CDATA[空间]]></string>
-    <string name="_bx_spaces_cmts"><![CDATA[空间的评论]]></string>
+    <string name="_bx_spaces_cmts"><![CDATA[空间 - 评论]]></string>
 
     <string name="_bx_spaces_option_enable_multilevel_hierarchy"><![CDATA[允许多级分层结构（处于实验阶段）]]></string>
     <string name="_bx_spaces_option_num_connections_quick"><![CDATA[好友组件中的数量]]></string>

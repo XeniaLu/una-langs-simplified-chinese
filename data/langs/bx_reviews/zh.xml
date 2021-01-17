@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
     <string name="_bx_reviews"><![CDATA[评价]]></string>
-    <string name="_bx_reviews_cmts"><![CDATA[评价的评论]]></string>
-    <string name="_bx_reviews_reactions"><![CDATA[评价的情绪反馈]]></string>
+    <string name="_bx_reviews_cmts"><![CDATA[评价 - 评论]]></string>
+    <string name="_bx_reviews_reactions"><![CDATA[评价 - 情绪反馈]]></string>
 
     <string name="_bx_reviews_option_summary_chars"><![CDATA[自动生成的评价摘要中允许的最大字符数]]></string>
     <string name="_bx_reviews_option_plain_summary_chars"><![CDATA[缺少评价图片时，评价说明中允许的最大字符数]]></string>

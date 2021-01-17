@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-	<string name="_bx_ocean_wgt_cpt"><![CDATA[Ocean]]></string>
-	<string name="_bx_ocean_stg_cpt_type"><![CDATA[Ocean]]></string>
-	<string name="_bx_ocean_stg_cpt_category_system"><![CDATA[General]]></string>
-	<string name="_bx_ocean_stg_cpt_option_switcher_name"><![CDATA[Name In Template Switcher]]></string>
-	<string name="_bx_ocean_stg_cpt_option_page_width"><![CDATA[Page Width]]></string>
+	<string name="_bx_ocean_wgt_cpt"><![CDATA[Ocean 主题]]></string>
+	<string name="_bx_ocean_stg_cpt_type"><![CDATA[Ocean 主题]]></string>
+	<string name="_bx_ocean_stg_cpt_category_system"><![CDATA[通用]]></string>
+	<string name="_bx_ocean_stg_cpt_option_switcher_name"><![CDATA[主题切换器中的名称]]></string>
+	<string name="_bx_ocean_stg_cpt_option_page_width"><![CDATA[页面宽度]]></string>
 </resources>

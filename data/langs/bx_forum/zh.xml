@@ -310,7 +310,7 @@
     <string name="_bx_forum_grid_column_title_visible_for_levels"><![CDATA[可见度]]></string>
     <string name="_bx_forum_grid_action_title_adm_edit"><![CDATA[编辑]]></string>
     <string name="_bx_forum_grid_action_title_adm_delete"><![CDATA[删除]]></string>
-    <string name="_bx_forum_grid_action_title_adm_clear_reports"><![CDATA[清除报告]]></string>
+    <string name="_bx_forum_grid_action_title_adm_clear_reports"><![CDATA[清除投诉]]></string>
     <string name="_bx_forum_grid_action_title_adm_more_actions"><![CDATA[更多操作]]></string>
     <string name="_bx_forum_grid_action_title_adm_audit_content"><![CDATA[审核]]></string>
     <string name="_bx_forum_grid_action_title_add"><![CDATA[新的讨论]]></string>

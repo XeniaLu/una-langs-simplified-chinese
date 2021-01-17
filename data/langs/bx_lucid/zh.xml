@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-        <string name="_bx_lucid"><![CDATA[Lucid]]></string>
-	<string name="_bx_lucid_wgt_cpt"><![CDATA[Lucid]]></string>
+        <string name="_bx_lucid"><![CDATA[Lucid 主题]]></string>
+	<string name="_bx_lucid_wgt_cpt"><![CDATA[Lucid 主题]]></string>
 
-	<string name="_bx_lucid_stg_cpt_type"><![CDATA[Lucid]]></string>
+	<string name="_bx_lucid_stg_cpt_type"><![CDATA[Lucid 主题]]></string>
 	<string name="_bx_lucid_stg_cpt_category_system"><![CDATA[常规]]></string>
-	<string name="_bx_lucid_stg_cpt_option_switcher_name"><![CDATA[在模板切换器中的名称]]></string>
+	<string name="_bx_lucid_stg_cpt_option_switcher_name"><![CDATA[主题切换器中的名称]]></string>
         <string name="_bx_lucid_stg_cpt_option_default_mix"><![CDATA[默认混入]]></string>
 
 	<string name="_bx_lucid_stg_cpt_category_styles_general"><![CDATA[常规]]></string>
@@ -19,7 +19,7 @@
 	<string name="_bx_lucid_stg_cpt_option_header_bg_color"><![CDATA[背景颜色]]></string>
 	<string name="_bx_lucid_stg_cpt_option_header_bg_image"><![CDATA[背景图片]]></string>
 	<string name="_bx_lucid_stg_cpt_option_header_bg_image_repeat"><![CDATA[背景图片重复]]></string>
-	<string name="_bx_lucid_stg_cpt_option_header_bg_image_size"><![CDATA[背景图片尺寸]]></string>	
+	<string name="_bx_lucid_stg_cpt_option_header_bg_image_size"><![CDATA[背景图片尺寸]]></string>
 	<string name="_bx_lucid_stg_cpt_option_site_logo"><![CDATA[Logo 图片]]></string>
 	<string name="_bx_lucid_stg_cpt_option_site_logo_alt"><![CDATA[Logo 替代文本]]></string>
 	<string name="_bx_lucid_stg_cpt_option_site_logo_width"><![CDATA[Logo 宽度]]></string>

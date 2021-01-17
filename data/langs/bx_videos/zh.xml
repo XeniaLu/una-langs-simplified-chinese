@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
 	<string name="_bx_videos"><![CDATA[视频]]></string>
-	<string name="_bx_videos_cmts"><![CDATA[视频评论]]></string>
-        <string name="_bx_videos_reactions"><![CDATA[视频的情绪反馈]]></string>
+	<string name="_bx_videos_cmts"><![CDATA[视频 - 评论]]></string>
+        <string name="_bx_videos_reactions"><![CDATA[视频 - 情绪反馈]]></string>
 
 	<string name="_bx_videos_option_summary_chars"><![CDATA[自动生成的视频摘要中允许的最大字符数]]></string>
 	<string name="_bx_videos_option_plain_summary_chars"><![CDATA[缺少视频图片时，视频说明中允许的最大字符数]]></string>

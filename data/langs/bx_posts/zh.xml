@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
     <string name="_bx_posts"><![CDATA[帖子]]></string>
-    <string name="_bx_posts_cmts"><![CDATA[帖子的评论]]></string>
-    <string name="_bx_posts_reactions"><![CDATA[帖子的情绪反馈]]></string>
+    <string name="_bx_posts_cmts"><![CDATA[帖子 - 评论]]></string>
+    <string name="_bx_posts_reactions"><![CDATA[帖子 - 情绪反馈]]></string>
 
     <string name="_bx_posts_option_summary_chars"><![CDATA[自动生成的帖子摘要中允许的最大字符数]]></string>
     <string name="_bx_posts_option_plain_summary_chars"><![CDATA[缺少帖子图片时，帖子说明中允许的最大字符数]]></string>

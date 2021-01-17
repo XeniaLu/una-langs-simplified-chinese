@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
 	<string name="_bx_snipcart"><![CDATA[Snipcart]]></string>
-	<string name="_bx_snipcart_cmts"><![CDATA[Snipcart 的评价]]></string>
-        <string name="_bx_snipcart_reactions"><![CDATA[Snipcart 的情绪反馈]]></string>
+	<string name="_bx_snipcart_cmts"><![CDATA[Snipcart - 评价]]></string>
+        <string name="_bx_snipcart_reactions"><![CDATA[Snipcart - 情绪反馈]]></string>
 
 	<string name="_bx_snipcart_option_summary_chars"><![CDATA[自动生成的商品摘要中允许的最大字符数]]></string>
 	<string name="_bx_snipcart_option_plain_summary_chars"><![CDATA[缺少商品图片时，商品说明中允许的最大字符数]]></string>

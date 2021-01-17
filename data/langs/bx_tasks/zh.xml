@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
     <string name="_bx_tasks"><![CDATA[待办任务]]></string>
-    <string name="_bx_tasks_cmts"><![CDATA[评论]]></string>
-    <string name="_bx_tasks_reactions"><![CDATA[情绪反馈]]></string>
+    <string name="_bx_tasks_cmts"><![CDATA[待办任务 - 评论]]></string>
+    <string name="_bx_tasks_reactions"><![CDATA[待办任务 - 情绪反馈]]></string>
 
     <string name="_bx_tasks_option_summary_chars"><![CDATA[自动生成的待办任务摘要中允许的最大字符数]]></string>
     <string name="_bx_tasks_option_plain_summary_chars"><![CDATA[缺少待办任务图片时，待办任务说明中允许的最大字符数]]></string>

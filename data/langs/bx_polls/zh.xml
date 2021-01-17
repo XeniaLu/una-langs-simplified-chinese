@@ -2,8 +2,8 @@
 <resources name="zh" flag="zh" title="Simplified Chinese">
 
 	<string name="_bx_polls"><![CDATA[投票]]></string>
-	<string name="_bx_polls_cmts"><![CDATA[投票评论]]></string>
-        <string name="_bx_polls_reactions"><![CDATA[投票的情绪反馈]]></string>
+	<string name="_bx_polls_cmts"><![CDATA[投票 - 评论]]></string>
+        <string name="_bx_polls_reactions"><![CDATA[投票 - 情绪反馈]]></string>
 
 	<string name="_bx_polls_option_title_chars"><![CDATA[自动生成的投票标题中允许的最大字符数]]></string>
 	<string name="_bx_polls_option_per_page_browse"><![CDATA[每页显示的投票数量]]></string>
