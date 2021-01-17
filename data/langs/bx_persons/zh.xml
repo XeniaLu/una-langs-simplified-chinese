@@ -8,10 +8,10 @@
 	<string name="_bx_persons_option_default_acl_level"><![CDATA[创建个人档案后默认分配的成员等级]]></string>
   <string name="_bx_persons_option_enable_profile_activation_letter"><![CDATA[启用个人档案激活邮件]]></string>
   <string name="_bx_persons_option_redirect_aadd"><![CDATA[创建个人档案后跳转至]]></string>
-	<string name="_bx_persons_option_redirect_aadd_profile"><![CDATA[个人主页]]></string>
+	<string name="_bx_persons_option_redirect_aadd_profile"><![CDATA[主页]]></string>
 	<string name="_bx_persons_option_redirect_aadd_last"><![CDATA[上一页]]></string>
 	<string name="_bx_persons_option_redirect_aadd_custom"><![CDATA[自定义页面]]></string>
-	<string name="_bx_persons_option_redirect_aadd_custom_url"><![CDATA[“自定义页面”的跳转网址]]></string>
+	<string name="_bx_persons_option_redirect_aadd_custom_url"><![CDATA[“自定义页面”的跳转 URL]]></string>
   <string name="_bx_persons_option_activation_on"><![CDATA[在创建或编辑之后]]></string>
   <string name="_bx_persons_option_activation_add"><![CDATA[仅在创建之后]]></string>
   <string name="_bx_persons_option_activation_edit"><![CDATA[仅在编辑之后]]></string>
@@ -20,8 +20,8 @@
 	<string name="_bx_persons_option_per_page_browse"><![CDATA[每页所展示的个数]]></string>
 	<string name="_bx_persons_option_num_rss"><![CDATA[RSS 资讯流中所展示的个数]]></string>
 	<string name="_bx_persons_option_searchable_fields"><![CDATA[可用于关键字搜索的搜索字段]]></string>
-    <string name="_bx_persons_option_public_subscriptions"><![CDATA[公开显示关注列表]]></string>
-    <string name="_bx_persons_option_public_subscribed_me"><![CDATA[公开显示粉丝列表]]></string>
+    <string name="_bx_persons_option_public_subscriptions"><![CDATA[对外展示关注列表]]></string>
+    <string name="_bx_persons_option_public_subscribed_me"><![CDATA[对外展示粉丝列表]]></string>
 
 	<string name="_bx_persons_form_profile"><![CDATA[用户]]></string>
 	<string name="_bx_persons_form_profile_display_add"><![CDATA[创建用户]]></string>
@@ -315,9 +315,9 @@
     <string name="_bx_persons_alert_action_profile_picture_changed"><![CDATA[头像已更新]]></string>
 
     <string name="_bx_persons_txt_account_pending"><![CDATA[该档案正在等待批准，请耐心等待直至其被激活。]]></string>
-    <string name="_bx_persons_txt_account_pending_moderation"><![CDATA[该 <a href="{0}">档案</a> 正在等待批准。]]></string>
+    <string name="_bx_persons_txt_account_pending_moderation"><![CDATA[该<a href="{0}">档案</a>正在等待批准。]]></string>
     <string name="_bx_persons_txt_account_suspended"><![CDATA[该档案已暂停。]]></string>
-    <string name="_bx_persons_txt_account_suspended_moderation"><![CDATA[该 <a href="{0}">档案</a> 正在被暂停。]]></string>
+    <string name="_bx_persons_txt_account_suspended_moderation"><![CDATA[该<a href="{0}">档案</a>正在被暂停。]]></string>
     <string name="_bx_persons_txt_N_friends"><![CDATA[{0} 位好友]]></string>
     <string name="_bx_persons_txt_ntfs_timeline_post_common"><![CDATA[新动态 <b class="bx-ntfs-content-entry">{subentry_sample}</b> 被添加至 <b class="bx-ntfs-content-profile">{owner_name}</b> 的档案时间轴中]]></string>
     <string name="_bx_persons_txt_sample_single"><![CDATA[用户]]></string>
@@ -335,6 +335,6 @@
     <string name="_bx_persons_email_friend_request"><![CDATA[好友申请]]></string>
     <string name="_bx_persons_email_friend_request_subject"><![CDATA[好友申请]]></string>
     <string name="_bx_persons_email_friend_request_body"><![CDATA[{email_header}
-<p><a href="{SenderUrl}">{SenderDisplayName}</a> 想和你成为朋友。点击<a href="{FriendsLink}">此处</a>做出回应。</p>
+<p><a href="{SenderUrl}">{SenderDisplayName}</a> 想和您成为朋友。点击<a href="{FriendsLink}">此处</a>做出回应。</p>
 {email_footer}]]></string>
 </resources>

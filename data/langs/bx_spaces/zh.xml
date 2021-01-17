@@ -289,7 +289,7 @@
     <string name="_bx_spaces_txt_ntfs_fan_added"><![CDATA[空间 <b class="bx-ntfs-content-profile">{owner_name}</b> 新加入一位成员 <b class="bx-ntfs-content-entry">{subentry_sample}</b>]]></string>
     <string name="_bx_spaces_alert_action_join_invitation_notif"><![CDATA[加入邀请]]></string>
     <string name="_bx_spaces_alert_action_join_request"><![CDATA[加入申请]]></string>
-    <string name="_bx_spaces_txt_ntfs_join_invitation"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b> 空间的成员邀请 <b class="bx-ntfs-content-entry">{subentry_sample}</b> 加入空间]]></string>
+    <string name="_bx_spaces_txt_ntfs_join_invitation"><![CDATA[空间 <b class="bx-ntfs-content-profile">{owner_name}</b> 邀请 <b class="bx-ntfs-content-entry">{subentry_sample}</b> 加入空间]]></string>
     <string name="_bx_spaces_txt_ntfs_join_request"><![CDATA[空间 <b class="bx-ntfs-content-profile">{owner_name}</b> 收到来自 <b class="bx-ntfs-content-entry">{subentry_sample}</b> 的加入请求]]></string>
     <string name="_bx_spaces_txt_ntfs_timeline_post_common"><![CDATA[新帖子 <b class="bx-ntfs-content-entry">{subentry_sample}</b> 发布到 <b class="bx-ntfs-content-profile">{owner_name}</b> 的空间动态中]]></string>
 
