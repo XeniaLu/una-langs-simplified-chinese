@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-    <string name="_bx_feedback"><![CDATA[Feedback]]></string>
+    <string name="_bx_feedback"><![CDATA[问题反馈]]></string>
 
     <!-- Options -->
     <string name="_bx_feedback_option_enable_questions"><![CDATA[有效的问题]]></string>
-    <string name="_bx_feedback_option_question_lifetime"><![CDATA[默认问题生存期（以天为单位）。]]></string>
+    <string name="_bx_feedback_option_question_lifetime"><![CDATA[问题的默认有效期限（以天为单位）。]]></string>
     <string name="_bx_feedback_option_answer_ntf_important_only"><![CDATA[仅通知“重要”答案。]]></string>
 
     <!-- Pages -->
@@ -28,9 +28,9 @@
     <string name="_bx_feedback_form_question_input_answers_err"><![CDATA[问题需要至少两个非空答案。]]></string>
     <string name="_bx_feedback_form_question_input_answers_add"><![CDATA[添加更多]]></string>
     <string name="_bx_feedback_form_question_input_answers_imp"><![CDATA[标记为重要]]></string>
-    <string name="_bx_feedback_form_question_input_sys_lifetime"><![CDATA[使用期]]></string>
-    <string name="_bx_feedback_form_question_input_lifetime"><![CDATA[使用期]]></string>
-    <string name="_bx_feedback_form_question_input_lifetime_inf"><![CDATA[在天数字段中留空以设置无限的问题。]]></string>
+    <string name="_bx_feedback_form_question_input_sys_lifetime"><![CDATA[有效期限]]></string>
+    <string name="_bx_feedback_form_question_input_lifetime"><![CDATA[有效期限]]></string>
+    <string name="_bx_feedback_form_question_input_lifetime_inf"><![CDATA[以天为单位，留空则代表不做限制。]]></string>
     <string name="_bx_feedback_form_question_input_sys_delete_confirm"><![CDATA[删除确认]]></string>
     <string name="_bx_feedback_form_question_input_delete_confirm"><![CDATA[我确定我要删除该问题]]></string>
     <string name="_bx_feedback_form_question_input_delete_confirm_info"><![CDATA[该操作无法撤销]]></string>
@@ -68,7 +68,7 @@
     <string name="_bx_feedback_txt_answer_format"><![CDATA[<b>{0}</b> (<span class="bx-def-font-grayed">{1}</span>)]]></string>
     <string name="_bx_feedback_txt_answer_format_wo_comment"><![CDATA[<b>{0}</b>]]></string>
 
-    <string name="_bx_feedback_err_cannot_perform"><![CDATA[无法执行该操作。请报告。]]></string>
+    <string name="_bx_feedback_err_cannot_perform"><![CDATA[无法执行该操作，请反馈问题。]]></string>
     <string name="_bx_feedback_err_login_required"><![CDATA[您需要先登录。]]></string>
     <string name="_bx_feedback_err_wrong_data"><![CDATA[无法接受该答案。]]></string>
 </resources>
