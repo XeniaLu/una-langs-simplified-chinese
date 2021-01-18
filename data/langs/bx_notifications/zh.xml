@@ -1,128 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-    <string name="_bx_ntfs"><![CDATA[Notifications]]></string>
-    <string name="_bx_notifications"><![CDATA[Notifications]]></string>
+    <string name="_bx_ntfs"><![CDATA[消息通知]]></string>
+    <string name="_bx_notifications"><![CDATA[消息通知]]></string>
 
-    <string name="_bx_ntfs_page_title_system_view"><![CDATA[Notifications]]></string>
-    <string name="_bx_ntfs_page_title_view"><![CDATA[Notifications]]></string>
-    <string name="_bx_ntfs_page_block_title_view"><![CDATA[Notifications]]></string>
-    <string name="_bx_ntfs_page_title_system_settings"><![CDATA[Notifications Settings]]></string>
-    <string name="_bx_ntfs_page_title_settings"><![CDATA[Notifications Settings]]></string>
-    <string name="_bx_ntfs_page_block_title_delivery"><![CDATA[Receive via]]></string>
-    <string name="_bx_ntfs_page_block_title_settings"><![CDATA[Notifications]]></string>
+    <string name="_bx_ntfs_page_title_system_view"><![CDATA[消息通知]]></string>
+    <string name="_bx_ntfs_page_title_view"><![CDATA[消息通知]]></string>
+    <string name="_bx_ntfs_page_block_title_view"><![CDATA[消息通知]]></string>
+    <string name="_bx_ntfs_page_title_system_settings"><![CDATA[消息通知设置]]></string>
+    <string name="_bx_ntfs_page_title_settings"><![CDATA[消息通知设置]]></string>
+    <string name="_bx_ntfs_page_block_title_delivery"><![CDATA[接收方式]]></string>
+    <string name="_bx_ntfs_page_block_title_settings"><![CDATA[消息通知]]></string>
 
-    <string name="_bx_ntfs_menu_title_submenu"><![CDATA[Notifications Submenu]]></string>
-    <string name="_bx_ntfs_menu_set_title_submenu"><![CDATA[Notifications Submenu]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_notifications_all"><![CDATA[All Notifications]]></string>
-    <string name="_bx_ntfs_menu_item_title_notifications_all"><![CDATA[All Notifications]]></string>
-    <string name="_bx_ntfs_menu_title_settings"><![CDATA[Settings Submenu]]></string>
-    <string name="_bx_ntfs_menu_set_title_settings"><![CDATA[Settings Submenu]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_notifications_site"><![CDATA[On Site]]></string>
-    <string name="_bx_ntfs_menu_item_title_notifications_site"><![CDATA[On Site]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_notifications_email"><![CDATA[Email]]></string>
-    <string name="_bx_ntfs_menu_item_title_notifications_email"><![CDATA[Email]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_notifications_push"><![CDATA[Push]]></string>
-    <string name="_bx_ntfs_menu_item_title_notifications_push"><![CDATA[Push]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_notifications"><![CDATA[Notifications]]></string>
-    <string name="_bx_ntfs_menu_item_title_notifications"><![CDATA[Notifications]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_preview"><![CDATA[Notifications]]></string>
+    <string name="_bx_ntfs_menu_title_submenu"><![CDATA[消息通知子菜单]]></string>
+    <string name="_bx_ntfs_menu_set_title_submenu"><![CDATA[消息通知子菜单]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_notifications_all"><![CDATA[全部消息通知]]></string>
+    <string name="_bx_ntfs_menu_item_title_notifications_all"><![CDATA[全部消息通知]]></string>
+    <string name="_bx_ntfs_menu_title_settings"><![CDATA[设置子菜单]]></string>
+    <string name="_bx_ntfs_menu_set_title_settings"><![CDATA[设置子菜单]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_notifications_site"><![CDATA[站内]]></string>
+    <string name="_bx_ntfs_menu_item_title_notifications_site"><![CDATA[站内]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_notifications_email"><![CDATA[邮件]]></string>
+    <string name="_bx_ntfs_menu_item_title_notifications_email"><![CDATA[邮件]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_notifications_push"><![CDATA[推送]]></string>
+    <string name="_bx_ntfs_menu_item_title_notifications_push"><![CDATA[推送]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_notifications"><![CDATA[消息通知]]></string>
+    <string name="_bx_ntfs_menu_item_title_notifications"><![CDATA[消息通知]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_preview"><![CDATA[消息通知]]></string>
     <string name="_bx_ntfs_menu_item_title_preview"><![CDATA[]]></string>
 
-    <string name="_bx_ntfs_menu_title_preview"><![CDATA[Notifications Preview]]></string>
-    <string name="_bx_ntfs_menu_set_title_preview"><![CDATA[Notifications Preview]]></string>
-    <string name="_bx_ntfs_menu_item_title_system_more"><![CDATA[See all notifications]]></string>
-    <string name="_bx_ntfs_menu_item_title_more"><![CDATA[See all notifications]]></string>
-    <string name="_bx_ntfs_lmi_cpt_site"><![CDATA[On Site]]></string>
-    <string name="_bx_ntfs_lmi_cpt_email"><![CDATA[Email]]></string>
-    <string name="_bx_ntfs_lmi_cpt_push"><![CDATA[Push]]></string>
+    <string name="_bx_ntfs_menu_title_preview"><![CDATA[消息通知预览]]></string>
+    <string name="_bx_ntfs_menu_set_title_preview"><![CDATA[消息通知预览]]></string>
+    <string name="_bx_ntfs_menu_item_title_system_more"><![CDATA[查看全部消息通知]]></string>
+    <string name="_bx_ntfs_menu_item_title_more"><![CDATA[查看全部消息通知]]></string>
+    <string name="_bx_ntfs_lmi_cpt_site"><![CDATA[站内]]></string>
+    <string name="_bx_ntfs_lmi_cpt_email"><![CDATA[邮件]]></string>
+    <string name="_bx_ntfs_lmi_cpt_push"><![CDATA[推送]]></string>
 
-    <string name="_bx_ntfs_options_category_system"><![CDATA[System]]></string>
-    <string name="_bx_ntfs_option_events_per_page"><![CDATA[Number of items per page]]></string>
-    <string name="_bx_ntfs_option_events_per_preview"><![CDATA[Number of items in preview]]></string>
-    <string name="_bx_ntfs_option_events_hide_site"><![CDATA[Onsite notifications]]></string>
-    <string name="_bx_ntfs_option_events_hide_email"><![CDATA[Email notifications]]></string>
-    <string name="_bx_ntfs_option_events_hide_push"><![CDATA[Push notifications]]></string>
-    <string name="_bx_ntfs_option_enable_group_settings"><![CDATA[Group Settings]]></string>
-    <string name="_bx_ntfs_option_delivery_timeout"><![CDATA[Delay before sending Email and/or Push notifications (in seconds)]]></string>
-    <string name="_bx_ntfs_option_processed_event"><![CDATA[The last processed event upon notifications sending]]></string>
-    <string name="_bx_ntfs_option_clear_interval"><![CDATA[Notification lifetime, in days (0 - no limit)]]></string>
+    <string name="_bx_ntfs_options_category_system"><![CDATA[系统]]></string>
+    <string name="_bx_ntfs_option_events_per_page"><![CDATA[每页所展示的最大数量]]></string>
+    <string name="_bx_ntfs_option_events_per_preview"><![CDATA[预览时所展示的最大数量]]></string>
+    <string name="_bx_ntfs_option_events_hide_site"><![CDATA[站内通知]]></string>
+    <string name="_bx_ntfs_option_events_hide_email"><![CDATA[邮件通知]]></string>
+    <string name="_bx_ntfs_option_events_hide_push"><![CDATA[推送通知]]></string>
+    <string name="_bx_ntfs_option_enable_group_settings"><![CDATA[群组设置]]></string>
+    <string name="_bx_ntfs_option_delivery_timeout"><![CDATA[发送邮件或推送通知前延迟时间（以秒为单位）]]></string>
+    <string name="_bx_ntfs_option_processed_event"><![CDATA[消息通知发送过程中处理的最后一个事件]]></string>
+    <string name="_bx_ntfs_option_clear_interval"><![CDATA[消息通知生命周期，以天为单位（0 - 无限制）]]></string>
 
-  <string name="_bx_ntfs_privacy_view"><![CDATA[View event]]></string>
+  <string name="_bx_ntfs_privacy_view"><![CDATA[查看活动]]></string>
 
-    <string name="_bx_ntfs_alert_action_added"><![CDATA[add]]></string>
-    <string name="_bx_ntfs_alert_action_commentPost"><![CDATA[add comment]]></string>
-    <string name="_bx_ntfs_alert_action_replyPost"><![CDATA[reply to own comment]]></string>
-    <string name="_bx_ntfs_alert_action_doVote"><![CDATA[add vote]]></string>
-    <string name="_bx_ntfs_alert_action_timeline_post_common"><![CDATA[post to timeline]]></string> 
+    <string name="_bx_ntfs_alert_action_added"><![CDATA[添加]]></string>
+    <string name="_bx_ntfs_alert_action_commentPost"><![CDATA[添加评论]]></string>
+    <string name="_bx_ntfs_alert_action_replyPost"><![CDATA[回复自己的评论]]></string>
+    <string name="_bx_ntfs_alert_action_doVote"><![CDATA[添加投票]]></string>
+    <string name="_bx_ntfs_alert_action_timeline_post_common"><![CDATA[发布到时间轴]]></string>
 
-    <string name="_bx_ntfs_alert_action_mention_added_personal"><![CDATA[Someone mentions you]]></string>
-    <string name="_bx_ntfs_alert_action_friendship_added_personal"><![CDATA[You get a new friend]]></string>
-    <string name="_bx_ntfs_alert_action_subscription_added_personal"><![CDATA[You get a new follower]]></string>
-    <string name="_bx_ntfs_alert_action_added_follow_member"><![CDATA[New content]]></string>
-    <string name="_bx_ntfs_alert_action_added_follow_context"><![CDATA[New content]]></string>
-    <string name="_bx_ntfs_alert_action_commentPost_personal"><![CDATA[Someone adds a comment on your content]]></string>
-    <string name="_bx_ntfs_alert_action_commentPost_follow_member"><![CDATA[New comments]]></string>
-    <string name="_bx_ntfs_alert_action_commentPost_follow_context"><![CDATA[New comments]]></string>
-    <string name="_bx_ntfs_alert_action_replyPost_personal"><![CDATA[Someone adds a reply to your comment]]></string>
-    <string name="_bx_ntfs_alert_action_doVote_personal"><![CDATA[Someone adds a like to your content]]></string>
-    <string name="_bx_ntfs_alert_action_doVote_follow_member"><![CDATA[New likes]]></string>
-    <string name="_bx_ntfs_alert_action_doVote_follow_context"><![CDATA[New likes]]></string>
-    <string name="_bx_ntfs_alert_action_doVoteUp_personal"><![CDATA[Someone adds an 'Up' vote to your content]]></string>
-    <string name="_bx_ntfs_alert_action_doVoteUp_follow_member"><![CDATA[New 'Up' votes]]></string>
-    <string name="_bx_ntfs_alert_action_doVoteUp_follow_context"><![CDATA[New 'Up' votes]]></string>
-    <string name="_bx_ntfs_alert_action_doVoteDown_personal"><![CDATA[Someone adds a 'Down' vote to your content]]></string>
-    <string name="_bx_ntfs_alert_action_doVoteDown_follow_member"><![CDATA[New 'Down' votes]]></string>
-    <string name="_bx_ntfs_alert_action_doVoteDown_follow_context"><![CDATA[New 'Down' votes]]></string>
-    <string name="_bx_ntfs_alert_action_fan_added_personal"><![CDATA[New fans]]></string>
-    <string name="_bx_ntfs_alert_action_fan_added_follow_member"><![CDATA[New fans]]></string>
-    <string name="_bx_ntfs_alert_action_fan_added_follow_context"><![CDATA[New fans]]></string>
-    <string name="_bx_ntfs_alert_action_join_request_personal"><![CDATA[New join requests]]></string>
-    <string name="_bx_ntfs_alert_action_join_request_follow_member"><![CDATA[New join requests]]></string>
-    <string name="_bx_ntfs_alert_action_join_request_follow_context"><![CDATA[New join requests]]></string>
-    <string name="_bx_ntfs_alert_action_timeline_post_common_personal"><![CDATA[New posts on Timeline]]></string>
-    <string name="_bx_ntfs_alert_action_timeline_post_common_follow_member"><![CDATA[New posts on Timeline]]></string>
-    <string name="_bx_ntfs_alert_action_timeline_post_common_follow_context"><![CDATA[New posts on Timeline]]></string>
-    <string name="_bx_ntfs_alert_action_publish_failed_personal"><![CDATA[Delayed publishing failed]]></string>
-    <string name="_bx_ntfs_alert_action_publish_succeeded_personal"><![CDATA[Delayed publishing succeeded]]></string>
+    <string name="_bx_ntfs_alert_action_mention_added_personal"><![CDATA[有人提到您]]></string>
+    <string name="_bx_ntfs_alert_action_friendship_added_personal"><![CDATA[您有一位新好友]]></string>
+    <string name="_bx_ntfs_alert_action_subscription_added_personal"><![CDATA[您有一位新粉丝]]></string>
+    <string name="_bx_ntfs_alert_action_added_follow_member"><![CDATA[新内容]]></string>
+    <string name="_bx_ntfs_alert_action_added_follow_context"><![CDATA[新内容]]></string>
+    <string name="_bx_ntfs_alert_action_commentPost_personal"><![CDATA[有人对您的内容发表了评论]]></string>
+    <string name="_bx_ntfs_alert_action_commentPost_follow_member"><![CDATA[新评论]]></string>
+    <string name="_bx_ntfs_alert_action_commentPost_follow_context"><![CDATA[新评论]]></string>
+    <string name="_bx_ntfs_alert_action_replyPost_personal"><![CDATA[有人回复了您的评论]]></string>
+    <string name="_bx_ntfs_alert_action_doVote_personal"><![CDATA[有人给您的内容点了一个赞]]></string>
+    <string name="_bx_ntfs_alert_action_doVote_follow_member"><![CDATA[新点赞]]></string>
+    <string name="_bx_ntfs_alert_action_doVote_follow_context"><![CDATA[新点赞]]></string>
+    <string name="_bx_ntfs_alert_action_doVoteUp_personal"><![CDATA[有人对您的内容投了支持票]]></string>
+    <string name="_bx_ntfs_alert_action_doVoteUp_follow_member"><![CDATA[新支持票]]></string>
+    <string name="_bx_ntfs_alert_action_doVoteUp_follow_context"><![CDATA[新支持票]]></string>
+    <string name="_bx_ntfs_alert_action_doVoteDown_personal"><![CDATA[有人对您的内容投了反对票]]></string>
+    <string name="_bx_ntfs_alert_action_doVoteDown_follow_member"><![CDATA[新反对票]]></string>
+    <string name="_bx_ntfs_alert_action_doVoteDown_follow_context"><![CDATA[新反对票]]></string>
+    <string name="_bx_ntfs_alert_action_fan_added_personal"><![CDATA[新粉丝]]></string>
+    <string name="_bx_ntfs_alert_action_fan_added_follow_member"><![CDATA[新粉丝]]></string>
+    <string name="_bx_ntfs_alert_action_fan_added_follow_context"><![CDATA[新粉丝]]></string>
+    <string name="_bx_ntfs_alert_action_join_request_personal"><![CDATA[新加入申请]]></string>
+    <string name="_bx_ntfs_alert_action_join_request_follow_member"><![CDATA[新加入申请]]></string>
+    <string name="_bx_ntfs_alert_action_join_request_follow_context"><![CDATA[新加入申请]]></string>
+    <string name="_bx_ntfs_alert_action_timeline_post_common_personal"><![CDATA[时间轴上的新帖子]]></string>
+    <string name="_bx_ntfs_alert_action_timeline_post_common_follow_member"><![CDATA[时间轴上的新帖子]]></string>
+    <string name="_bx_ntfs_alert_action_timeline_post_common_follow_context"><![CDATA[时间轴上的新帖子]]></string>
+    <string name="_bx_ntfs_alert_action_publish_failed_personal"><![CDATA[延迟发布失败]]></string>
+    <string name="_bx_ntfs_alert_action_publish_succeeded_personal"><![CDATA[延迟发布成功]]></string>
 
-    <string name="_bx_ntfs_setting_title_mask"><![CDATA[{0}: {1}]]></string>
-    <string name="_bx_ntfs_setting_type_personal"><![CDATA[Activity related to you]]></string>
-    <string name="_bx_ntfs_setting_type_follow_member"><![CDATA[Activity by members you follow]]></string>
-    <string name="_bx_ntfs_setting_type_follow_context"><![CDATA[Activity in spaces (groups, events, etc.) you follow]]></string>
-    <string name="_bx_ntfs_setting_type_other"><![CDATA[Other Activity]]></string>
+    <string name="_bx_ntfs_setting_title_mask"><![CDATA[{0}：{1}]]></string>
+    <string name="_bx_ntfs_setting_type_personal"><![CDATA[与您有关的活动]]></string>
+    <string name="_bx_ntfs_setting_type_follow_member"><![CDATA[您所关注的会员的活动]]></string>
+    <string name="_bx_ntfs_setting_type_follow_context"><![CDATA[您所关注的空间中的活动（小组、活动等）]]></string>
+    <string name="_bx_ntfs_setting_type_other"><![CDATA[其他活动]]></string>
 
-    <string name="_bx_ntfs_alert_module_sys_cmts"><![CDATA[Comments]]></string>
-    <string name="_bx_ntfs_alert_module_sys_cmts_reactions"><![CDATA[Comments' Reactions]]></string>
-    <string name="_bx_ntfs_alert_module_meta_mention"><![CDATA[Profiles Mentions]]></string>
-    <string name="_bx_ntfs_alert_module_sys_profiles_subscriptions"><![CDATA[Profiles Subscriptions]]></string>
-    <string name="_bx_ntfs_alert_module_sys_profiles_friends"><![CDATA[Profiles Friends]]></string>
-    <string name="_bx_ntfs_alert_action_connection_added"><![CDATA[add connection]]></string>
+    <string name="_bx_ntfs_alert_module_sys_cmts"><![CDATA[评论]]></string>
+    <string name="_bx_ntfs_alert_module_sys_cmts_reactions"><![CDATA[评论的情绪反馈]]></string>
+    <string name="_bx_ntfs_alert_module_meta_mention"><![CDATA[被提及]]></string>
+    <string name="_bx_ntfs_alert_module_sys_profiles_subscriptions"><![CDATA[订阅]]></string>
+    <string name="_bx_ntfs_alert_module_sys_profiles_friends"><![CDATA[好友]]></string>
+    <string name="_bx_ntfs_alert_action_connection_added"><![CDATA[添加连接]]></string>
 
-    <string name="_bx_ntfs_txt_msg_no_results"><![CDATA[Empty]]></string>
-    <string name="_bx_ntfs_txt_err_nothing_changed"><![CDATA[Nothing was changed.]]></string>
-    <string name="_bx_ntfs_txt_err_cannot_perform"><![CDATA[Cannot perform the action.]]></string>
-    <string name="_bx_ntfs_txt_object_added"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b> added a {entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
-    <string name="_bx_ntfs_txt_object_added_in_context"><![CDATA[<b class="bx-ntfs-content-profile">{object_owner_name}</b> added a {entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b> in <b class="bx-ntfs-content-profile">{owner_name}</b>]]></string>
-    <string name="_bx_ntfs_txt_object_publish_failed"><![CDATA[Failed to publish your {entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
-    <string name="_bx_ntfs_txt_object_publish_succeeded"><![CDATA[Your {entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b> was published successfully]]></string>
-    <string name="_bx_ntfs_txt_subobject_added"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b> added a {subentry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
+    <string name="_bx_ntfs_txt_msg_no_results"><![CDATA[无内容]]></string>
+    <string name="_bx_ntfs_txt_err_nothing_changed"><![CDATA[无变更]]></string>
+    <string name="_bx_ntfs_txt_err_cannot_perform"><![CDATA[无法执行操作。]]></string>
+    <string name="_bx_ntfs_txt_object_added"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b>添加了{entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
+    <string name="_bx_ntfs_txt_object_added_in_context"><![CDATA[<b class="bx-ntfs-content-profile">{object_owner_name}</b> 添加了{entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>到<b class="bx-ntfs-content-profile">{owner_name}</b>中]]></string>
+    <string name="_bx_ntfs_txt_object_publish_failed"><![CDATA[无法发布您的{entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
+    <string name="_bx_ntfs_txt_object_publish_succeeded"><![CDATA[您的{entry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b> was published successfully]]></string>
+    <string name="_bx_ntfs_txt_subobject_added"><![CDATA[<b class="bx-ntfs-content-profile">{owner_name}</b>添加了{subentry_sample} <b class="bx-ntfs-content-entry">{entry_caption}</b>]]></string>
 
-    <string name="_bx_ntfs_push_new_event_subject"><![CDATA[New on "{0}"]]></string>
+    <string name="_bx_ntfs_push_new_event_subject"><![CDATA["{0}" 上的新内容]]></string>
 
-    <string name="_bx_ntfs_email_new_event"><![CDATA[New notification]]></string>
-    <string name="_bx_ntfs_email_new_event_subject"><![CDATA[New notification on "{site_name}"]]></string>
+    <string name="_bx_ntfs_email_new_event"><![CDATA[新消息通知]]></string>
+    <string name="_bx_ntfs_email_new_event_subject"><![CDATA["{site_name}" 上的新消息通知]]></string>
     <string name="_bx_ntfs_email_new_event_body"><![CDATA[{email_header}
 <p> </p>
 {content}
 <p> </p>
 {email_footer}]]></string>
 
-    <string name="_bx_ntfs_grid_column_title_active"><![CDATA[Active]]></string>
-    <string name="_bx_ntfs_grid_column_title_unit"><![CDATA[Module]]></string>
-    <string name="_bx_ntfs_grid_column_title_type"><![CDATA[Type]]></string>
-    <string name="_bx_ntfs_grid_column_title_title"><![CDATA[Notification]]></string>
-    <string name="_bx_ntfs_grid_column_title_title_warning"><![CDATA[The setting's value is corrupted. It is recommended to enable/disable it and reload the page.]]></string>
-    <string name="_bx_ntfs_grid_column_title_value"><![CDATA[Default value]]></string>
-    <string name="_bx_ntfs_grid_action_title_activate"><![CDATA[Activate]]></string>
-    <string name="_bx_ntfs_grid_action_title_deactivate"><![CDATA[Deactivate]]></string>
+    <string name="_bx_ntfs_grid_column_title_active"><![CDATA[状态]]></string>
+    <string name="_bx_ntfs_grid_column_title_unit"><![CDATA[模块]]></string>
+    <string name="_bx_ntfs_grid_column_title_type"><![CDATA[类型]]></string>
+    <string name="_bx_ntfs_grid_column_title_title"><![CDATA[消息通知]]></string>
+    <string name="_bx_ntfs_grid_column_title_title_warning"><![CDATA[设置的值有误。建议启用/禁用它并重新加载页面。]]></string>
+    <string name="_bx_ntfs_grid_column_title_value"><![CDATA[默认值]]></string>
+    <string name="_bx_ntfs_grid_action_title_activate"><![CDATA[启用]]></string>
+    <string name="_bx_ntfs_grid_action_title_deactivate"><![CDATA[禁用]]></string>
 </resources>

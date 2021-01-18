@@ -3337,7 +3337,7 @@
 	<string name="_view_n_views"><![CDATA[{0} 阅读]]></string>
 	<string name="_vote_counter"><![CDATA[{0}]]></string>
 	<string name="_vote_do_like"><![CDATA[支持您！]]></string>
-	<string name="_vote_do_unlike"><![CDATA[不支持]]></string>
+	<string name="_vote_do_unlike"><![CDATA[反对]]></string>
 	<string name="_vote_do_by"><![CDATA[支持于]]></string>
         <string name="_vote_do_by_reactions"><![CDATA[评论于]]></string>
         <string name="_vote_do_by_x_reaction"><![CDATA["{0}" 评论]]></string>

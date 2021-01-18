@@ -242,7 +242,7 @@
     <string name="_bx_photos_txt_sample_vote_single"><![CDATA[对照片进行投票]]></string>
     <string name="_bx_photos_txt_sample_reaction_single"><![CDATA[对照片表达'{0}']]></string>
     <string name="_bx_photos_txt_sample_score_up_single"><![CDATA[对照片表示支持]]></string>
-    <string name="_bx_photos_txt_sample_score_down_single"><![CDATA[对照片表示不支持]]></string>
+    <string name="_bx_photos_txt_sample_score_down_single"><![CDATA[对照片表示反对]]></string>
     <string name="_bx_photos_txt_n_views"><![CDATA[{0} 阅读]]></string>
     <string name="_bx_photos_txt_previous"><![CDATA[上一张]]></string>
     <string name="_bx_photos_txt_next"><![CDATA[下一张]]></string>

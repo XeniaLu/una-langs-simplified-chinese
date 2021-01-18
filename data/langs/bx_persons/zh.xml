@@ -324,7 +324,7 @@
     <string name="_bx_persons_txt_sample_comment_single"><![CDATA[对用户发表评论]]></string>
     <string name="_bx_persons_txt_sample_vote_single"><![CDATA[对用户进行投票]]></string>
     <string name="_bx_persons_txt_sample_score_up_single"><![CDATA[对用户表示支持]]></string>
-    <string name="_bx_persons_txt_sample_score_down_single"><![CDATA[对用户表示不支持]]></string>
+    <string name="_bx_persons_txt_sample_score_down_single"><![CDATA[对用户表示反对]]></string>
     <string name="_bx_persons_txt_sample_pp_single"><![CDATA[头像]]></string>
     <string name="_bx_persons_txt_sample_pp_single_with_article"><![CDATA[头像]]></string>
     <string name="_bx_persons_txt_sample_pc_single"><![CDATA[档案封面]]></string>

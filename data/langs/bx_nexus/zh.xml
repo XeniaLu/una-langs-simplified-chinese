@@ -3,18 +3,18 @@
 	<string name="_sys_module_nexus"><![CDATA[Nexus]]></string>
 	<string name="_bx_nexus"><![CDATA[Nexus]]></string>
 
-	<string name="_bx_nexus_setting"><![CDATA[Nexus Setting]]></string>
+	<string name="_bx_nexus_setting"><![CDATA[Nexus 设置]]></string>
     <string name="_bx_nexus_adm_stg_cpt_type"><![CDATA[Nexus]]></string>
-    <string name="_bx_nexus_adm_stg_cpt_category_general"><![CDATA[General]]></string>
-    <string name="_bx_nexus_option_styles"><![CDATA[Custom CSS styles for mobile apps]]></string>
-    <string name="_bx_nexus_option_guest_pages"><![CDATA[Comma separated list of pages URIs, which are avalilable for guests]]></string>
-    <string name="_bx_nexus_option_custom_homepage"><![CDATA[Display custom homepage with login form only]]></string>
+    <string name="_bx_nexus_adm_stg_cpt_category_general"><![CDATA[通用]]></string>
+    <string name="_bx_nexus_option_styles"><![CDATA[移动应用的自定义 CSS 样式]]></string>
+    <string name="_bx_nexus_option_guest_pages"><![CDATA[以逗号分隔的页面 URL 列表，可供访客使用]]></string>
+    <string name="_bx_nexus_option_custom_homepage"><![CDATA[仅使用登录表单显示自定义首页]]></string>
 
-	<string name="_bx_nexus_information"><![CDATA[Information]]></string>
-    <string name="_bx_nexus_information_block"><![CDATA[This module adds neccesary styles and functionalty for proper functionality of UNA Nexus apps. Installing this module isn't enough, you need to get source code of mobile apps then modify them for your needs then publish in Google and Apple stores.]]></string>
+	<string name="_bx_nexus_information"><![CDATA[信息]]></string>
+    <string name="_bx_nexus_information_block"><![CDATA[该模块添加了必要的样式和功能，以实现 UNA Nexus 应用的正常功能。仅安装此模块还不够，您需要获取移动应用的源代码，然后根据需要对其进行修改，再在 Google 和 Apple 商店中发布。]]></string>
 
-    <string name="_bx_nexus_pull_to_refresh"><![CDATA[Pull to refresh]]></string> <!-- потяни, чтобы обновить -->
-    <string name="_bx_nexus_release_to_refresh"><![CDATA[Release to refresh]]></string> <!-- отпусти, чтобы обновить -->
-    <string name="_bx_nexus_refreshing"><![CDATA[Refreshing]]></string> <!-- обновление -->
+    <string name="_bx_nexus_pull_to_refresh"><![CDATA[下拉刷新]]></string> <!-- потяни, чтобы обновить -->
+    <string name="_bx_nexus_release_to_refresh"><![CDATA[释放刷新]]></string> <!-- отпусти, чтобы обновить -->
+    <string name="_bx_nexus_refreshing"><![CDATA[加载中]]></string> <!-- обновление -->
 
 </resources>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources name="zh" flag="zh" title="Simplified Chinese">
-	<string name="_bx_new_comments"><![CDATA[New Comments]]></string>
-  <string name="_bx_new_comments_txt_new"><![CDATA[NEW!]]></string>
-  <string name="_bx_new_comments_session_interval"><![CDATA[Session interval in min]]></string>
-  <string name="_bx_new_comments_menu_item_title_system_is_new_comment"><![CDATA[New comment]]></string>
-  <string name="_bx_new_comments_menu_item_title_is_new_comment"><![CDATA[New comment]]></string>
+	<string name="_bx_new_comments"><![CDATA[新评论]]></string>
+  <string name="_bx_new_comments_txt_new"><![CDATA[新！]]></string>
+  <string name="_bx_new_comments_session_interval"><![CDATA[会话间隔（以分钟为单位）]]></string>
+  <string name="_bx_new_comments_menu_item_title_system_is_new_comment"><![CDATA[新评论]]></string>
+  <string name="_bx_new_comments_menu_item_title_is_new_comment"><![CDATA[新评论]]></string>
 </resources>

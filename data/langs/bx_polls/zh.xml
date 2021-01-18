@@ -248,7 +248,7 @@
     <string name="_bx_polls_txt_sample_vote_single"><![CDATA[对投票进行投票]]></string>
     <string name="_bx_polls_txt_sample_reaction_single"><![CDATA[对投票表达 '{0}']]></string>
     <string name="_bx_polls_txt_sample_score_up_single"><![CDATA[对投票表示支持]]></string>
-    <string name="_bx_polls_txt_sample_score_down_single"><![CDATA[对投票表示不支持]]></string>
+    <string name="_bx_polls_txt_sample_score_down_single"><![CDATA[对投票表示反对]]></string>
     <string name="_bx_polls_txt_subentry_vote_do_by"><![CDATA[投票]]></string>
     <string name="_bx_polls_txt_subentry_vote_counter"><![CDATA[{0} 票]]></string>
     <string name="_bx_polls_txt_subentry_vote_percent"><![CDATA[({0}%)]]></string>

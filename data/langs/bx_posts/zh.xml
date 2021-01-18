@@ -321,7 +321,7 @@
     <string name="_bx_posts_txt_sample_vote_single"><![CDATA[对帖子进行投票]]></string>
     <string name="_bx_posts_txt_sample_reaction_single"><![CDATA[对帖子表达 '{0}']]></string>
     <string name="_bx_posts_txt_sample_score_up_single"><![CDATA[对帖子表示支持]]></string>
-    <string name="_bx_posts_txt_sample_score_down_single"><![CDATA[对帖子表示不支持]]></string>
+    <string name="_bx_posts_txt_sample_score_down_single"><![CDATA[对帖子表示反对]]></string>
     <string name="_bx_posts_txt_processing_awaiting"><![CDATA[计划在视频处理完成之后立即发布。]]></string>
     <string name="_bx_posts_txt_processing_failed"><![CDATA[视频处理失败，无法发布帖子，请您编辑视频来解决此问题。]]></string>
     <string name="_bx_posts_txt_scheduled_awaiting"><![CDATA[帖子发布日期为 {date_publish_uf}]]></string>

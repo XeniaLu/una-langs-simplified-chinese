@@ -262,5 +262,5 @@
     <string name="_bx_snipcart_txt_sample_vote_single"><![CDATA[对商品进行投票]]></string>
     <string name="_bx_snipcart_txt_sample_reaction_single"><![CDATA[对商品表达 '{0}']]></string>
     <string name="_bx_snipcart_txt_sample_score_up_single"><![CDATA[对商品表示支持]]></string>
-    <string name="_bx_snipcart_txt_sample_score_down_single"><![CDATA[对商品表示不支持]]></string>
+    <string name="_bx_snipcart_txt_sample_score_down_single"><![CDATA[对商品表示反对]]></string>
 </resources>
