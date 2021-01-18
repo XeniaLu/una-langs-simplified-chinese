@@ -95,7 +95,7 @@
     <string name="_bx_payment_grid_column_title_pdrs_description"><![CDATA[描述]]></string>
     <string name="_bx_payment_grid_column_title_pdrs_for_visitor"><![CDATA[对访客开放]]></string>
     <string name="_bx_payment_grid_column_title_pdrs_for_single"><![CDATA[单次支付]]></string>
-    <string name="_bx_payment_grid_column_title_pdrs_for_recurring"><![CDATA[自动续期]]></string>
+    <string name="_bx_payment_grid_column_title_pdrs_for_recurring"><![CDATA[自动续订]]></string>
     <string name="_bx_payment_grid_column_title_pdrs_single_seller"><![CDATA[个人卖家]]></string>
     <string name="_bx_payment_grid_column_title_pdrs_time_tracker"><![CDATA[记录时间]]></string>
     <string name="_bx_payment_grid_column_title_ods_client_id"><![CDATA[客户]]></string>
@@ -177,7 +177,7 @@
 	<string name="_bx_payment_form_processed_input_client_err"><![CDATA[请您在此处输入一位会员的姓名]]></string>
 	<string name="_bx_payment_form_processed_input_order_sys"><![CDATA[订单]]></string>
 	<string name="_bx_payment_form_processed_input_order"><![CDATA[订单]]></string>
-	<string name="_bx_payment_form_processed_input_order_err"><![CDATA[Y请在此处输入订单编号。]]></string>
+	<string name="_bx_payment_form_processed_input_order_err"><![CDATA[请在此处输入订单编号。]]></string>
 	<string name="_bx_payment_form_processed_input_module_id_sys"><![CDATA[模块]]></string>
 	<string name="_bx_payment_form_processed_input_module_id"><![CDATA[模块]]></string>
 	<string name="_bx_payment_form_processed_input_module_id_err"><![CDATA[请您选择一个模块。]]></string>
