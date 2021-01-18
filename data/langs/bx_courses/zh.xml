@@ -115,7 +115,7 @@
     <string name="_bx_courses_page_block_title_profile_friends_link"><![CDATA[<a href="{profile_link}">{display_name}</a>的好友]]></string>
     <string name="_bx_courses_page_block_title_profile_friends"><![CDATA[好友]]></string>
     <string name="_bx_courses_page_block_title_system_profile_friends"><![CDATA[好友]]></string>
-    <string name="_bx_courses_page_block_title_admins"><![CDATA[指导书]]></string>
+    <string name="_bx_courses_page_block_title_admins"><![CDATA[老师]]></string>
     <string name="_bx_courses_page_block_title_fans_link"><![CDATA[<a href="{profile_link}">{display_name}</a>的学员]]></string>
     <string name="_bx_courses_page_block_title_fans"><![CDATA[学员]]></string>
     <string name="_bx_courses_page_block_title_system_fans"><![CDATA[学员]]></string>
