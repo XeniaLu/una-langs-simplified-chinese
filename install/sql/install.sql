@@ -2,7 +2,7 @@
 -- General section.
 --
 SET @sName = 'bx_zh';
-INSERT INTO `sys_localization_languages`(`Name`, `Flag`, `Title`, `Enabled`) VALUES('zh', 'zh', 'Simplified Chinese', '0');
+INSERT INTO `sys_localization_languages`(`Name`, `Flag`, `Title`, `Enabled`) VALUES('zh', 'cn', '简体中文', '0');
 
 
 --

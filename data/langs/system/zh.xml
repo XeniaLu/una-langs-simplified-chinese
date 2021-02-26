@@ -2207,7 +2207,7 @@
 	<string name="_sys_file_handlers_code_viewer"><![CDATA[代码查看器]]></string>
 	<string name="_sys_form_account"><![CDATA[账号]]></string>
 	<string name="_sys_form_account_input_agreement"><![CDATA[]]></string>
-	<string name="_sys_form_account_input_agreement_value"><![CDATA[<div class="bx-def-font-small bx-def-font-grayed">By signing up, you agree to the <a href="{0}">Terms of Service</a> and <a href="{1}">Privacy Policy</a>.</div>]]></string>
+	<string name="_sys_form_account_input_agreement_value"><![CDATA[<div class="bx-def-font-small bx-def-font-grayed">注册即表示您同意<a href="{0}">服务条款</a>及<a href="{1}">隐私政策</a>。</div>]]></string>
 	<string name="_sys_form_account_input_captcha"><![CDATA[验证码图片]]></string>
 	<string name="_sys_form_account_input_captcha_error"><![CDATA[验证码图片内容输入错误，请再试一次。]]></string>
 	<string name="_sys_form_account_input_captcha_label_text_image"><![CDATA[请输入图片中的文字：]]></string>
